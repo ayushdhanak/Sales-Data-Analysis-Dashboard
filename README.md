@@ -30,6 +30,8 @@ Data Collection → Data Cleaning → Data Analysis → Visualization → Dashbo
 - `Sales_Data_Analysis.ipynb` – Python analysis notebook
 - `Sales_Analysis_Results.xlsx` – Analysis results
 - `Sales_Analysis_Results_DashBoard.xlsx` – Excel dashboard
+- `Ayush_Dhanak_Sales_Data_Analysis_Project_Report` – Final project report.
+- `Ayush_Dhanak_Sales_Data_Analysis_Final_Presentation` – Final project presentation.
 
 ## 6. Key Business Insights
 1. Technology was the highest sales-generating category.
