@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Region,State,Category,Sub_Category,Product,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Mode,Customer_Segment
+ORD-00001,2023-04-14,CUST-0216,Central,Chhattisgarh,Technology,Accessories,Headphones,2,45404.58,0.2,72647.33,2504.47,Cash,Consumer
+ORD-00002,2025-06-20,CUST-0028,West,Gujarat,Technology,Phones,Cordless Phone,4,41940.27,0.05,159373.03,13136.28,Debit Card,Consumer
+ORD-00003,2025-11-29,CUST-0228,West,Goa,Office Supplies,Paper,Sticky Notes,1,338.44,0.15,287.67,43.87,UPI,Consumer
+ORD-00004,2025-11-26,CUST-0023,North,Delhi,Furniture,Storage,Storage Rack,3,13533.34,0.0,40600.02,6151.63,Debit Card,Consumer
+ORD-00005,2024-04-24,CUST-0030,North,Delhi,Technology,Phones,Smartphone,8,43620.46,0.15,296619.13,4896.64,Credit Card,Corporate
+ORD-00006,2023-06-03,CUST-0240,North,Rajasthan,Technology,Computers,Laptop,6,44441.58,0.0,266649.48,37961.62,Cash,Corporate
+ORD-00007,2023-06-03,CUST-0197,North,Haryana,Office Supplies,Binders,File Folder,1,524.8,0.0,524.8,115.3,Debit Card,Consumer
+ORD-00008,2023-11-30,CUST-0295,Central,Chhattisgarh,Office Supplies,Binders,File Folder,7,516.51,0.0,3615.57,845.38,Credit Card,Consumer
+ORD-00009,2023-11-18,CUST-0152,West,Goa,Furniture,Storage,Bookshelf,8,5424.22,0.1,39054.38,4297.78,Cash,Corporate
+ORD-00010,2023-04-09,CUST-0216,North,Punjab,Office Supplies,Paper,A4 Paper Pack,1,49.76,0.1,44.78,9.5,UPI,Consumer
+ORD-00011,2023-11-27,CUST-0288,West,Maharashtra,Office Supplies,Binders,File Folder,2,361.49,0.1,650.68,88.46,UPI,Consumer
+ORD-00012,2025-11-28,CUST-0237,North,Rajasthan,Office Supplies,Binders,Document Wallet,7,261.31,0.1,1646.25,363.51,Debit Card,Consumer
+ORD-00013,2023-12-02,CUST-0139,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,6,206.06,0.1,1112.72,193.84,Net Banking,Corporate
+ORD-00014,2024-12-13,CUST-0237,North,Haryana,Technology,Phones,Feature Phone,1,38070.34,0.0,38070.34,5568.73,UPI,Consumer
+ORD-00015,2023-07-06,CUST-0135,Central,Madhya Pradesh,Furniture,Storage,Bookshelf,7,10783.78,0.15,64163.49,5380.54,Credit Card,Consumer
+ORD-00016,2023-04-01,CUST-0133,North,Delhi,Office Supplies,Binders,File Folder,1,710.98,0.05,675.43,219.17,Net Banking,Consumer
+ORD-00017,2024-04-26,CUST-0003,South,Tamil Nadu,Furniture,Storage,Bookshelf,7,9611.77,0.0,67282.39,14621.09,Net Banking,Consumer
+ORD-00018,2024-12-23,CUST-0097,North,Haryana,Furniture,Tables,Coffee Table,2,5421.59,0.1,9758.86,1264.35,UPI,Small Business
+ORD-00019,2025-06-28,CUST-0061,West,Maharashtra,Furniture,Chairs,Dining Chair,3,6991.14,0.15,17827.41,1174.78,Net Banking,Consumer
+ORD-00020,2023-02-19,CUST-0046,South,Telangana,Furniture,Storage,Storage Rack,5,3380.64,0.05,16058.04,1730.61,Net Banking,Corporate
+ORD-00021,2025-04-26,CUST-0266,West,Goa,Office Supplies,Paper,Notebook,1,304.86,0.1,274.37,64.13,UPI,Corporate
+ORD-00022,2025-06-29,CUST-0111,North,Punjab,Office Supplies,Writing,Ball Pen Set,1,136.8,0.0,136.8,32.37,Debit Card,Small Business
+ORD-00023,2024-07-02,CUST-0053,Central,Madhya Pradesh,Technology,Computers,Monitor,4,63175.76,0.0,252703.04,38364.14,Credit Card,Consumer
+ORD-00024,2024-09-28,CUST-0008,Central,Chhattisgarh,Furniture,Chairs,Dining Chair,7,12649.59,0.0,88547.13,14902.98,Cash,Corporate
+ORD-00025,2023-11-26,CUST-0095,West,Maharashtra,Furniture,Tables,Coffee Table,8,7457.62,0.05,56677.91,9710.86,Net Banking,Consumer
+ORD-00026,2023-04-27,CUST-0002,West,Goa,Furniture,Tables,Office Desk,7,11594.56,0.0,81161.92,15257.47,Net Banking,Consumer
+ORD-00027,2023-01-20,CUST-0076,Central,Chhattisgarh,Office Supplies,Binders,File Folder,7,712.74,0.0,4989.18,1119.98,Cash,Consumer
+ORD-00028,2024-03-28,CUST-0035,North,Haryana,Office Supplies,Writing,Highlighter,3,554.7,0.05,1580.89,413.93,Cash,Small Business
+ORD-00029,2025-06-13,CUST-0143,North,Punjab,Furniture,Chairs,Ergonomic Office Chair,7,13555.25,0.0,94886.75,13188.8,Debit Card,Consumer
+ORD-00030,2023-07-01,CUST-0137,Central,Chhattisgarh,Technology,Computers,Laptop,5,59882.84,0.0,299414.2,40515.59,UPI,Consumer
+ORD-00031,2025-01-16,CUST-0296,South,Karnataka,Furniture,Storage,Bookshelf,5,10845.02,0.05,51513.85,8490.07,Debit Card,Small Business
+ORD-00032,2023-10-01,CUST-0085,West,Goa,Furniture,Tables,Study Table,2,4643.04,0.1,8357.47,1157.55,UPI,Consumer
+ORD-00033,2025-10-10,CUST-0241,West,Gujarat,Furniture,Chairs,Visitor Chair,4,1409.33,0.0,5637.32,1197.71,Net Banking,Small Business
+ORD-00034,2023-05-28,CUST-0291,North,Rajasthan,Office Supplies,Binders,File Folder,6,707.73,0.05,4034.06,919.12,Net Banking,Consumer
+ORD-00035,2024-06-07,CUST-0102,West,Gujarat,Office Supplies,Paper,A4 Paper Pack,4,151.6,0.05,576.08,163.01,Credit Card,Consumer
+ORD-00036,2025-11-05,CUST-0232,South,Tamil Nadu,Technology,Phones,Cordless Phone,7,19472.75,0.15,115862.86,13686.98,Credit Card,Consumer
+ORD-00037,2024-11-24,CUST-0011,West,Goa,Office Supplies,Paper,Sticky Notes,7,493.47,0.0,3454.29,983.21,Credit Card,Corporate
+ORD-00038,2025-03-06,CUST-0218,South,Kerala,Furniture,Storage,Filing Cabinet,5,2164.18,0.0,10820.9,1352.38,UPI,Small Business
+ORD-00039,2025-11-02,CUST-0016,Central,Chhattisgarh,Technology,Accessories,Headphones,8,51733.69,0.0,413869.52,40319.33,UPI,Corporate
+ORD-00040,2024-07-26,CUST-0156,Central,Madhya Pradesh,Technology,Phones,Feature Phone,6,30422.54,0.1,164281.72,16343.76,Debit Card,Consumer
+ORD-00041,2024-12-22,CUST-0063,Central,Chhattisgarh,Furniture,Storage,Bookshelf,4,2034.91,0.05,7732.66,1024.71,Cash,Consumer
+ORD-00042,2023-12-11,CUST-0026,South,Kerala,Office Supplies,Binders,Ring Binder,5,346.85,0.0,1734.25,456.83,Net Banking,Consumer
+ORD-00043,2025-05-05,CUST-0196,South,Tamil Nadu,Office Supplies,Paper,Notebook,3,844.44,0.05,2406.65,536.44,Net Banking,Corporate
+ORD-00044,2023-05-14,CUST-0164,West,Goa,Furniture,Chairs,Visitor Chair,1,11648.79,0.1,10483.91,1142.54,UPI,Consumer
+ORD-00045,2023-11-27,CUST-0164,South,Kerala,Technology,Computers,Desktop,1,28889.84,0.15,24556.36,1649.44,UPI,Small Business
+ORD-00046,2025-12-31,CUST-0187,Central,Chhattisgarh,Technology,Computers,Monitor,6,7140.66,0.1,38559.56,3464.13,UPI,Small Business
+ORD-00047,2023-08-06,CUST-0273,West,Maharashtra,Furniture,Tables,Study Table,7,14093.44,0.15,83855.97,9705.56,UPI,Consumer
+ORD-00048,2025-07-19,CUST-0291,Central,Madhya Pradesh,Office Supplies,Writing,Highlighter,3,237.54,0.0,712.62,196.85,Net Banking,Corporate
+ORD-00049,2023-05-17,CUST-0165,West,Goa,Office Supplies,Binders,Ring Binder,1,205.55,0.05,195.27,52.7,Cash,Small Business
+ORD-00050,2025-02-17,CUST-0153,North,Delhi,Office Supplies,Paper,A4 Paper Pack,1,265.56,0.2,212.45,19.47,UPI,Corporate
+ORD-00051,2023-04-11,CUST-0178,Central,Madhya Pradesh,Office Supplies,Binders,Document Wallet,3,180.62,0.0,541.86,115.18,Debit Card,Corporate
+ORD-00052,2023-11-27,CUST-0078,North,Haryana,Technology,Accessories,Wireless Mouse,5,61505.08,0.1,276772.86,33863.93,Cash,Small Business
+ORD-00053,2023-05-11,CUST-0029,Central,Madhya Pradesh,Technology,Computers,Desktop,2,30952.43,0.0,61904.86,9013.76,Credit Card,Consumer
+ORD-00054,2023-08-27,CUST-0277,West,Gujarat,Office Supplies,Writing,Marker Set,7,385.64,0.1,2429.53,378.74,UPI,Consumer
+ORD-00055,2025-02-08,CUST-0185,North,Punjab,Furniture,Chairs,Dining Chair,5,10401.01,0.1,46804.55,6154.16,Credit Card,Corporate
+ORD-00056,2024-07-15,CUST-0039,North,Haryana,Technology,Accessories,Keyboard,8,23602.56,0.1,169938.43,14989.11,Net Banking,Consumer
+ORD-00057,2024-06-25,CUST-0261,South,Telangana,Office Supplies,Paper,A4 Paper Pack,4,758.52,0.0,3034.08,829.2,Net Banking,Consumer
+ORD-00058,2025-03-24,CUST-0212,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,1,20574.6,0.0,20574.6,1446.84,Net Banking,Consumer
+ORD-00059,2025-11-16,CUST-0128,South,Karnataka,Office Supplies,Writing,Ball Pen Set,5,347.48,0.2,1389.92,215.74,Credit Card,Corporate
+ORD-00060,2023-08-18,CUST-0214,Central,Chhattisgarh,Technology,Computers,Desktop,6,944.62,0.05,5384.33,731.68,UPI,Corporate
+ORD-00061,2023-06-05,CUST-0099,West,Goa,Technology,Phones,Cordless Phone,6,64373.33,0.05,366927.98,35596.14,UPI,Corporate
+ORD-00062,2025-09-21,CUST-0058,Central,Uttar Pradesh,Technology,Computers,Laptop,2,11965.0,0.0,23930.0,2038.8,Credit Card,Consumer
+ORD-00063,2025-07-13,CUST-0123,West,Gujarat,Technology,Phones,Smartphone,7,16027.47,0.1,100973.06,7949.31,Cash,Corporate
+ORD-00064,2025-07-14,CUST-0207,South,Karnataka,Technology,Computers,Desktop,8,22165.06,0.05,168454.46,20698.78,Net Banking,Consumer
+ORD-00065,2024-06-30,CUST-0007,North,Rajasthan,Technology,Phones,Cordless Phone,5,22303.25,0.05,105940.44,8622.71,Credit Card,Small Business
+ORD-00066,2023-01-28,CUST-0127,South,Telangana,Furniture,Chairs,Dining Chair,3,3853.05,0.15,9825.28,1146.56,Credit Card,Consumer
+ORD-00067,2025-12-12,CUST-0296,South,Karnataka,Furniture,Chairs,Visitor Chair,6,11590.97,0.1,62591.24,10557.78,Cash,Small Business
+ORD-00068,2023-05-06,CUST-0195,South,Telangana,Office Supplies,Binders,Document Wallet,1,784.12,0.1,705.71,108.55,Debit Card,Corporate
+ORD-00069,2025-04-01,CUST-0090,North,Rajasthan,Office Supplies,Paper,A4 Paper Pack,8,668.37,0.0,5346.96,1027.62,UPI,Corporate
+ORD-00070,2024-03-27,CUST-0067,West,Gujarat,Office Supplies,Writing,Marker Set,2,880.79,0.1,1585.42,379.88,Debit Card,Corporate
+ORD-00071,2023-02-23,CUST-0229,North,Rajasthan,Office Supplies,Paper,A4 Paper Pack,8,354.25,0.0,2834.0,731.84,Cash,Corporate
+ORD-00072,2023-09-15,CUST-0134,Central,Chhattisgarh,Office Supplies,Binders,Document Wallet,8,72.6,0.1,522.72,93.87,UPI,Consumer
+ORD-00073,2025-01-06,CUST-0158,North,Haryana,Furniture,Storage,Filing Cabinet,5,16173.61,0.0,80868.05,7727.16,Credit Card,Small Business
+ORD-00074,2025-08-29,CUST-0203,West,Maharashtra,Technology,Accessories,Keyboard,5,18044.92,0.0,90224.6,14461.62,Credit Card,Corporate
+ORD-00075,2023-05-30,CUST-0019,North,Rajasthan,Office Supplies,Binders,Ring Binder,5,384.91,0.1,1732.1,232.84,Credit Card,Small Business
+ORD-00076,2023-08-10,CUST-0289,Central,Uttar Pradesh,Furniture,Chairs,Dining Chair,3,1675.42,0.0,5026.26,751.84,Cash,Consumer
+ORD-00077,2023-11-08,CUST-0169,North,Punjab,Office Supplies,Writing,Highlighter,8,500.55,0.15,3403.74,366.93,Credit Card,Small Business
+ORD-00078,2023-11-25,CUST-0054,North,Haryana,Office Supplies,Paper,Notebook,1,598.49,0.0,598.49,167.13,UPI,Small Business
+ORD-00079,2024-04-25,CUST-0177,Central,Madhya Pradesh,Technology,Phones,Cordless Phone,6,51002.61,0.05,290714.88,45441.75,Cash,Corporate
+ORD-00080,2023-04-22,CUST-0234,South,Kerala,Office Supplies,Binders,Ring Binder,3,519.09,0.1,1401.54,252.46,Debit Card,Consumer
+ORD-00081,2023-09-27,CUST-0080,Central,Madhya Pradesh,Office Supplies,Writing,Ball Pen Set,1,65.74,0.0,65.74,14.33,Debit Card,Consumer
+ORD-00082,2025-02-04,CUST-0148,Central,Madhya Pradesh,Furniture,Tables,Office Desk,8,1559.25,0.0,12474.0,2489.18,Credit Card,Consumer
+ORD-00083,2024-07-10,CUST-0124,Central,Madhya Pradesh,Furniture,Tables,Coffee Table,1,521.58,0.05,495.5,48.45,Debit Card,Corporate
+ORD-00084,2024-06-09,CUST-0224,North,Rajasthan,Furniture,Chairs,Ergonomic Office Chair,8,4743.45,0.1,34152.84,6015.72,Credit Card,Small Business
+ORD-00085,2023-02-21,CUST-0027,North,Delhi,Technology,Computers,Monitor,5,9991.9,0.0,49959.5,7480.69,UPI,Consumer
+ORD-00086,2024-09-15,CUST-0149,West,Maharashtra,Furniture,Storage,Filing Cabinet,1,4728.68,0.1,4255.81,254.95,UPI,Small Business
+ORD-00087,2023-10-06,CUST-0291,South,Telangana,Furniture,Storage,Storage Rack,3,15471.1,0.15,39451.31,2444.9,Cash,Small Business
+ORD-00088,2024-10-20,CUST-0191,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,1,725.32,0.0,725.32,197.46,Credit Card,Consumer
+ORD-00089,2025-03-05,CUST-0248,West,Maharashtra,Technology,Accessories,Wireless Mouse,6,10965.33,0.1,59212.78,8616.34,Credit Card,Small Business
+ORD-00090,2023-07-09,CUST-0080,Central,Uttar Pradesh,Furniture,Storage,Bookshelf,1,12629.17,0.05,11997.71,1282.64,UPI,Consumer
+ORD-00091,2025-08-22,CUST-0055,South,Kerala,Technology,Accessories,Wireless Mouse,1,58350.32,0.05,55432.8,4136.12,Credit Card,Consumer
+ORD-00092,2023-01-20,CUST-0255,North,Haryana,Technology,Accessories,Keyboard,2,54396.88,0.1,97914.38,11952.69,Net Banking,Consumer
+ORD-00093,2025-03-06,CUST-0216,South,Telangana,Technology,Accessories,Keyboard,5,44125.94,0.1,198566.73,15959.2,Net Banking,Consumer
+ORD-00094,2024-03-23,CUST-0198,West,Gujarat,Furniture,Chairs,Visitor Chair,4,9604.03,0.0,38416.12,7333.67,Credit Card,Corporate
+ORD-00095,2025-07-30,CUST-0103,North,Delhi,Office Supplies,Paper,A4 Paper Pack,8,203.6,0.15,1384.48,175.59,Debit Card,Corporate
+ORD-00096,2025-03-12,CUST-0134,South,Kerala,Technology,Accessories,Keyboard,6,48276.14,0.1,260691.16,36405.61,UPI,Small Business
+ORD-00097,2025-03-25,CUST-0297,South,Kerala,Office Supplies,Binders,Ring Binder,4,207.83,0.0,831.32,263.26,Credit Card,Corporate
+ORD-00098,2024-09-28,CUST-0173,West,Goa,Technology,Accessories,Wireless Mouse,5,39665.99,0.05,188413.45,27586.54,Net Banking,Consumer
+ORD-00099,2023-06-28,CUST-0008,Central,Madhya Pradesh,Technology,Accessories,Keyboard,3,8739.29,0.1,23596.08,406.0,Net Banking,Consumer
+ORD-00100,2023-08-10,CUST-0018,Central,Madhya Pradesh,Office Supplies,Binders,Document Wallet,4,271.96,0.0,1087.84,256.47,Debit Card,Consumer
+ORD-00101,2024-06-27,CUST-0041,Central,Madhya Pradesh,Technology,Phones,Cordless Phone,6,42500.62,0.0,255003.72,35590.57,Credit Card,Corporate
+ORD-00102,2025-11-10,CUST-0283,North,Rajasthan,Office Supplies,Paper,Sticky Notes,3,884.66,0.0,2653.98,690.33,Credit Card,Consumer
+ORD-00103,2023-07-01,CUST-0033,North,Delhi,Office Supplies,Writing,Marker Set,5,501.86,0.0,2509.3,599.95,Net Banking,Consumer
+ORD-00104,2025-04-12,CUST-0182,South,Telangana,Technology,Computers,Desktop,1,26464.36,0.1,23817.92,3348.55,Net Banking,Consumer
+ORD-00105,2023-07-16,CUST-0056,Central,Chhattisgarh,Furniture,Tables,Study Table,5,15313.37,0.05,72738.51,12507.05,Credit Card,Corporate
+ORD-00106,2023-09-30,CUST-0011,Central,Chhattisgarh,Office Supplies,Writing,Marker Set,6,491.84,0.0,2951.04,704.92,Net Banking,Small Business
+ORD-00107,2024-08-11,CUST-0108,Central,Chhattisgarh,Technology,Phones,Feature Phone,4,34551.03,0.05,131293.91,15118.49,UPI,Small Business
+ORD-00108,2023-08-16,CUST-0115,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,8,512.34,0.0,4098.72,1159.57,UPI,Small Business
+ORD-00109,2024-08-05,CUST-0043,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,5,378.39,0.0,1891.95,278.93,Net Banking,Corporate
+ORD-00110,2023-02-24,CUST-0198,North,Punjab,Furniture,Storage,Storage Rack,5,6474.27,0.0,32371.35,5278.44,Cash,Corporate
+ORD-00111,2024-12-01,CUST-0085,South,Kerala,Furniture,Chairs,Visitor Chair,3,8164.82,0.0,24494.46,3239.0,Credit Card,Consumer
+ORD-00112,2024-03-06,CUST-0125,North,Punjab,Furniture,Tables,Study Table,4,11564.95,0.15,39320.83,2457.95,Cash,Consumer
+ORD-00113,2024-01-11,CUST-0296,North,Haryana,Technology,Phones,Feature Phone,5,61766.46,0.0,308832.3,51187.54,Net Banking,Consumer
+ORD-00114,2024-08-05,CUST-0109,West,Gujarat,Office Supplies,Writing,Highlighter,4,892.87,0.1,3214.33,724.73,Net Banking,Consumer
+ORD-00115,2024-07-11,CUST-0057,South,Telangana,Technology,Computers,Desktop,5,46855.92,0.15,199137.66,17191.82,Cash,Consumer
+ORD-00116,2025-01-01,CUST-0092,South,Tamil Nadu,Technology,Phones,Smartphone,3,6189.11,0.1,16710.6,1862.71,UPI,Consumer
+ORD-00117,2025-01-01,CUST-0230,West,Maharashtra,Office Supplies,Writing,Highlighter,8,244.61,0.0,1956.88,470.46,UPI,Consumer
+ORD-00118,2025-02-07,CUST-0224,North,Haryana,Office Supplies,Writing,Ball Pen Set,5,501.61,0.2,2006.44,127.8,Credit Card,Corporate
+ORD-00119,2023-01-26,CUST-0289,Central,Madhya Pradesh,Office Supplies,Binders,File Folder,5,626.32,0.05,2975.02,661.8,Cash,Consumer
+ORD-00120,2024-06-20,CUST-0243,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper Pack,6,503.76,0.1,2720.3,457.88,Credit Card,Small Business
+ORD-00121,2025-04-18,CUST-0188,West,Goa,Office Supplies,Writing,Highlighter,8,678.14,0.1,4882.61,1369.96,Debit Card,Consumer
+ORD-00122,2024-03-25,CUST-0088,South,Telangana,Technology,Phones,Smartphone,3,38191.0,0.0,114573.0,14209.75,Net Banking,Consumer
+ORD-00123,2023-06-01,CUST-0035,North,Delhi,Technology,Accessories,Headphones,2,54586.51,0.1,98255.72,4518.62,Credit Card,Small Business
+ORD-00124,2025-10-19,CUST-0282,North,Delhi,Furniture,Chairs,Dining Chair,8,11344.2,0.2,72602.88,5701.6,UPI,Corporate
+ORD-00125,2025-07-01,CUST-0152,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,6,127.3,0.0,763.8,183.55,Debit Card,Consumer
+ORD-00126,2024-07-20,CUST-0036,North,Haryana,Office Supplies,Paper,Sticky Notes,1,899.5,0.0,899.5,240.44,Net Banking,Consumer
+ORD-00127,2024-01-23,CUST-0272,North,Punjab,Technology,Phones,Smartphone,7,43779.12,0.1,275808.46,10355.65,Net Banking,Consumer
+ORD-00128,2025-09-05,CUST-0275,North,Punjab,Office Supplies,Writing,Highlighter,2,457.39,0.0,914.78,231.22,UPI,Consumer
+ORD-00129,2024-04-23,CUST-0102,North,Haryana,Furniture,Tables,Study Table,1,509.08,0.1,458.17,54.32,Cash,Corporate
+ORD-00130,2024-08-13,CUST-0128,North,Delhi,Furniture,Chairs,Visitor Chair,5,14904.68,0.15,63344.89,9239.47,Credit Card,Corporate
+ORD-00131,2024-05-24,CUST-0188,South,Tamil Nadu,Office Supplies,Paper,Notebook,6,682.73,0.05,3891.56,593.25,Credit Card,Corporate
+ORD-00132,2025-06-21,CUST-0257,West,Maharashtra,Furniture,Tables,Study Table,1,3568.56,0.05,3390.13,631.22,UPI,Corporate
+ORD-00133,2025-08-14,CUST-0142,Central,Uttar Pradesh,Technology,Phones,Cordless Phone,8,63419.82,0.0,507358.56,49950.74,Cash,Consumer
+ORD-00134,2025-02-17,CUST-0280,North,Haryana,Technology,Computers,Desktop,3,53898.41,0.0,161695.23,20579.69,Cash,Consumer
+ORD-00135,2024-09-07,CUST-0040,South,Tamil Nadu,Technology,Phones,Cordless Phone,3,53773.09,0.05,153253.31,19205.3,Debit Card,Consumer
+ORD-00136,2023-08-21,CUST-0234,North,Haryana,Office Supplies,Writing,Ball Pen Set,1,30.93,0.15,26.29,4.74,UPI,Small Business
+ORD-00137,2023-08-24,CUST-0091,Central,Uttar Pradesh,Technology,Computers,Monitor,3,4101.76,0.1,11074.75,465.36,Cash,Consumer
+ORD-00138,2023-05-28,CUST-0104,West,Maharashtra,Furniture,Chairs,Dining Chair,1,3582.42,0.15,3045.06,225.04,Credit Card,Consumer
+ORD-00139,2025-08-31,CUST-0226,South,Tamil Nadu,Furniture,Storage,Filing Cabinet,7,4094.33,0.15,24361.26,114.26,UPI,Consumer
+ORD-00140,2025-06-17,CUST-0133,North,Haryana,Furniture,Chairs,Visitor Chair,1,13699.75,0.05,13014.76,2341.22,UPI,Consumer
+ORD-00141,2023-07-06,CUST-0160,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,8,731.39,0.2,4680.9,461.33,Debit Card,Small Business
+ORD-00142,2023-12-18,CUST-0240,West,Gujarat,Technology,Computers,Desktop,6,8541.41,0.0,51248.46,9958.39,Net Banking,Consumer
+ORD-00143,2025-10-12,CUST-0232,South,Tamil Nadu,Technology,Accessories,Keyboard,4,41246.41,0.15,140237.79,7221.58,Credit Card,Consumer
+ORD-00144,2023-12-18,CUST-0160,West,Gujarat,Technology,Phones,Feature Phone,3,36147.34,0.0,108442.02,15035.61,UPI,Consumer
+ORD-00145,2025-04-08,CUST-0292,South,Telangana,Technology,Computers,Laptop,7,36683.04,0.0,256781.28,28435.45,Net Banking,Consumer
+ORD-00146,2025-10-09,CUST-0185,Central,Chhattisgarh,Furniture,Tables,Coffee Table,1,7368.48,0.1,6631.63,834.37,UPI,Corporate
+ORD-00147,2024-06-28,CUST-0171,West,Gujarat,Furniture,Tables,Coffee Table,2,15412.54,0.05,29283.83,4527.76,Cash,Consumer
+ORD-00148,2023-06-26,CUST-0065,West,Goa,Technology,Computers,Desktop,6,17754.63,0.1,95875.0,1004.59,Debit Card,Small Business
+ORD-00149,2025-08-20,CUST-0117,Central,Chhattisgarh,Office Supplies,Writing,Ball Pen Set,8,547.02,0.05,4157.35,554.52,Net Banking,Consumer
+ORD-00150,2024-02-10,CUST-0265,Central,Uttar Pradesh,Office Supplies,Writing,Marker Set,8,399.73,0.05,3037.95,550.48,Cash,Corporate
+ORD-00151,2024-07-24,CUST-0174,Central,Madhya Pradesh,Technology,Computers,Monitor,8,1802.08,0.05,13695.81,2111.41,UPI,Corporate
+ORD-00152,2024-07-26,CUST-0173,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,8,431.7,0.0,3453.6,848.43,UPI,Consumer
+ORD-00153,2025-12-03,CUST-0298,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,4,733.8,0.0,2935.2,801.39,Net Banking,Corporate
+ORD-00154,2025-12-24,CUST-0062,North,Punjab,Technology,Accessories,Wireless Mouse,3,34865.4,0.2,83676.96,3467.53,Cash,Consumer
+ORD-00155,2023-05-09,CUST-0282,South,Kerala,Furniture,Chairs,Visitor Chair,8,15155.83,0.0,121246.64,29942.27,UPI,Consumer
+ORD-00156,2023-03-11,CUST-0238,Central,Chhattisgarh,Technology,Computers,Desktop,8,29064.79,0.2,186014.66,11192.5,UPI,Consumer
+ORD-00157,2025-06-28,CUST-0109,Central,Chhattisgarh,Furniture,Storage,Storage Rack,5,12887.27,0.2,51549.08,4338.88,Net Banking,Consumer
+ORD-00158,2025-12-01,CUST-0137,West,Goa,Technology,Accessories,Keyboard,2,58455.17,0.1,105219.31,-1614.79,Debit Card,Consumer
+ORD-00159,2025-05-04,CUST-0251,North,Punjab,Technology,Phones,Smartphone,5,5263.99,0.05,25003.95,2224.93,Cash,Consumer
+ORD-00160,2024-07-19,CUST-0013,North,Delhi,Furniture,Chairs,Visitor Chair,4,4327.32,0.15,14712.89,708.52,Credit Card,Consumer
+ORD-00161,2025-09-27,CUST-0239,North,Delhi,Furniture,Chairs,Ergonomic Office Chair,3,10449.97,0.05,29782.41,4532.65,Credit Card,Corporate
+ORD-00162,2023-04-10,CUST-0187,West,Gujarat,Office Supplies,Binders,Document Wallet,1,332.67,0.0,332.67,94.76,Net Banking,Consumer
+ORD-00163,2024-12-16,CUST-0243,North,Rajasthan,Technology,Accessories,Wireless Mouse,2,21017.53,0.1,37831.55,4307.31,Credit Card,Corporate
+ORD-00164,2024-06-29,CUST-0282,West,Maharashtra,Office Supplies,Writing,Ball Pen Set,5,123.36,0.05,585.96,128.66,Debit Card,Small Business
+ORD-00165,2024-10-11,CUST-0184,Central,Uttar Pradesh,Technology,Computers,Desktop,6,4576.97,0.0,27461.82,3706.22,UPI,Small Business
+ORD-00166,2025-06-20,CUST-0272,Central,Uttar Pradesh,Office Supplies,Paper,Notebook,7,82.49,0.1,519.69,94.15,Debit Card,Corporate
+ORD-00167,2025-01-06,CUST-0180,Central,Chhattisgarh,Office Supplies,Paper,Notebook,7,606.4,0.2,3395.84,373.94,Debit Card,Corporate
+ORD-00168,2025-03-27,CUST-0113,North,Haryana,Office Supplies,Binders,File Folder,5,217.48,0.0,1087.4,314.67,Cash,Corporate
+ORD-00169,2023-06-19,CUST-0099,Central,Chhattisgarh,Furniture,Tables,Study Table,7,17230.82,0.0,120615.74,23610.44,Debit Card,Small Business
+ORD-00170,2024-06-08,CUST-0075,South,Kerala,Office Supplies,Writing,Ball Pen Set,7,341.18,0.0,2388.26,612.01,Credit Card,Consumer
+ORD-00171,2025-05-07,CUST-0062,South,Telangana,Office Supplies,Paper,A4 Paper Pack,2,448.58,0.1,807.44,177.57,Debit Card,Corporate
+ORD-00172,2024-03-05,CUST-0053,North,Delhi,Technology,Phones,Smartphone,3,30519.62,0.0,91558.86,12680.02,Credit Card,Consumer
+ORD-00173,2023-09-16,CUST-0110,North,Delhi,Technology,Computers,Laptop,8,24160.42,0.1,173955.02,10433.7,Debit Card,Corporate
+ORD-00174,2025-09-22,CUST-0229,Central,Chhattisgarh,Office Supplies,Binders,File Folder,7,804.11,0.1,5065.89,1179.14,UPI,Consumer
+ORD-00175,2024-08-28,CUST-0214,South,Tamil Nadu,Technology,Accessories,Keyboard,7,37038.84,0.15,220381.1,28166.12,Credit Card,Corporate
+ORD-00176,2023-12-11,CUST-0247,Central,Chhattisgarh,Office Supplies,Writing,Highlighter,2,804.21,0.05,1528.0,334.37,Cash,Small Business
+ORD-00177,2023-08-02,CUST-0230,North,Punjab,Technology,Accessories,Wireless Mouse,2,11244.55,0.0,22489.1,2690.59,Debit Card,Corporate
+ORD-00178,2023-10-18,CUST-0090,Central,Chhattisgarh,Furniture,Storage,Bookshelf,8,14709.79,0.15,100026.57,10242.46,Cash,Corporate
+ORD-00179,2024-04-16,CUST-0233,North,Delhi,Furniture,Tables,Coffee Table,1,5130.46,0.05,4873.94,747.56,Cash,Corporate
+ORD-00180,2024-09-17,CUST-0063,South,Tamil Nadu,Office Supplies,Writing,Ball Pen Set,5,33.75,0.2,135.0,20.53,Credit Card,Consumer
+ORD-00181,2024-02-12,CUST-0170,South,Kerala,Furniture,Chairs,Dining Chair,2,13573.83,0.0,27147.66,3950.67,Debit Card,Consumer
+ORD-00182,2024-03-27,CUST-0022,South,Kerala,Office Supplies,Writing,Highlighter,2,885.2,0.05,1681.88,388.26,Credit Card,Corporate
+ORD-00183,2023-07-23,CUST-0058,Central,Chhattisgarh,Furniture,Tables,Office Desk,2,4009.84,0.05,7618.7,1297.33,Cash,Small Business
+ORD-00184,2023-05-29,CUST-0279,South,Kerala,Furniture,Tables,Study Table,3,4957.75,0.15,12642.26,1468.08,Credit Card,Corporate
+ORD-00185,2025-05-08,CUST-0185,South,Tamil Nadu,Furniture,Chairs,Ergonomic Office Chair,4,11686.88,0.0,46747.52,8729.39,Net Banking,Corporate
+ORD-00186,2024-11-09,CUST-0037,Central,Madhya Pradesh,Furniture,Storage,Storage Rack,1,5851.5,0.1,5266.35,655.15,Cash,Small Business
+ORD-00187,2025-03-27,CUST-0128,Central,Chhattisgarh,Technology,Phones,Cordless Phone,8,34402.88,0.15,233939.58,-6314.91,UPI,Consumer
+ORD-00188,2025-05-12,CUST-0233,North,Haryana,Technology,Accessories,Keyboard,7,25832.84,0.15,153705.4,15685.77,Cash,Corporate
+ORD-00189,2025-03-02,CUST-0118,North,Haryana,Furniture,Tables,Coffee Table,1,17310.96,0.15,14714.32,2663.93,Credit Card,Corporate
+ORD-00190,2025-08-17,CUST-0181,South,Tamil Nadu,Office Supplies,Paper,A4 Paper Pack,5,388.77,0.0,1943.85,438.43,Credit Card,Small Business
+ORD-00191,2024-10-26,CUST-0285,North,Rajasthan,Technology,Phones,Cordless Phone,2,22061.46,0.1,39710.63,2366.34,UPI,Consumer
+ORD-00192,2024-01-17,CUST-0253,West,Goa,Technology,Accessories,Keyboard,4,3824.84,0.15,13004.46,860.61,Credit Card,Small Business
+ORD-00193,2025-03-28,CUST-0165,West,Maharashtra,Office Supplies,Binders,Ring Binder,2,783.95,0.15,1332.72,164.97,Debit Card,Corporate
+ORD-00194,2025-02-17,CUST-0279,West,Maharashtra,Furniture,Tables,Study Table,4,17274.02,0.1,62186.47,2712.08,Debit Card,Consumer
+ORD-00195,2025-06-08,CUST-0039,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,7,802.61,0.0,5618.27,1530.61,UPI,Small Business
+ORD-00196,2023-08-21,CUST-0115,Central,Chhattisgarh,Office Supplies,Writing,Ball Pen Set,3,177.15,0.0,531.45,106.86,UPI,Small Business
+ORD-00197,2025-04-28,CUST-0093,Central,Madhya Pradesh,Furniture,Tables,Coffee Table,1,10654.2,0.1,9588.78,1168.1,Cash,Consumer
+ORD-00198,2023-07-06,CUST-0127,West,Goa,Technology,Computers,Desktop,1,30530.5,0.1,27477.45,2442.67,UPI,Consumer
+ORD-00199,2023-03-27,CUST-0226,West,Goa,Technology,Computers,Monitor,8,55702.52,0.1,401058.14,27187.27,Credit Card,Corporate
+ORD-00200,2024-08-30,CUST-0047,South,Kerala,Technology,Computers,Desktop,3,19016.76,0.1,51345.25,8439.49,Cash,Consumer
+ORD-00201,2024-05-04,CUST-0299,North,Haryana,Office Supplies,Binders,Document Wallet,7,94.44,0.05,628.03,112.99,Credit Card,Consumer
+ORD-00202,2025-04-13,CUST-0025,West,Goa,Furniture,Storage,Storage Rack,1,10051.47,0.05,9548.9,2026.4,Cash,Small Business
+ORD-00203,2023-03-20,CUST-0155,West,Gujarat,Technology,Accessories,Keyboard,1,48004.11,0.05,45603.9,1241.65,Net Banking,Consumer
+ORD-00204,2023-08-26,CUST-0194,South,Tamil Nadu,Office Supplies,Binders,File Folder,4,187.37,0.0,749.48,187.16,Debit Card,Corporate
+ORD-00205,2025-10-28,CUST-0059,South,Telangana,Furniture,Chairs,Dining Chair,1,3199.95,0.0,3199.95,571.54,Credit Card,Corporate
+ORD-00206,2024-07-02,CUST-0108,North,Punjab,Office Supplies,Paper,A4 Paper Pack,8,818.04,0.1,5889.89,1346.58,Net Banking,Consumer
+ORD-00207,2025-12-24,CUST-0103,South,Tamil Nadu,Furniture,Storage,Bookshelf,7,10692.78,0.2,59879.57,5205.89,Cash,Small Business
+ORD-00208,2023-11-29,CUST-0135,North,Rajasthan,Furniture,Tables,Office Desk,2,15074.65,0.05,28641.83,5930.54,Net Banking,Small Business
+ORD-00209,2024-09-06,CUST-0124,South,Kerala,Furniture,Chairs,Ergonomic Office Chair,1,10077.45,0.05,9573.58,1533.55,Debit Card,Corporate
+ORD-00210,2025-07-21,CUST-0032,West,Gujarat,Technology,Accessories,Wireless Mouse,5,12469.12,0.05,59228.32,2438.99,Cash,Consumer
+ORD-00211,2023-10-29,CUST-0277,Central,Madhya Pradesh,Technology,Phones,Smartphone,8,42717.77,0.0,341742.16,53526.9,Debit Card,Consumer
+ORD-00212,2024-04-30,CUST-0189,Central,Chhattisgarh,Furniture,Tables,Office Desk,6,8282.04,0.0,49692.24,10725.74,Net Banking,Consumer
+ORD-00213,2023-08-11,CUST-0059,South,Karnataka,Office Supplies,Binders,File Folder,8,160.53,0.1,1155.82,200.46,Debit Card,Small Business
+ORD-00214,2023-09-03,CUST-0145,West,Gujarat,Technology,Computers,Desktop,6,23538.39,0.0,141230.34,26801.81,Cash,Consumer
+ORD-00215,2025-06-07,CUST-0260,North,Punjab,Office Supplies,Paper,Notebook,5,705.68,0.1,3175.56,733.1,Debit Card,Corporate
+ORD-00216,2024-03-29,CUST-0171,South,Karnataka,Furniture,Storage,Bookshelf,2,8460.65,0.0,16921.3,2408.73,Net Banking,Consumer
+ORD-00217,2023-01-14,CUST-0059,South,Kerala,Furniture,Chairs,Visitor Chair,5,17158.75,0.1,77214.38,8382.06,Net Banking,Small Business
+ORD-00218,2024-11-04,CUST-0151,Central,Uttar Pradesh,Furniture,Chairs,Visitor Chair,8,11241.99,0.05,85439.12,16095.63,UPI,Corporate
+ORD-00219,2024-07-12,CUST-0040,South,Karnataka,Office Supplies,Paper,Sticky Notes,6,441.05,0.0,2646.3,607.57,Cash,Consumer
+ORD-00220,2025-03-15,CUST-0198,West,Maharashtra,Furniture,Storage,Filing Cabinet,5,16994.95,0.0,84974.75,20066.62,Credit Card,Small Business
+ORD-00221,2025-01-29,CUST-0136,West,Maharashtra,Office Supplies,Binders,Document Wallet,1,254.37,0.2,203.5,25.79,UPI,Corporate
+ORD-00222,2023-11-09,CUST-0220,West,Gujarat,Furniture,Tables,Office Desk,2,13690.99,0.0,27381.98,4302.02,Debit Card,Corporate
+ORD-00223,2025-08-28,CUST-0082,Central,Uttar Pradesh,Office Supplies,Paper,Notebook,3,130.83,0.05,372.87,79.43,UPI,Corporate
+ORD-00224,2024-03-30,CUST-0128,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,6,28809.76,0.05,164215.63,16711.5,UPI,Corporate
+ORD-00225,2023-09-30,CUST-0230,North,Punjab,Office Supplies,Writing,Ball Pen Set,4,41.99,0.05,159.56,36.45,Net Banking,Consumer
+ORD-00226,2024-01-13,CUST-0030,West,Gujarat,Technology,Phones,Smartphone,7,33604.89,0.05,223472.52,14501.46,Cash,Small Business
+ORD-00227,2025-05-13,CUST-0295,North,Delhi,Office Supplies,Paper,Sticky Notes,7,277.78,0.1,1750.01,308.74,Net Banking,Consumer
+ORD-00228,2025-12-18,CUST-0031,North,Punjab,Technology,Accessories,Wireless Mouse,1,22024.51,0.0,22024.51,2227.06,Net Banking,Consumer
+ORD-00229,2023-02-26,CUST-0237,Central,Uttar Pradesh,Office Supplies,Paper,Notebook,2,143.9,0.15,244.63,42.34,Debit Card,Consumer
+ORD-00230,2023-10-11,CUST-0049,South,Tamil Nadu,Office Supplies,Writing,Marker Set,8,874.89,0.05,6649.16,1169.11,Debit Card,Consumer
+ORD-00231,2023-07-24,CUST-0121,North,Rajasthan,Technology,Phones,Feature Phone,2,63480.13,0.0,126960.26,16010.71,Credit Card,Consumer
+ORD-00232,2024-01-25,CUST-0139,South,Telangana,Furniture,Tables,Coffee Table,5,5110.82,0.0,25554.1,6313.79,Debit Card,Consumer
+ORD-00233,2024-01-11,CUST-0167,Central,Chhattisgarh,Technology,Phones,Smartphone,4,58530.91,0.0,234123.64,22741.68,UPI,Consumer
+ORD-00234,2024-10-26,CUST-0206,South,Telangana,Furniture,Chairs,Visitor Chair,2,16895.88,0.1,30412.58,2638.25,Net Banking,Consumer
+ORD-00235,2024-11-02,CUST-0182,South,Karnataka,Technology,Computers,Desktop,4,11769.83,0.0,47079.32,7465.57,Credit Card,Consumer
+ORD-00236,2023-11-03,CUST-0126,West,Maharashtra,Furniture,Tables,Study Table,3,1074.17,0.0,3222.51,576.16,Credit Card,Consumer
+ORD-00237,2025-04-09,CUST-0014,North,Punjab,Furniture,Tables,Study Table,3,4037.0,0.2,9688.8,941.73,Debit Card,Consumer
+ORD-00238,2025-09-08,CUST-0215,West,Maharashtra,Office Supplies,Paper,Sticky Notes,4,764.52,0.05,2905.18,656.02,Net Banking,Consumer
+ORD-00239,2023-04-13,CUST-0201,Central,Chhattisgarh,Furniture,Storage,Storage Rack,1,13976.59,0.1,12578.93,1912.19,UPI,Corporate
+ORD-00240,2024-03-29,CUST-0139,West,Gujarat,Office Supplies,Binders,Ring Binder,8,270.05,0.0,2160.4,609.0,Credit Card,Consumer
+ORD-00241,2024-04-11,CUST-0016,West,Gujarat,Office Supplies,Paper,A4 Paper Pack,8,807.56,0.0,6460.48,1625.12,Debit Card,Consumer
+ORD-00242,2024-03-29,CUST-0201,North,Haryana,Furniture,Storage,Filing Cabinet,5,10401.33,0.15,44205.65,4461.68,Net Banking,Corporate
+ORD-00243,2023-07-06,CUST-0095,North,Rajasthan,Office Supplies,Paper,A4 Paper Pack,5,488.02,0.15,2074.09,438.81,Credit Card,Small Business
+ORD-00244,2024-10-17,CUST-0153,West,Maharashtra,Technology,Accessories,Headphones,3,4060.44,0.15,10354.12,463.31,Debit Card,Consumer
+ORD-00245,2023-07-23,CUST-0101,Central,Uttar Pradesh,Furniture,Tables,Coffee Table,3,16157.75,0.0,48473.25,7351.9,Cash,Consumer
+ORD-00246,2025-08-14,CUST-0277,North,Delhi,Furniture,Storage,Storage Rack,3,8468.66,0.05,24135.68,4191.76,UPI,Consumer
+ORD-00247,2024-05-10,CUST-0166,South,Kerala,Office Supplies,Binders,Ring Binder,6,338.99,0.05,1932.24,347.65,Net Banking,Consumer
+ORD-00248,2024-01-07,CUST-0240,North,Haryana,Furniture,Tables,Study Table,1,11940.28,0.1,10746.25,642.77,Net Banking,Corporate
+ORD-00249,2024-08-11,CUST-0141,North,Rajasthan,Furniture,Storage,Bookshelf,7,6946.02,0.0,48622.14,7167.51,Credit Card,Consumer
+ORD-00250,2024-03-01,CUST-0300,South,Tamil Nadu,Furniture,Storage,Bookshelf,3,11471.67,0.0,34415.01,5544.82,Cash,Consumer
+ORD-00251,2025-05-19,CUST-0298,North,Haryana,Office Supplies,Paper,Notebook,8,821.52,0.0,6572.16,1543.16,Cash,Small Business
+ORD-00252,2025-04-03,CUST-0251,West,Gujarat,Furniture,Tables,Office Desk,6,2714.87,0.05,15474.76,2008.25,Net Banking,Corporate
+ORD-00253,2023-02-09,CUST-0047,West,Gujarat,Office Supplies,Binders,Document Wallet,1,786.08,0.1,707.47,152.3,Net Banking,Corporate
+ORD-00254,2023-08-12,CUST-0214,North,Punjab,Furniture,Storage,Filing Cabinet,3,12816.11,0.0,38448.33,6868.08,Cash,Consumer
+ORD-00255,2023-12-04,CUST-0022,North,Punjab,Office Supplies,Paper,Sticky Notes,2,561.15,0.0,1122.3,256.2,Cash,Consumer
+ORD-00256,2024-05-31,CUST-0028,West,Maharashtra,Office Supplies,Writing,Highlighter,2,688.16,0.05,1307.5,338.23,Credit Card,Consumer
+ORD-00257,2023-03-28,CUST-0229,South,Tamil Nadu,Technology,Accessories,Headphones,7,64676.86,0.05,430101.12,45451.24,Credit Card,Consumer
+ORD-00258,2023-02-05,CUST-0224,North,Delhi,Office Supplies,Writing,Marker Set,7,829.74,0.0,5808.18,1580.37,UPI,Consumer
+ORD-00259,2024-06-29,CUST-0094,North,Rajasthan,Furniture,Chairs,Ergonomic Office Chair,4,10538.71,0.1,37939.36,4760.15,Net Banking,Consumer
+ORD-00260,2024-09-14,CUST-0210,South,Tamil Nadu,Office Supplies,Paper,Sticky Notes,5,351.53,0.0,1757.65,466.89,UPI,Corporate
+ORD-00261,2025-07-04,CUST-0267,West,Maharashtra,Office Supplies,Paper,A4 Paper Pack,6,780.42,0.0,4682.52,1120.46,UPI,Small Business
+ORD-00262,2024-06-19,CUST-0121,South,Karnataka,Technology,Computers,Desktop,8,51760.28,0.05,393378.13,62030.23,UPI,Corporate
+ORD-00263,2025-01-20,CUST-0019,West,Maharashtra,Technology,Phones,Cordless Phone,8,43322.6,0.0,346580.8,53433.88,Credit Card,Consumer
+ORD-00264,2024-02-05,CUST-0064,North,Punjab,Technology,Computers,Laptop,7,16492.72,0.0,115449.04,7194.6,Cash,Consumer
+ORD-00265,2023-01-10,CUST-0054,North,Haryana,Office Supplies,Paper,A4 Paper Pack,5,161.02,0.0,805.1,203.66,Net Banking,Consumer
+ORD-00266,2024-01-29,CUST-0060,North,Haryana,Furniture,Storage,Filing Cabinet,7,13731.32,0.0,96119.24,20032.28,Net Banking,Consumer
+ORD-00267,2025-05-18,CUST-0117,North,Delhi,Furniture,Tables,Office Desk,2,10937.79,0.1,19688.02,2597.13,Net Banking,Consumer
+ORD-00268,2025-01-17,CUST-0060,South,Telangana,Technology,Computers,Laptop,5,60593.4,0.2,242373.6,4282.92,Debit Card,Consumer
+ORD-00269,2025-10-17,CUST-0226,North,Delhi,Furniture,Storage,Filing Cabinet,7,1679.05,0.0,11753.35,2017.52,Cash,Consumer
+ORD-00270,2024-11-23,CUST-0268,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper Pack,7,631.91,0.1,3981.03,738.16,Cash,Consumer
+ORD-00271,2024-12-29,CUST-0115,North,Punjab,Office Supplies,Paper,Sticky Notes,2,541.14,0.05,1028.17,227.15,Net Banking,Consumer
+ORD-00272,2023-02-23,CUST-0228,Central,Madhya Pradesh,Technology,Accessories,Keyboard,1,37259.14,0.05,35396.18,3183.98,Debit Card,Corporate
+ORD-00273,2024-08-12,CUST-0032,South,Telangana,Office Supplies,Paper,Sticky Notes,8,573.54,0.1,4129.49,567.13,Credit Card,Consumer
+ORD-00274,2023-09-01,CUST-0114,West,Goa,Office Supplies,Paper,A4 Paper Pack,2,545.28,0.1,981.5,229.52,Debit Card,Consumer
+ORD-00275,2024-07-23,CUST-0235,North,Punjab,Technology,Computers,Monitor,3,47084.99,0.05,134192.22,13050.12,UPI,Consumer
+ORD-00276,2023-04-26,CUST-0257,Central,Uttar Pradesh,Office Supplies,Binders,File Folder,8,234.31,0.0,1874.48,401.81,Credit Card,Corporate
+ORD-00277,2024-03-16,CUST-0280,West,Goa,Furniture,Storage,Filing Cabinet,2,17284.18,0.0,34568.36,6065.34,Net Banking,Consumer
+ORD-00278,2023-02-07,CUST-0150,West,Gujarat,Furniture,Storage,Storage Rack,2,9225.5,0.1,16605.9,2522.67,Net Banking,Consumer
+ORD-00279,2024-12-04,CUST-0262,West,Maharashtra,Office Supplies,Binders,Document Wallet,7,493.2,0.05,3279.78,660.35,UPI,Consumer
+ORD-00280,2024-08-24,CUST-0120,South,Karnataka,Office Supplies,Binders,Ring Binder,8,227.23,0.0,1817.84,426.43,Debit Card,Consumer
+ORD-00281,2025-09-16,CUST-0162,West,Gujarat,Office Supplies,Binders,Ring Binder,1,824.69,0.15,700.99,118.31,Cash,Corporate
+ORD-00282,2025-05-06,CUST-0243,South,Telangana,Furniture,Chairs,Visitor Chair,2,10748.07,0.05,20421.33,3042.57,Debit Card,Consumer
+ORD-00283,2024-02-16,CUST-0185,Central,Uttar Pradesh,Technology,Computers,Laptop,8,34408.53,0.2,220214.59,1197.56,Credit Card,Consumer
+ORD-00284,2023-11-09,CUST-0072,South,Telangana,Technology,Phones,Feature Phone,3,61762.61,0.1,166759.05,17402.59,Credit Card,Consumer
+ORD-00285,2024-07-20,CUST-0143,West,Maharashtra,Office Supplies,Binders,Document Wallet,2,679.66,0.1,1223.39,225.41,UPI,Consumer
+ORD-00286,2025-04-03,CUST-0048,North,Haryana,Office Supplies,Binders,Ring Binder,6,515.1,0.15,2627.01,491.08,Cash,Corporate
+ORD-00287,2025-07-05,CUST-0106,West,Goa,Furniture,Chairs,Visitor Chair,3,955.3,0.0,2865.9,584.31,UPI,Consumer
+ORD-00288,2025-04-21,CUST-0259,West,Gujarat,Furniture,Chairs,Dining Chair,7,7541.49,0.15,44871.87,4100.22,UPI,Consumer
+ORD-00289,2025-11-07,CUST-0157,South,Kerala,Furniture,Tables,Office Desk,5,16993.83,0.05,80720.69,11404.31,Debit Card,Corporate
+ORD-00290,2024-12-30,CUST-0277,North,Delhi,Furniture,Tables,Office Desk,7,4569.66,0.05,30388.24,4519.09,Net Banking,Consumer
+ORD-00291,2025-08-01,CUST-0106,North,Rajasthan,Furniture,Chairs,Dining Chair,4,3955.94,0.15,13450.2,1480.38,Net Banking,Small Business
+ORD-00292,2024-09-06,CUST-0201,North,Delhi,Office Supplies,Writing,Marker Set,6,397.57,0.0,2385.42,635.54,Credit Card,Consumer
+ORD-00293,2024-04-14,CUST-0075,South,Tamil Nadu,Office Supplies,Binders,File Folder,2,483.25,0.05,918.17,244.99,Net Banking,Consumer
+ORD-00294,2023-11-15,CUST-0277,South,Telangana,Office Supplies,Writing,Marker Set,3,780.75,0.15,1990.91,431.74,Cash,Corporate
+ORD-00295,2025-03-27,CUST-0063,Central,Chhattisgarh,Office Supplies,Paper,Notebook,4,738.11,0.05,2804.82,745.59,Credit Card,Consumer
+ORD-00296,2024-03-07,CUST-0169,South,Karnataka,Furniture,Chairs,Visitor Chair,8,7439.67,0.0,59517.36,8843.55,Net Banking,Small Business
+ORD-00297,2024-05-05,CUST-0093,South,Karnataka,Technology,Accessories,Keyboard,5,40024.75,0.05,190117.56,9032.8,Debit Card,Consumer
+ORD-00298,2025-05-27,CUST-0026,Central,Uttar Pradesh,Office Supplies,Writing,Highlighter,6,327.0,0.15,1667.7,291.68,Debit Card,Consumer
+ORD-00299,2024-07-14,CUST-0019,West,Goa,Furniture,Storage,Storage Rack,4,4964.68,0.15,16879.91,1612.89,Net Banking,Small Business
+ORD-00300,2024-03-07,CUST-0202,North,Rajasthan,Furniture,Storage,Storage Rack,8,1062.61,0.15,7225.75,556.52,Debit Card,Consumer
+ORD-00301,2023-09-10,CUST-0241,South,Kerala,Office Supplies,Paper,Notebook,3,806.46,0.0,2419.38,629.5,Net Banking,Consumer
+ORD-00302,2024-07-05,CUST-0127,North,Delhi,Furniture,Chairs,Visitor Chair,3,4461.96,0.2,10708.7,850.12,Debit Card,Consumer
+ORD-00303,2025-03-22,CUST-0048,West,Goa,Technology,Computers,Desktop,3,11123.98,0.1,30034.75,2677.83,Credit Card,Small Business
+ORD-00304,2023-10-26,CUST-0018,West,Maharashtra,Technology,Phones,Feature Phone,5,21882.58,0.05,103942.26,10821.78,Debit Card,Corporate
+ORD-00305,2025-04-18,CUST-0054,Central,Uttar Pradesh,Furniture,Chairs,Visitor Chair,2,3562.11,0.05,6768.01,868.65,Credit Card,Consumer
+ORD-00306,2025-07-06,CUST-0122,West,Gujarat,Furniture,Storage,Bookshelf,5,13170.21,0.0,65851.05,11707.25,Cash,Small Business
+ORD-00307,2025-10-04,CUST-0009,South,Telangana,Office Supplies,Binders,File Folder,7,597.92,0.0,4185.44,883.46,UPI,Small Business
+ORD-00308,2023-06-27,CUST-0047,South,Tamil Nadu,Office Supplies,Paper,Sticky Notes,3,892.17,0.1,2408.86,465.46,UPI,Corporate
+ORD-00309,2023-05-29,CUST-0028,South,Tamil Nadu,Office Supplies,Binders,File Folder,5,255.98,0.0,1279.9,271.32,Cash,Consumer
+ORD-00310,2025-10-21,CUST-0213,North,Delhi,Office Supplies,Paper,Sticky Notes,5,499.08,0.05,2370.63,680.24,UPI,Corporate
+ORD-00311,2024-01-23,CUST-0102,Central,Chhattisgarh,Office Supplies,Paper,Notebook,7,575.29,0.1,3624.33,676.92,Net Banking,Consumer
+ORD-00312,2023-12-27,CUST-0272,South,Karnataka,Technology,Accessories,Wireless Mouse,6,16098.54,0.1,86932.12,10571.97,UPI,Consumer
+ORD-00313,2024-09-04,CUST-0077,Central,Chhattisgarh,Office Supplies,Binders,Ring Binder,4,54.61,0.0,218.44,62.86,Debit Card,Small Business
+ORD-00314,2025-12-10,CUST-0074,West,Maharashtra,Office Supplies,Binders,Ring Binder,8,861.6,0.1,6203.52,1402.74,Credit Card,Corporate
+ORD-00315,2025-06-24,CUST-0286,South,Telangana,Furniture,Storage,Filing Cabinet,2,8598.98,0.1,15478.16,1802.41,Cash,Consumer
+ORD-00316,2024-04-25,CUST-0112,South,Tamil Nadu,Furniture,Chairs,Visitor Chair,5,8077.47,0.0,40387.35,6335.26,Debit Card,Consumer
+ORD-00317,2024-04-17,CUST-0161,South,Karnataka,Office Supplies,Writing,Marker Set,3,360.8,0.15,920.04,201.75,Cash,Small Business
+ORD-00318,2024-03-30,CUST-0158,North,Haryana,Technology,Phones,Cordless Phone,8,29898.85,0.05,227231.26,30123.52,UPI,Consumer
+ORD-00319,2023-02-09,CUST-0006,West,Maharashtra,Technology,Accessories,Keyboard,2,60513.55,0.1,108924.39,1955.76,UPI,Consumer
+ORD-00320,2024-08-02,CUST-0059,West,Maharashtra,Furniture,Chairs,Ergonomic Office Chair,3,7522.86,0.0,22568.58,3639.55,UPI,Consumer
+ORD-00321,2025-10-28,CUST-0059,North,Punjab,Technology,Phones,Smartphone,4,1818.85,0.0,7275.4,1020.89,UPI,Small Business
+ORD-00322,2025-12-04,CUST-0169,South,Telangana,Office Supplies,Binders,Document Wallet,4,106.94,0.0,427.76,92.03,Debit Card,Consumer
+ORD-00323,2024-12-12,CUST-0123,North,Rajasthan,Furniture,Tables,Coffee Table,6,7134.69,0.2,34246.51,3092.93,Net Banking,Consumer
+ORD-00324,2024-05-15,CUST-0077,South,Telangana,Furniture,Tables,Office Desk,1,12286.49,0.0,12286.49,2826.9,Net Banking,Consumer
+ORD-00325,2025-01-08,CUST-0077,North,Haryana,Office Supplies,Binders,Ring Binder,1,170.11,0.0,170.11,33.78,Cash,Consumer
+ORD-00326,2024-09-09,CUST-0237,North,Punjab,Office Supplies,Binders,File Folder,8,210.64,0.15,1432.35,268.61,Debit Card,Consumer
+ORD-00327,2023-09-01,CUST-0200,South,Karnataka,Furniture,Tables,Study Table,7,17765.95,0.15,105707.4,7230.91,Credit Card,Consumer
+ORD-00328,2023-06-18,CUST-0141,Central,Madhya Pradesh,Office Supplies,Paper,Sticky Notes,8,791.51,0.1,5698.87,1139.53,Net Banking,Consumer
+ORD-00329,2025-09-28,CUST-0274,Central,Uttar Pradesh,Furniture,Tables,Study Table,6,4839.07,0.1,26130.98,2660.69,UPI,Consumer
+ORD-00330,2024-09-20,CUST-0060,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,2,18604.39,0.0,37208.78,4509.76,Cash,Consumer
+ORD-00331,2025-02-17,CUST-0053,North,Rajasthan,Technology,Accessories,Headphones,6,42590.38,0.1,229988.05,19539.97,Cash,Consumer
+ORD-00332,2023-03-08,CUST-0062,South,Karnataka,Office Supplies,Paper,A4 Paper Pack,4,239.93,0.05,911.73,210.02,Cash,Corporate
+ORD-00333,2024-06-02,CUST-0257,West,Goa,Technology,Computers,Desktop,1,36704.95,0.1,33034.46,1945.26,Net Banking,Consumer
+ORD-00334,2023-04-03,CUST-0161,South,Kerala,Technology,Accessories,Wireless Mouse,1,48532.46,0.1,43679.21,2565.05,UPI,Consumer
+ORD-00335,2025-02-04,CUST-0231,West,Goa,Technology,Phones,Cordless Phone,4,49594.23,0.0,198376.92,32813.73,Net Banking,Consumer
+ORD-00336,2024-06-03,CUST-0125,South,Tamil Nadu,Furniture,Tables,Office Desk,5,13490.82,0.1,60708.69,8717.33,UPI,Consumer
+ORD-00337,2023-03-12,CUST-0045,West,Goa,Office Supplies,Binders,File Folder,4,717.22,0.0,2868.88,556.57,Net Banking,Corporate
+ORD-00338,2024-02-21,CUST-0134,South,Telangana,Furniture,Chairs,Ergonomic Office Chair,8,11621.97,0.15,79029.4,8034.87,Debit Card,Corporate
+ORD-00339,2023-09-30,CUST-0248,Central,Chhattisgarh,Technology,Phones,Feature Phone,7,59733.53,0.15,355414.5,39658.26,Cash,Corporate
+ORD-00340,2023-08-25,CUST-0241,South,Telangana,Technology,Accessories,Keyboard,7,10070.23,0.0,70491.61,13282.75,Debit Card,Consumer
+ORD-00341,2023-07-19,CUST-0096,Central,Chhattisgarh,Technology,Phones,Feature Phone,6,26778.14,0.1,144601.96,16438.45,UPI,Small Business
+ORD-00342,2024-01-05,CUST-0232,Central,Chhattisgarh,Office Supplies,Paper,Sticky Notes,6,818.92,0.1,4422.17,1026.44,Credit Card,Consumer
+ORD-00343,2023-12-13,CUST-0224,Central,Madhya Pradesh,Office Supplies,Paper,Sticky Notes,5,692.03,0.0,3460.15,788.62,Debit Card,Small Business
+ORD-00344,2024-05-25,CUST-0097,North,Rajasthan,Office Supplies,Paper,Sticky Notes,2,869.19,0.0,1738.38,388.22,Credit Card,Consumer
+ORD-00345,2025-04-13,CUST-0174,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper Pack,6,864.66,0.1,4669.16,1003.94,Credit Card,Corporate
+ORD-00346,2025-02-18,CUST-0143,North,Delhi,Office Supplies,Paper,A4 Paper Pack,4,252.01,0.1,907.24,216.91,Cash,Consumer
+ORD-00347,2023-12-31,CUST-0019,West,Goa,Furniture,Storage,Bookshelf,8,3338.15,0.0,26705.2,6137.51,UPI,Consumer
+ORD-00348,2024-04-12,CUST-0208,North,Haryana,Furniture,Tables,Coffee Table,1,17019.07,0.15,14466.21,1070.29,UPI,Corporate
+ORD-00349,2024-02-17,CUST-0140,South,Kerala,Office Supplies,Binders,Ring Binder,1,705.91,0.0,705.91,187.23,Net Banking,Consumer
+ORD-00350,2025-07-29,CUST-0050,North,Rajasthan,Office Supplies,Paper,Sticky Notes,2,649.19,0.0,1298.38,324.19,Debit Card,Consumer
+ORD-00351,2023-03-04,CUST-0233,West,Maharashtra,Furniture,Tables,Study Table,7,1729.08,0.15,10288.03,1269.3,Net Banking,Small Business
+ORD-00352,2023-04-16,CUST-0241,West,Maharashtra,Office Supplies,Paper,Notebook,2,630.86,0.0,1261.72,396.08,Cash,Small Business
+ORD-00353,2023-02-14,CUST-0210,South,Telangana,Office Supplies,Binders,Document Wallet,3,619.87,0.15,1580.67,323.0,UPI,Consumer
+ORD-00354,2023-03-05,CUST-0044,South,Kerala,Furniture,Storage,Filing Cabinet,1,3541.1,0.0,3541.1,837.68,Net Banking,Consumer
+ORD-00355,2025-02-06,CUST-0078,South,Tamil Nadu,Furniture,Tables,Study Table,4,10185.05,0.1,36666.18,4821.34,Debit Card,Consumer
+ORD-00356,2025-10-01,CUST-0255,South,Karnataka,Office Supplies,Binders,Document Wallet,7,832.78,0.1,5246.51,1145.81,Debit Card,Consumer
+ORD-00357,2025-02-07,CUST-0203,Central,Madhya Pradesh,Furniture,Storage,Bookshelf,2,6654.79,0.1,11978.62,2324.17,UPI,Corporate
+ORD-00358,2023-10-28,CUST-0087,North,Punjab,Furniture,Storage,Bookshelf,7,6285.51,0.15,37398.78,3497.27,Cash,Consumer
+ORD-00359,2024-06-13,CUST-0040,West,Goa,Office Supplies,Binders,Ring Binder,3,593.84,0.05,1692.44,534.83,Debit Card,Consumer
+ORD-00360,2024-01-25,CUST-0284,South,Karnataka,Furniture,Tables,Coffee Table,2,5485.13,0.0,10970.26,2105.36,Debit Card,Small Business
+ORD-00361,2025-05-28,CUST-0037,West,Maharashtra,Furniture,Storage,Filing Cabinet,3,6546.9,0.15,16694.59,2081.62,Net Banking,Consumer
+ORD-00362,2023-04-22,CUST-0059,North,Punjab,Technology,Computers,Laptop,1,52309.08,0.0,52309.08,8357.53,UPI,Consumer
+ORD-00363,2023-09-07,CUST-0104,Central,Chhattisgarh,Furniture,Chairs,Dining Chair,1,6427.17,0.0,6427.17,1176.29,Net Banking,Consumer
+ORD-00364,2025-02-10,CUST-0125,West,Goa,Technology,Phones,Feature Phone,5,46217.73,0.15,196425.35,19293.36,Debit Card,Consumer
+ORD-00365,2023-04-14,CUST-0010,West,Maharashtra,Office Supplies,Binders,Ring Binder,1,269.8,0.0,269.8,67.84,Cash,Consumer
+ORD-00366,2024-09-26,CUST-0004,Central,Madhya Pradesh,Technology,Accessories,Keyboard,6,46899.73,0.05,267328.46,39448.11,Net Banking,Corporate
+ORD-00367,2023-12-16,CUST-0277,West,Gujarat,Technology,Phones,Smartphone,4,61277.47,0.0,245109.88,39596.39,UPI,Consumer
+ORD-00368,2024-08-21,CUST-0146,North,Haryana,Furniture,Chairs,Visitor Chair,5,16895.86,0.1,76031.37,11476.54,UPI,Corporate
+ORD-00369,2024-04-20,CUST-0166,West,Maharashtra,Furniture,Storage,Bookshelf,8,718.15,0.1,5170.68,493.63,Cash,Corporate
+ORD-00370,2025-10-31,CUST-0024,West,Gujarat,Office Supplies,Writing,Marker Set,1,224.04,0.0,224.04,58.69,Credit Card,Consumer
+ORD-00371,2024-07-24,CUST-0113,Central,Uttar Pradesh,Technology,Accessories,Headphones,8,19178.9,0.0,153431.2,18846.54,UPI,Consumer
+ORD-00372,2025-04-28,CUST-0158,South,Telangana,Office Supplies,Writing,Highlighter,8,542.97,0.05,4126.57,863.68,UPI,Consumer
+ORD-00373,2024-06-10,CUST-0259,Central,Madhya Pradesh,Technology,Phones,Feature Phone,8,36548.82,0.1,263151.5,17236.17,Credit Card,Consumer
+ORD-00374,2025-01-30,CUST-0112,North,Haryana,Technology,Phones,Smartphone,5,21638.08,0.1,97371.36,9221.75,Debit Card,Small Business
+ORD-00375,2024-04-10,CUST-0158,South,Kerala,Office Supplies,Paper,A4 Paper Pack,6,471.31,0.0,2827.86,761.43,Debit Card,Small Business
+ORD-00376,2023-08-11,CUST-0282,Central,Madhya Pradesh,Office Supplies,Binders,Document Wallet,5,514.44,0.1,2314.98,415.45,Net Banking,Consumer
+ORD-00377,2023-02-01,CUST-0256,Central,Madhya Pradesh,Furniture,Tables,Coffee Table,6,17546.92,0.1,94753.37,15609.16,UPI,Consumer
+ORD-00378,2024-07-27,CUST-0245,Central,Chhattisgarh,Office Supplies,Writing,Ball Pen Set,4,755.95,0.15,2570.23,436.28,Net Banking,Consumer
+ORD-00379,2023-05-27,CUST-0142,North,Punjab,Technology,Computers,Laptop,8,42910.29,0.05,326118.2,33871.02,Credit Card,Consumer
+ORD-00380,2025-08-01,CUST-0033,North,Haryana,Office Supplies,Writing,Ball Pen Set,3,769.75,0.0,2309.25,558.53,Debit Card,Consumer
+ORD-00381,2025-06-19,CUST-0271,North,Haryana,Furniture,Storage,Storage Rack,4,16675.07,0.1,60030.25,6778.59,Net Banking,Consumer
+ORD-00382,2023-01-08,CUST-0229,South,Karnataka,Technology,Computers,Laptop,4,21121.44,0.1,76037.18,7036.69,UPI,Consumer
+ORD-00383,2025-04-09,CUST-0012,West,Gujarat,Office Supplies,Paper,Notebook,6,620.79,0.0,3724.74,730.91,Cash,Consumer
+ORD-00384,2025-10-24,CUST-0024,South,Karnataka,Furniture,Chairs,Visitor Chair,3,14189.97,0.15,36184.42,3814.02,Cash,Consumer
+ORD-00385,2025-05-19,CUST-0145,North,Rajasthan,Furniture,Tables,Study Table,1,13648.17,0.1,12283.35,1315.8,Credit Card,Small Business
+ORD-00386,2024-08-28,CUST-0129,West,Gujarat,Technology,Computers,Desktop,4,26765.28,0.05,101708.06,4827.22,Net Banking,Small Business
+ORD-00387,2024-09-09,CUST-0238,North,Haryana,Technology,Accessories,Headphones,8,54531.45,0.1,392626.44,56337.67,Credit Card,Consumer
+ORD-00388,2023-05-22,CUST-0225,North,Haryana,Furniture,Storage,Storage Rack,3,11175.43,0.15,28497.35,1675.52,Cash,Consumer
+ORD-00389,2024-12-07,CUST-0223,North,Rajasthan,Technology,Computers,Desktop,5,291.59,0.1,1312.15,66.6,Debit Card,Corporate
+ORD-00390,2025-12-18,CUST-0268,South,Telangana,Furniture,Tables,Coffee Table,1,12877.18,0.2,10301.74,598.21,Cash,Corporate
+ORD-00391,2025-08-09,CUST-0240,West,Maharashtra,Technology,Computers,Monitor,5,33975.5,0.0,169877.5,24059.4,Debit Card,Consumer
+ORD-00392,2023-02-23,CUST-0002,South,Karnataka,Furniture,Tables,Coffee Table,4,8976.72,0.0,35906.88,4475.94,UPI,Corporate
+ORD-00393,2023-11-29,CUST-0163,North,Rajasthan,Furniture,Storage,Filing Cabinet,2,3202.78,0.15,5444.73,678.02,Net Banking,Consumer
+ORD-00394,2023-05-06,CUST-0195,Central,Madhya Pradesh,Technology,Accessories,Keyboard,2,64847.71,0.15,110241.11,11822.0,Debit Card,Consumer
+ORD-00395,2025-10-11,CUST-0157,Central,Uttar Pradesh,Technology,Phones,Cordless Phone,5,32513.58,0.1,146311.11,11295.4,Cash,Consumer
+ORD-00396,2025-08-01,CUST-0068,Central,Chhattisgarh,Furniture,Chairs,Visitor Chair,7,14713.33,0.05,97843.64,17431.02,Credit Card,Corporate
+ORD-00397,2024-02-29,CUST-0219,West,Maharashtra,Technology,Computers,Desktop,5,21120.2,0.15,89760.85,5029.94,Cash,Consumer
+ORD-00398,2025-09-29,CUST-0035,Central,Chhattisgarh,Office Supplies,Binders,File Folder,4,658.56,0.15,2239.1,387.71,Debit Card,Corporate
+ORD-00399,2023-04-06,CUST-0171,North,Punjab,Office Supplies,Paper,A4 Paper Pack,4,731.21,0.0,2924.84,841.33,Net Banking,Small Business
+ORD-00400,2024-07-03,CUST-0232,North,Rajasthan,Technology,Computers,Laptop,1,8669.12,0.0,8669.12,992.98,UPI,Consumer
+ORD-00401,2023-12-25,CUST-0275,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Office Chair,4,11980.83,0.1,43130.99,5222.05,Cash,Corporate
+ORD-00402,2024-11-12,CUST-0045,North,Punjab,Furniture,Storage,Bookshelf,5,17374.95,0.0,86874.75,18261.79,Net Banking,Corporate
+ORD-00403,2023-07-27,CUST-0156,North,Haryana,Office Supplies,Paper,Sticky Notes,2,589.17,0.0,1178.34,337.85,Debit Card,Consumer
+ORD-00404,2025-05-31,CUST-0215,North,Haryana,Furniture,Tables,Coffee Table,3,4291.3,0.05,12230.2,1774.55,UPI,Corporate
+ORD-00405,2024-03-02,CUST-0229,South,Karnataka,Furniture,Storage,Storage Rack,2,6625.76,0.0,13251.52,3162.88,Credit Card,Consumer
+ORD-00406,2023-06-23,CUST-0161,West,Maharashtra,Furniture,Storage,Bookshelf,5,1951.38,0.05,9269.06,1398.93,UPI,Consumer
+ORD-00407,2024-04-05,CUST-0291,West,Goa,Office Supplies,Paper,Sticky Notes,3,239.21,0.0,717.63,181.38,Credit Card,Consumer
+ORD-00408,2025-05-16,CUST-0278,West,Gujarat,Office Supplies,Writing,Ball Pen Set,8,330.89,0.15,2250.05,482.99,Debit Card,Consumer
+ORD-00409,2024-06-17,CUST-0179,West,Maharashtra,Office Supplies,Paper,A4 Paper Pack,6,400.37,0.0,2402.22,681.96,Credit Card,Small Business
+ORD-00410,2023-04-12,CUST-0298,South,Telangana,Technology,Computers,Laptop,5,39117.69,0.05,185809.03,20650.47,Debit Card,Consumer
+ORD-00411,2023-09-25,CUST-0162,South,Karnataka,Furniture,Chairs,Dining Chair,1,15958.54,0.1,14362.69,2394.34,UPI,Consumer
+ORD-00412,2025-08-08,CUST-0174,South,Tamil Nadu,Office Supplies,Writing,Marker Set,6,668.75,0.1,3611.25,959.78,Cash,Small Business
+ORD-00413,2024-06-04,CUST-0203,West,Goa,Office Supplies,Binders,Document Wallet,5,843.17,0.1,3794.26,717.11,Net Banking,Consumer
+ORD-00414,2025-02-16,CUST-0064,South,Kerala,Office Supplies,Writing,Highlighter,5,246.56,0.1,1109.52,191.22,Net Banking,Consumer
+ORD-00415,2025-03-05,CUST-0194,South,Telangana,Furniture,Storage,Storage Rack,4,4962.81,0.1,17866.12,2766.8,Credit Card,Consumer
+ORD-00416,2023-10-02,CUST-0174,Central,Chhattisgarh,Technology,Phones,Smartphone,2,46677.01,0.15,79350.92,5680.37,Credit Card,Consumer
+ORD-00417,2024-01-12,CUST-0004,South,Telangana,Technology,Phones,Cordless Phone,3,30333.02,0.0,90999.06,14293.76,Net Banking,Consumer
+ORD-00418,2023-03-06,CUST-0067,Central,Chhattisgarh,Technology,Accessories,Wireless Mouse,7,16352.7,0.1,103022.01,9044.15,Credit Card,Corporate
+ORD-00419,2025-06-15,CUST-0150,North,Haryana,Office Supplies,Binders,Document Wallet,6,622.19,0.1,3359.83,964.03,Cash,Consumer
+ORD-00420,2025-10-19,CUST-0207,West,Goa,Office Supplies,Binders,Ring Binder,3,757.42,0.0,2272.26,554.89,Net Banking,Small Business
+ORD-00421,2023-12-22,CUST-0031,South,Karnataka,Technology,Accessories,Headphones,6,14595.91,0.0,87575.46,11713.22,Debit Card,Corporate
+ORD-00422,2023-01-18,CUST-0152,South,Telangana,Office Supplies,Binders,File Folder,2,267.94,0.0,535.88,117.83,UPI,Consumer
+ORD-00423,2025-05-24,CUST-0264,Central,Madhya Pradesh,Office Supplies,Writing,Marker Set,3,844.04,0.1,2278.91,436.35,Debit Card,Consumer
+ORD-00424,2025-01-21,CUST-0126,South,Tamil Nadu,Technology,Computers,Desktop,2,18368.73,0.15,31226.84,1385.91,Cash,Consumer
+ORD-00425,2023-12-26,CUST-0185,South,Karnataka,Office Supplies,Binders,File Folder,2,265.54,0.15,451.42,48.62,Debit Card,Corporate
+ORD-00426,2025-01-21,CUST-0131,West,Gujarat,Technology,Phones,Smartphone,6,28730.5,0.0,172383.0,20321.62,Credit Card,Corporate
+ORD-00427,2024-07-11,CUST-0155,West,Gujarat,Office Supplies,Paper,Notebook,8,864.42,0.1,6223.82,1300.13,Credit Card,Consumer
+ORD-00428,2024-10-23,CUST-0044,South,Tamil Nadu,Furniture,Storage,Filing Cabinet,4,7341.81,0.0,29367.24,5744.67,Debit Card,Corporate
+ORD-00429,2024-01-12,CUST-0084,North,Delhi,Technology,Computers,Laptop,1,44015.17,0.15,37412.89,964.31,Debit Card,Consumer
+ORD-00430,2023-05-03,CUST-0193,Central,Uttar Pradesh,Technology,Phones,Feature Phone,2,13438.89,0.0,26877.78,2619.29,Debit Card,Consumer
+ORD-00431,2025-09-29,CUST-0086,Central,Chhattisgarh,Furniture,Storage,Filing Cabinet,5,13055.86,0.1,58751.37,4306.48,Net Banking,Consumer
+ORD-00432,2023-06-06,CUST-0214,South,Kerala,Office Supplies,Writing,Highlighter,5,251.65,0.1,1132.42,212.08,Debit Card,Small Business
+ORD-00433,2023-07-30,CUST-0228,West,Gujarat,Technology,Phones,Feature Phone,5,8893.86,0.0,44469.3,5751.2,Cash,Consumer
+ORD-00434,2024-08-22,CUST-0009,Central,Uttar Pradesh,Office Supplies,Paper,Sticky Notes,5,796.67,0.15,3385.85,531.54,Debit Card,Small Business
+ORD-00435,2024-08-20,CUST-0147,North,Punjab,Technology,Phones,Smartphone,8,33835.94,0.1,243618.77,22713.83,Credit Card,Small Business
+ORD-00436,2024-08-11,CUST-0029,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,2,517.25,0.15,879.32,143.04,Net Banking,Consumer
+ORD-00437,2023-10-16,CUST-0122,West,Gujarat,Technology,Computers,Laptop,1,32436.62,0.0,32436.62,4434.43,Debit Card,Consumer
+ORD-00438,2023-07-14,CUST-0224,North,Delhi,Furniture,Storage,Bookshelf,7,11145.26,0.15,66314.3,2120.37,UPI,Small Business
+ORD-00439,2025-02-22,CUST-0061,West,Maharashtra,Technology,Accessories,Headphones,7,61397.91,0.0,429785.37,34360.68,Net Banking,Small Business
+ORD-00440,2025-01-31,CUST-0101,South,Karnataka,Technology,Accessories,Wireless Mouse,2,8649.89,0.0,17299.78,1688.17,UPI,Consumer
+ORD-00441,2023-06-08,CUST-0174,South,Karnataka,Technology,Phones,Smartphone,5,62011.78,0.05,294555.96,47638.99,UPI,Consumer
+ORD-00442,2023-04-06,CUST-0063,West,Maharashtra,Furniture,Storage,Filing Cabinet,3,11906.77,0.05,33934.29,3731.33,Credit Card,Consumer
+ORD-00443,2025-12-27,CUST-0216,Central,Madhya Pradesh,Furniture,Chairs,Dining Chair,4,17832.74,0.2,57064.77,4635.75,UPI,Consumer
+ORD-00444,2024-01-08,CUST-0081,Central,Madhya Pradesh,Furniture,Storage,Bookshelf,6,8430.86,0.0,50585.16,7262.97,Credit Card,Small Business
+ORD-00445,2023-06-17,CUST-0086,North,Delhi,Technology,Accessories,Wireless Mouse,7,32320.71,0.0,226244.97,26516.96,Credit Card,Consumer
+ORD-00446,2023-10-02,CUST-0098,Central,Chhattisgarh,Furniture,Tables,Office Desk,6,10094.62,0.05,57539.33,10365.86,Cash,Consumer
+ORD-00447,2025-11-03,CUST-0181,West,Maharashtra,Technology,Accessories,Headphones,3,51821.22,0.1,139917.29,12914.75,Debit Card,Small Business
+ORD-00448,2023-05-16,CUST-0247,North,Haryana,Technology,Computers,Desktop,7,35612.53,0.05,236823.32,32469.87,Net Banking,Consumer
+ORD-00449,2025-10-10,CUST-0199,Central,Chhattisgarh,Technology,Accessories,Headphones,6,9009.5,0.05,51354.15,5658.37,Credit Card,Consumer
+ORD-00450,2024-08-22,CUST-0096,North,Punjab,Office Supplies,Binders,Document Wallet,2,612.06,0.05,1162.91,312.05,Net Banking,Consumer
+ORD-00451,2025-02-10,CUST-0063,North,Rajasthan,Technology,Accessories,Headphones,6,62851.59,0.0,377109.54,39138.23,UPI,Corporate
+ORD-00452,2024-03-06,CUST-0300,South,Tamil Nadu,Office Supplies,Writing,Highlighter,7,187.48,0.1,1181.12,261.09,UPI,Consumer
+ORD-00453,2024-05-08,CUST-0089,West,Gujarat,Office Supplies,Binders,File Folder,8,165.93,0.05,1261.07,300.01,Cash,Consumer
+ORD-00454,2023-03-22,CUST-0224,North,Haryana,Office Supplies,Paper,Notebook,2,566.81,0.0,1133.62,323.54,Cash,Corporate
+ORD-00455,2024-11-12,CUST-0132,North,Delhi,Furniture,Chairs,Ergonomic Office Chair,2,10843.86,0.1,19518.95,2229.78,Credit Card,Corporate
+ORD-00456,2025-02-19,CUST-0147,North,Haryana,Technology,Phones,Cordless Phone,8,6432.55,0.1,46314.36,4213.84,Debit Card,Consumer
+ORD-00457,2023-10-21,CUST-0289,South,Kerala,Office Supplies,Binders,File Folder,3,698.04,0.1,1884.71,265.77,Credit Card,Consumer
+ORD-00458,2025-12-28,CUST-0242,South,Kerala,Office Supplies,Binders,Document Wallet,4,365.16,0.0,1460.64,395.18,Debit Card,Corporate
+ORD-00459,2024-07-13,CUST-0038,South,Kerala,Office Supplies,Writing,Marker Set,2,401.86,0.05,763.53,165.85,Debit Card,Small Business
+ORD-00460,2023-02-06,CUST-0128,West,Goa,Office Supplies,Binders,File Folder,7,490.21,0.05,3259.9,826.81,Credit Card,Consumer
+ORD-00461,2024-08-12,CUST-0216,Central,Chhattisgarh,Technology,Phones,Feature Phone,4,16436.64,0.05,62459.23,8586.34,Debit Card,Consumer
+ORD-00462,2024-07-28,CUST-0095,North,Rajasthan,Furniture,Storage,Filing Cabinet,6,4129.03,0.0,24774.18,3744.77,Credit Card,Corporate
+ORD-00463,2024-05-18,CUST-0091,Central,Madhya Pradesh,Furniture,Storage,Filing Cabinet,6,9888.51,0.2,47464.85,1952.62,Net Banking,Consumer
+ORD-00464,2024-12-17,CUST-0232,South,Kerala,Technology,Accessories,Keyboard,8,64083.99,0.15,435771.13,40708.27,UPI,Corporate
+ORD-00465,2023-05-27,CUST-0071,North,Punjab,Office Supplies,Writing,Highlighter,8,120.6,0.0,964.8,201.19,UPI,Corporate
+ORD-00466,2023-05-09,CUST-0269,West,Gujarat,Office Supplies,Writing,Ball Pen Set,8,481.65,0.15,3275.22,459.4,UPI,Consumer
+ORD-00467,2025-04-03,CUST-0162,Central,Chhattisgarh,Furniture,Chairs,Dining Chair,8,13558.17,0.0,108465.36,21644.05,Debit Card,Consumer
+ORD-00468,2024-09-14,CUST-0102,West,Goa,Technology,Phones,Feature Phone,5,7598.15,0.0,37990.75,4460.27,UPI,Small Business
+ORD-00469,2023-06-17,CUST-0214,North,Haryana,Furniture,Chairs,Ergonomic Office Chair,4,6353.1,0.0,25412.4,3705.04,Cash,Consumer
+ORD-00470,2025-03-13,CUST-0168,West,Gujarat,Furniture,Storage,Storage Rack,4,1073.25,0.1,3863.7,346.5,UPI,Consumer
+ORD-00471,2025-06-26,CUST-0159,West,Goa,Technology,Accessories,Keyboard,8,50950.08,0.05,387220.61,44840.61,Cash,Consumer
+ORD-00472,2024-01-08,CUST-0138,North,Rajasthan,Furniture,Storage,Bookshelf,3,14503.5,0.0,43510.5,6979.54,Debit Card,Corporate
+ORD-00473,2023-11-02,CUST-0131,South,Karnataka,Furniture,Tables,Office Desk,8,17233.28,0.2,110292.99,6849.76,Credit Card,Corporate
+ORD-00474,2025-05-19,CUST-0211,West,Goa,Technology,Phones,Feature Phone,5,53053.8,0.1,238742.1,14057.89,Net Banking,Consumer
+ORD-00475,2025-02-06,CUST-0039,West,Maharashtra,Technology,Computers,Monitor,5,18969.44,0.0,94847.2,8574.63,Cash,Consumer
+ORD-00476,2025-12-25,CUST-0078,Central,Chhattisgarh,Furniture,Storage,Storage Rack,5,4286.81,0.1,19290.65,2966.28,UPI,Consumer
+ORD-00477,2024-10-07,CUST-0247,West,Gujarat,Office Supplies,Binders,File Folder,2,417.01,0.05,792.32,153.85,Debit Card,Corporate
+ORD-00478,2024-08-29,CUST-0005,Central,Chhattisgarh,Technology,Computers,Laptop,4,8384.22,0.0,33536.88,4291.92,Cash,Consumer
+ORD-00479,2024-11-10,CUST-0007,West,Goa,Furniture,Storage,Storage Rack,4,553.57,0.15,1882.14,214.96,Net Banking,Consumer
+ORD-00480,2023-08-09,CUST-0006,South,Kerala,Technology,Phones,Feature Phone,7,4064.77,0.1,25608.05,2532.72,Cash,Corporate
+ORD-00481,2024-06-03,CUST-0078,Central,Chhattisgarh,Furniture,Tables,Coffee Table,8,1683.35,0.15,11446.78,1356.28,UPI,Consumer
+ORD-00482,2024-09-15,CUST-0104,West,Gujarat,Office Supplies,Writing,Ball Pen Set,6,138.41,0.0,830.46,177.14,Net Banking,Corporate
+ORD-00483,2023-03-16,CUST-0148,North,Rajasthan,Technology,Accessories,Headphones,8,12092.98,0.1,87069.46,6080.07,Net Banking,Corporate
+ORD-00484,2023-09-24,CUST-0268,West,Goa,Technology,Computers,Desktop,6,48274.45,0.05,275164.36,33766.37,Net Banking,Corporate
+ORD-00485,2024-04-18,CUST-0122,South,Karnataka,Technology,Computers,Desktop,6,9743.85,0.0,58463.1,10554.28,Debit Card,Consumer
+ORD-00486,2025-09-09,CUST-0233,West,Gujarat,Furniture,Tables,Coffee Table,6,3916.73,0.0,23500.38,4033.08,Credit Card,Consumer
+ORD-00487,2023-06-19,CUST-0162,Central,Uttar Pradesh,Office Supplies,Binders,Document Wallet,5,293.83,0.1,1322.23,224.79,Credit Card,Corporate
+ORD-00488,2023-07-17,CUST-0255,North,Haryana,Office Supplies,Paper,Notebook,5,412.01,0.1,1854.05,390.81,Cash,Corporate
+ORD-00489,2024-10-14,CUST-0112,West,Goa,Furniture,Tables,Study Table,8,8695.91,0.15,59132.19,5786.6,Net Banking,Consumer
+ORD-00490,2023-10-09,CUST-0282,North,Punjab,Furniture,Storage,Storage Rack,6,3136.42,0.1,16936.67,2336.72,UPI,Consumer
+ORD-00491,2023-09-08,CUST-0164,South,Telangana,Technology,Accessories,Wireless Mouse,2,39980.21,0.1,71964.38,6369.21,UPI,Consumer
+ORD-00492,2025-06-30,CUST-0002,Central,Madhya Pradesh,Furniture,Storage,Bookshelf,7,16284.21,0.05,108290.0,23476.33,Debit Card,Corporate
+ORD-00493,2023-12-11,CUST-0169,North,Delhi,Technology,Accessories,Wireless Mouse,3,2896.33,0.15,7385.64,360.08,UPI,Consumer
+ORD-00494,2025-07-12,CUST-0270,South,Tamil Nadu,Technology,Phones,Feature Phone,2,1561.75,0.2,2498.8,110.57,Cash,Consumer
+ORD-00495,2025-06-22,CUST-0108,Central,Uttar Pradesh,Furniture,Storage,Filing Cabinet,6,1286.47,0.05,7332.88,1025.2,Credit Card,Small Business
+ORD-00496,2025-12-23,CUST-0277,South,Karnataka,Furniture,Tables,Study Table,8,12024.23,0.0,96193.84,18824.25,Credit Card,Corporate
+ORD-00497,2023-09-18,CUST-0135,Central,Madhya Pradesh,Technology,Phones,Feature Phone,8,34976.71,0.15,237841.63,-4660.33,Debit Card,Corporate
+ORD-00498,2025-04-30,CUST-0230,West,Goa,Furniture,Tables,Coffee Table,3,5403.52,0.0,16210.56,3327.7,Debit Card,Consumer
+ORD-00499,2024-01-27,CUST-0066,West,Goa,Office Supplies,Writing,Ball Pen Set,1,266.11,0.05,252.8,48.08,Net Banking,Corporate
+ORD-00500,2023-05-24,CUST-0259,North,Delhi,Technology,Computers,Desktop,1,30060.61,0.05,28557.58,2527.45,UPI,Corporate
+ORD-00501,2023-05-14,CUST-0194,Central,Madhya Pradesh,Technology,Computers,Desktop,8,57063.4,0.0,456507.2,61751.56,Debit Card,Consumer
+ORD-00502,2025-04-27,CUST-0010,South,Kerala,Furniture,Storage,Bookshelf,8,7741.5,0.15,52642.2,7263.15,Debit Card,Corporate
+ORD-00503,2023-12-14,CUST-0151,West,Goa,Furniture,Storage,Filing Cabinet,6,13985.66,0.1,75522.56,5490.95,Debit Card,Consumer
+ORD-00504,2023-02-23,CUST-0206,Central,Uttar Pradesh,Office Supplies,Writing,Ball Pen Set,8,348.51,0.0,2788.08,776.85,Debit Card,Consumer
+ORD-00505,2023-11-07,CUST-0071,South,Tamil Nadu,Office Supplies,Paper,A4 Paper Pack,4,661.37,0.0,2645.48,700.65,UPI,Corporate
+ORD-00506,2023-01-27,CUST-0300,North,Punjab,Office Supplies,Writing,Highlighter,4,659.97,0.1,2375.89,668.63,Credit Card,Consumer
+ORD-00507,2023-02-10,CUST-0151,West,Goa,Furniture,Tables,Office Desk,2,13712.96,0.1,24683.33,3937.39,Credit Card,Small Business
+ORD-00508,2025-06-19,CUST-0178,West,Maharashtra,Technology,Accessories,Headphones,3,12594.12,0.0,37782.36,6462.25,UPI,Corporate
+ORD-00509,2025-04-22,CUST-0022,South,Kerala,Office Supplies,Writing,Highlighter,5,614.65,0.05,2919.59,693.66,Cash,Small Business
+ORD-00510,2023-08-20,CUST-0065,West,Maharashtra,Technology,Computers,Monitor,4,13376.23,0.2,42803.94,-69.42,UPI,Consumer
+ORD-00511,2024-12-15,CUST-0282,Central,Uttar Pradesh,Office Supplies,Binders,Document Wallet,3,888.33,0.1,2398.49,342.79,Net Banking,Consumer
+ORD-00512,2025-01-09,CUST-0166,South,Karnataka,Office Supplies,Paper,Sticky Notes,1,294.17,0.05,279.46,68.1,Credit Card,Consumer
+ORD-00513,2025-10-25,CUST-0152,North,Haryana,Technology,Accessories,Keyboard,6,14194.38,0.1,76649.65,5740.16,UPI,Corporate
+ORD-00514,2023-10-27,CUST-0161,North,Rajasthan,Technology,Accessories,Wireless Mouse,3,17410.13,0.05,49618.87,3520.15,Credit Card,Corporate
+ORD-00515,2023-08-31,CUST-0005,West,Maharashtra,Technology,Phones,Cordless Phone,8,11636.27,0.0,93090.16,13007.45,Debit Card,Consumer
+ORD-00516,2023-12-06,CUST-0166,North,Punjab,Office Supplies,Writing,Highlighter,7,217.12,0.05,1443.85,272.4,Net Banking,Consumer
+ORD-00517,2023-04-28,CUST-0087,South,Karnataka,Technology,Computers,Monitor,1,57365.0,0.1,51628.5,3164.11,Cash,Small Business
+ORD-00518,2025-06-07,CUST-0135,North,Punjab,Furniture,Tables,Office Desk,6,7649.04,0.0,45894.24,9295.66,Credit Card,Consumer
+ORD-00519,2023-05-26,CUST-0103,West,Maharashtra,Office Supplies,Writing,Ball Pen Set,4,126.89,0.0,507.56,134.81,Cash,Corporate
+ORD-00520,2025-07-27,CUST-0219,West,Goa,Technology,Phones,Smartphone,4,29587.07,0.1,106513.45,5705.86,Credit Card,Corporate
+ORD-00521,2024-06-08,CUST-0144,West,Goa,Technology,Accessories,Headphones,2,26163.73,0.05,49711.09,6406.1,Net Banking,Consumer
+ORD-00522,2023-04-05,CUST-0023,West,Gujarat,Technology,Phones,Smartphone,7,19476.78,0.05,129520.59,13244.17,Credit Card,Corporate
+ORD-00523,2023-08-01,CUST-0018,North,Delhi,Office Supplies,Binders,Document Wallet,1,523.23,0.0,523.23,144.41,Debit Card,Consumer
+ORD-00524,2023-03-18,CUST-0076,North,Punjab,Technology,Computers,Laptop,7,39905.85,0.0,279340.95,34883.01,Credit Card,Corporate
+ORD-00525,2023-09-17,CUST-0227,West,Gujarat,Technology,Accessories,Headphones,6,22476.2,0.15,114628.62,17549.08,Cash,Consumer
+ORD-00526,2025-05-03,CUST-0068,North,Delhi,Office Supplies,Binders,Ring Binder,4,226.31,0.0,905.24,251.25,UPI,Consumer
+ORD-00527,2024-08-03,CUST-0245,South,Telangana,Office Supplies,Writing,Ball Pen Set,2,201.11,0.05,382.11,42.98,Net Banking,Consumer
+ORD-00528,2024-07-03,CUST-0249,North,Punjab,Office Supplies,Binders,Ring Binder,3,840.94,0.05,2396.68,463.19,Debit Card,Consumer
+ORD-00529,2025-02-16,CUST-0195,South,Tamil Nadu,Office Supplies,Paper,Notebook,5,216.48,0.1,974.16,194.92,UPI,Consumer
+ORD-00530,2023-10-30,CUST-0196,West,Maharashtra,Furniture,Tables,Office Desk,7,1933.6,0.1,12181.68,1226.54,Net Banking,Small Business
+ORD-00531,2025-04-01,CUST-0137,Central,Uttar Pradesh,Office Supplies,Writing,Highlighter,6,307.44,0.0,1844.64,432.36,Debit Card,Consumer
+ORD-00532,2023-07-25,CUST-0168,West,Maharashtra,Office Supplies,Binders,Ring Binder,8,187.87,0.05,1427.81,398.35,Cash,Consumer
+ORD-00533,2025-03-10,CUST-0138,Central,Madhya Pradesh,Furniture,Chairs,Dining Chair,8,14758.57,0.05,112165.13,14777.49,Debit Card,Consumer
+ORD-00534,2024-04-14,CUST-0217,Central,Uttar Pradesh,Office Supplies,Writing,Marker Set,6,848.33,0.0,5089.98,1464.74,Debit Card,Consumer
+ORD-00535,2025-02-10,CUST-0252,West,Gujarat,Office Supplies,Binders,Ring Binder,4,608.47,0.05,2312.19,486.25,UPI,Consumer
+ORD-00536,2025-01-17,CUST-0203,West,Goa,Office Supplies,Paper,Notebook,1,290.45,0.1,261.4,58.92,Net Banking,Consumer
+ORD-00537,2024-04-10,CUST-0082,North,Delhi,Furniture,Storage,Bookshelf,4,15881.26,0.0,63525.04,13945.77,Credit Card,Consumer
+ORD-00538,2023-08-10,CUST-0096,South,Karnataka,Office Supplies,Binders,Ring Binder,1,704.62,0.1,634.16,115.04,UPI,Consumer
+ORD-00539,2023-11-02,CUST-0086,Central,Chhattisgarh,Technology,Computers,Desktop,5,1756.11,0.05,8341.52,915.54,Credit Card,Corporate
+ORD-00540,2024-04-30,CUST-0159,West,Gujarat,Furniture,Tables,Study Table,2,4662.62,0.1,8392.72,1197.51,Credit Card,Corporate
+ORD-00541,2025-01-15,CUST-0180,Central,Uttar Pradesh,Technology,Phones,Feature Phone,5,14618.07,0.05,69435.83,14755.92,UPI,Consumer
+ORD-00542,2023-04-30,CUST-0193,West,Gujarat,Technology,Computers,Monitor,7,54993.4,0.1,346458.42,31874.24,Net Banking,Consumer
+ORD-00543,2024-06-11,CUST-0187,West,Maharashtra,Technology,Accessories,Wireless Mouse,2,45056.57,0.0,90113.14,12390.5,Net Banking,Corporate
+ORD-00544,2025-02-17,CUST-0154,South,Tamil Nadu,Technology,Computers,Laptop,2,57125.29,0.1,102825.52,8783.04,UPI,Corporate
+ORD-00545,2025-10-28,CUST-0112,North,Delhi,Furniture,Chairs,Dining Chair,8,7279.38,0.0,58235.04,11196.12,Cash,Corporate
+ORD-00546,2023-10-30,CUST-0058,South,Kerala,Technology,Computers,Desktop,6,10671.35,0.15,54423.89,4984.68,Credit Card,Consumer
+ORD-00547,2024-11-21,CUST-0146,South,Tamil Nadu,Office Supplies,Binders,Ring Binder,7,689.21,0.1,4342.02,844.04,Cash,Consumer
+ORD-00548,2025-07-29,CUST-0189,West,Gujarat,Office Supplies,Writing,Marker Set,4,193.44,0.0,773.76,175.23,Net Banking,Consumer
+ORD-00549,2025-01-27,CUST-0186,South,Kerala,Technology,Accessories,Headphones,6,42699.72,0.0,256198.32,24070.29,Credit Card,Small Business
+ORD-00550,2024-01-31,CUST-0211,South,Karnataka,Furniture,Tables,Coffee Table,1,4752.25,0.1,4277.03,595.04,UPI,Consumer
+ORD-00551,2023-12-15,CUST-0173,South,Karnataka,Furniture,Tables,Study Table,1,6982.87,0.0,6982.87,1076.66,Cash,Consumer
+ORD-00552,2024-05-24,CUST-0091,Central,Madhya Pradesh,Office Supplies,Writing,Marker Set,1,388.42,0.0,388.42,88.35,Net Banking,Small Business
+ORD-00553,2023-12-31,CUST-0061,West,Maharashtra,Technology,Computers,Laptop,2,20141.27,0.1,36254.29,1940.31,Net Banking,Consumer
+ORD-00554,2024-10-14,CUST-0288,North,Delhi,Office Supplies,Paper,Sticky Notes,6,339.16,0.0,2034.96,477.09,Debit Card,Consumer
+ORD-00555,2023-07-02,CUST-0197,South,Telangana,Furniture,Tables,Office Desk,6,13920.08,0.0,83520.48,16323.87,Cash,Corporate
+ORD-00556,2023-08-12,CUST-0020,West,Goa,Technology,Phones,Smartphone,1,34682.68,0.1,31214.41,1742.52,Credit Card,Consumer
+ORD-00557,2025-07-09,CUST-0097,West,Gujarat,Office Supplies,Writing,Marker Set,3,829.94,0.15,2116.35,356.4,Cash,Corporate
+ORD-00558,2023-01-09,CUST-0235,West,Gujarat,Technology,Computers,Desktop,1,1903.19,0.15,1617.71,121.35,Debit Card,Corporate
+ORD-00559,2025-04-16,CUST-0053,Central,Madhya Pradesh,Office Supplies,Writing,Ball Pen Set,8,799.53,0.0,6396.24,1523.51,Credit Card,Consumer
+ORD-00560,2023-06-24,CUST-0268,North,Delhi,Office Supplies,Binders,Ring Binder,8,752.65,0.2,4816.96,852.51,Debit Card,Consumer
+ORD-00561,2024-08-25,CUST-0168,West,Maharashtra,Office Supplies,Binders,Ring Binder,6,507.86,0.1,2742.44,601.93,UPI,Consumer
+ORD-00562,2024-11-14,CUST-0073,West,Maharashtra,Furniture,Chairs,Visitor Chair,8,9476.7,0.05,72022.92,11877.07,Debit Card,Consumer
+ORD-00563,2023-09-02,CUST-0032,North,Punjab,Technology,Computers,Desktop,5,63984.33,0.05,303925.57,35043.5,Credit Card,Corporate
+ORD-00564,2025-10-19,CUST-0297,West,Maharashtra,Technology,Accessories,Keyboard,7,3589.78,0.05,23872.04,2790.74,Debit Card,Small Business
+ORD-00565,2024-02-04,CUST-0005,West,Maharashtra,Technology,Phones,Cordless Phone,4,22502.46,0.2,72007.87,1035.27,Cash,Corporate
+ORD-00566,2023-01-25,CUST-0066,South,Kerala,Office Supplies,Paper,Notebook,6,286.26,0.1,1545.8,404.26,Debit Card,Consumer
+ORD-00567,2024-11-01,CUST-0025,West,Maharashtra,Technology,Computers,Monitor,4,11371.02,0.1,40935.67,2671.64,UPI,Small Business
+ORD-00568,2024-11-13,CUST-0078,Central,Uttar Pradesh,Office Supplies,Writing,Ball Pen Set,6,470.35,0.0,2822.1,675.94,Debit Card,Consumer
+ORD-00569,2025-12-06,CUST-0198,South,Karnataka,Technology,Phones,Smartphone,5,59606.01,0.0,298030.05,49870.14,Credit Card,Consumer
+ORD-00570,2023-09-07,CUST-0012,North,Rajasthan,Technology,Accessories,Wireless Mouse,7,2832.59,0.15,16853.91,266.8,Debit Card,Consumer
+ORD-00571,2024-06-13,CUST-0016,South,Kerala,Technology,Phones,Cordless Phone,7,58259.75,0.15,346645.51,17868.13,Cash,Consumer
+ORD-00572,2023-12-22,CUST-0024,West,Gujarat,Furniture,Chairs,Ergonomic Office Chair,4,565.2,0.1,2034.72,305.12,Credit Card,Small Business
+ORD-00573,2025-03-14,CUST-0075,North,Rajasthan,Furniture,Storage,Filing Cabinet,3,11854.82,0.05,33786.24,6775.27,UPI,Consumer
+ORD-00574,2023-07-11,CUST-0182,South,Telangana,Office Supplies,Writing,Highlighter,6,70.77,0.0,424.62,95.3,UPI,Consumer
+ORD-00575,2025-01-08,CUST-0099,West,Gujarat,Office Supplies,Binders,File Folder,2,32.79,0.0,65.58,14.15,UPI,Consumer
+ORD-00576,2023-05-15,CUST-0033,North,Rajasthan,Technology,Computers,Desktop,6,44384.3,0.1,239675.22,19962.66,Net Banking,Consumer
+ORD-00577,2023-07-08,CUST-0112,North,Punjab,Office Supplies,Paper,Notebook,6,253.86,0.0,1523.16,328.33,UPI,Consumer
+ORD-00578,2024-05-09,CUST-0229,West,Maharashtra,Office Supplies,Paper,A4 Paper Pack,8,93.67,0.0,749.36,240.59,Net Banking,Consumer
+ORD-00579,2023-05-15,CUST-0263,South,Tamil Nadu,Technology,Accessories,Wireless Mouse,1,19211.83,0.0,19211.83,2052.84,UPI,Consumer
+ORD-00580,2023-07-31,CUST-0006,North,Punjab,Technology,Computers,Laptop,3,538.07,0.0,1614.21,204.53,Net Banking,Consumer
+ORD-00581,2023-04-29,CUST-0083,North,Punjab,Office Supplies,Binders,File Folder,4,190.2,0.05,722.76,181.14,UPI,Consumer
+ORD-00582,2024-07-12,CUST-0210,Central,Madhya Pradesh,Furniture,Storage,Filing Cabinet,1,11928.61,0.0,11928.61,2765.78,Net Banking,Consumer
+ORD-00583,2025-08-17,CUST-0248,South,Karnataka,Furniture,Chairs,Visitor Chair,5,13655.21,0.1,61448.44,6520.7,Debit Card,Consumer
+ORD-00584,2024-02-08,CUST-0268,West,Gujarat,Technology,Accessories,Wireless Mouse,7,57596.67,0.0,403176.69,71670.54,Net Banking,Small Business
+ORD-00585,2025-07-31,CUST-0276,Central,Uttar Pradesh,Office Supplies,Binders,Document Wallet,7,747.95,0.05,4973.87,1114.8,Debit Card,Corporate
+ORD-00586,2025-12-16,CUST-0235,South,Karnataka,Office Supplies,Writing,Highlighter,8,293.32,0.05,2229.23,380.51,UPI,Corporate
+ORD-00587,2024-05-06,CUST-0283,South,Telangana,Technology,Accessories,Keyboard,6,21753.55,0.15,110943.1,9199.83,Cash,Consumer
+ORD-00588,2024-08-30,CUST-0159,North,Rajasthan,Furniture,Chairs,Ergonomic Office Chair,6,2119.78,0.1,11446.81,1164.05,Credit Card,Consumer
+ORD-00589,2023-11-05,CUST-0086,North,Haryana,Office Supplies,Binders,Ring Binder,8,190.02,0.05,1444.15,321.24,Cash,Consumer
+ORD-00590,2023-12-26,CUST-0256,Central,Uttar Pradesh,Furniture,Chairs,Visitor Chair,7,7620.5,0.0,53343.5,9734.94,Net Banking,Consumer
+ORD-00591,2024-04-24,CUST-0079,North,Delhi,Furniture,Storage,Filing Cabinet,7,16621.53,0.0,116350.71,19986.34,Cash,Consumer
+ORD-00592,2024-12-30,CUST-0263,North,Delhi,Technology,Phones,Cordless Phone,6,45255.35,0.15,230802.28,17612.53,Credit Card,Consumer
+ORD-00593,2025-03-03,CUST-0229,South,Kerala,Technology,Computers,Laptop,6,4744.72,0.1,25621.49,2529.41,Credit Card,Small Business
+ORD-00594,2025-10-14,CUST-0196,North,Rajasthan,Office Supplies,Binders,File Folder,3,816.79,0.1,2205.33,388.24,Credit Card,Corporate
+ORD-00595,2025-08-27,CUST-0117,North,Haryana,Furniture,Storage,Bookshelf,4,16253.25,0.2,52010.4,2368.72,Cash,Corporate
+ORD-00596,2024-10-16,CUST-0090,Central,Madhya Pradesh,Furniture,Tables,Coffee Table,5,1028.84,0.1,4629.78,436.79,Credit Card,Corporate
+ORD-00597,2025-05-08,CUST-0017,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper Pack,8,636.13,0.0,5089.04,1007.32,Cash,Consumer
+ORD-00598,2024-02-29,CUST-0036,Central,Madhya Pradesh,Technology,Phones,Cordless Phone,4,36631.59,0.2,117221.09,-4702.67,Debit Card,Consumer
+ORD-00599,2025-01-17,CUST-0221,North,Punjab,Technology,Accessories,Headphones,5,2894.1,0.0,14470.5,2088.32,UPI,Consumer
+ORD-00600,2025-06-15,CUST-0207,North,Haryana,Technology,Phones,Smartphone,5,14916.24,0.0,74581.2,11431.59,Credit Card,Consumer
+ORD-00601,2023-06-11,CUST-0300,South,Telangana,Technology,Accessories,Wireless Mouse,4,62406.27,0.05,237143.83,27528.79,Debit Card,Corporate
+ORD-00602,2025-06-14,CUST-0008,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,3,857.06,0.15,2185.5,457.22,Credit Card,Consumer
+ORD-00603,2025-06-28,CUST-0229,West,Gujarat,Technology,Accessories,Headphones,5,6197.16,0.0,30985.8,4871.51,UPI,Consumer
+ORD-00604,2023-10-24,CUST-0221,North,Rajasthan,Office Supplies,Paper,Sticky Notes,4,865.66,0.15,2943.24,335.73,Debit Card,Consumer
+ORD-00605,2025-10-18,CUST-0006,Central,Madhya Pradesh,Technology,Accessories,Headphones,8,11552.27,0.05,87797.25,11068.33,Cash,Consumer
+ORD-00606,2025-03-21,CUST-0044,Central,Madhya Pradesh,Office Supplies,Binders,Ring Binder,7,122.41,0.0,856.87,248.15,Cash,Consumer
+ORD-00607,2025-11-01,CUST-0018,West,Gujarat,Furniture,Tables,Office Desk,5,1601.28,0.0,8006.4,1582.44,UPI,Consumer
+ORD-00608,2023-01-01,CUST-0010,Central,Uttar Pradesh,Technology,Accessories,Headphones,1,1928.72,0.05,1832.28,81.98,Net Banking,Small Business
+ORD-00609,2023-12-09,CUST-0252,West,Goa,Furniture,Tables,Office Desk,5,13552.99,0.1,60988.46,11881.54,Credit Card,Small Business
+ORD-00610,2023-10-07,CUST-0184,North,Punjab,Office Supplies,Paper,A4 Paper Pack,5,50.47,0.0,252.35,63.76,UPI,Corporate
+ORD-00611,2025-05-11,CUST-0200,North,Rajasthan,Technology,Phones,Smartphone,7,26151.62,0.1,164755.21,10157.11,Debit Card,Consumer
+ORD-00612,2023-07-31,CUST-0191,South,Tamil Nadu,Furniture,Chairs,Visitor Chair,4,3580.76,0.0,14323.04,3382.45,Debit Card,Consumer
+ORD-00613,2023-12-02,CUST-0266,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,8,826.26,0.0,6610.08,1787.84,Net Banking,Consumer
+ORD-00614,2025-04-04,CUST-0144,North,Rajasthan,Technology,Computers,Desktop,4,54614.85,0.0,218459.4,39421.28,Credit Card,Consumer
+ORD-00615,2024-08-26,CUST-0213,Central,Chhattisgarh,Technology,Phones,Feature Phone,1,39092.97,0.0,39092.97,7335.07,Cash,Corporate
+ORD-00616,2023-07-13,CUST-0262,Central,Uttar Pradesh,Technology,Computers,Laptop,5,22927.41,0.1,103173.35,8624.84,Credit Card,Consumer
+ORD-00617,2023-04-21,CUST-0227,North,Haryana,Furniture,Chairs,Visitor Chair,6,6867.32,0.0,41203.92,5849.77,Credit Card,Corporate
+ORD-00618,2023-01-21,CUST-0255,West,Maharashtra,Furniture,Tables,Coffee Table,7,3090.58,0.05,20552.36,2177.6,Credit Card,Consumer
+ORD-00619,2025-02-04,CUST-0286,Central,Chhattisgarh,Office Supplies,Paper,Sticky Notes,4,684.36,0.05,2600.57,560.45,Cash,Corporate
+ORD-00620,2024-11-03,CUST-0083,North,Rajasthan,Technology,Phones,Smartphone,8,31946.99,0.05,242797.12,34956.25,Debit Card,Consumer
+ORD-00621,2024-09-21,CUST-0124,West,Gujarat,Office Supplies,Writing,Highlighter,2,389.94,0.05,740.89,174.49,UPI,Small Business
+ORD-00622,2024-10-17,CUST-0182,North,Rajasthan,Technology,Accessories,Keyboard,4,3976.75,0.05,15111.65,2036.13,UPI,Corporate
+ORD-00623,2024-04-27,CUST-0294,West,Maharashtra,Office Supplies,Binders,File Folder,2,227.35,0.15,386.5,90.56,UPI,Consumer
+ORD-00624,2024-10-28,CUST-0025,North,Punjab,Office Supplies,Paper,Notebook,8,39.05,0.1,281.16,58.29,UPI,Consumer
+ORD-00625,2023-05-05,CUST-0033,Central,Uttar Pradesh,Furniture,Storage,Filing Cabinet,7,1744.77,0.1,10992.05,1402.54,Cash,Consumer
+ORD-00626,2024-02-16,CUST-0231,Central,Uttar Pradesh,Technology,Phones,Cordless Phone,1,51010.86,0.1,45909.77,5998.3,Debit Card,Consumer
+ORD-00627,2024-10-09,CUST-0289,West,Gujarat,Furniture,Storage,Storage Rack,6,8285.76,0.05,47228.83,8323.8,Credit Card,Small Business
+ORD-00628,2023-01-17,CUST-0014,West,Goa,Furniture,Storage,Storage Rack,5,7824.29,0.05,37165.38,5619.0,Credit Card,Corporate
+ORD-00629,2024-11-05,CUST-0190,West,Maharashtra,Office Supplies,Binders,File Folder,8,754.09,0.15,5127.81,960.26,Debit Card,Consumer
+ORD-00630,2024-02-10,CUST-0259,South,Kerala,Furniture,Storage,Filing Cabinet,4,13702.55,0.15,46588.67,6152.33,UPI,Consumer
+ORD-00631,2025-04-23,CUST-0026,West,Gujarat,Furniture,Storage,Bookshelf,8,3917.35,0.15,26637.98,2826.82,UPI,Consumer
+ORD-00632,2025-09-14,CUST-0104,South,Kerala,Office Supplies,Paper,A4 Paper Pack,5,137.78,0.15,585.56,82.23,UPI,Consumer
+ORD-00633,2025-09-17,CUST-0187,West,Maharashtra,Office Supplies,Binders,File Folder,7,390.66,0.15,2324.43,439.88,Cash,Corporate
+ORD-00634,2023-08-06,CUST-0039,West,Gujarat,Office Supplies,Writing,Highlighter,4,120.6,0.15,410.04,90.24,UPI,Consumer
+ORD-00635,2025-05-27,CUST-0299,South,Kerala,Furniture,Chairs,Ergonomic Office Chair,8,16054.29,0.15,109169.17,11294.85,Credit Card,Small Business
+ORD-00636,2025-09-08,CUST-0273,North,Punjab,Furniture,Tables,Coffee Table,7,12414.4,0.0,86900.8,20781.79,Cash,Corporate
+ORD-00637,2025-05-13,CUST-0153,Central,Chhattisgarh,Technology,Phones,Cordless Phone,7,41712.06,0.15,248186.76,18349.38,UPI,Consumer
+ORD-00638,2024-02-24,CUST-0059,West,Goa,Office Supplies,Paper,Sticky Notes,7,62.02,0.1,390.73,76.62,UPI,Corporate
+ORD-00639,2023-03-29,CUST-0206,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,6,3692.19,0.15,18830.17,-1809.94,Debit Card,Consumer
+ORD-00640,2025-08-17,CUST-0097,West,Gujarat,Technology,Computers,Monitor,2,52135.3,0.0,104270.6,16226.05,Credit Card,Consumer
+ORD-00641,2025-12-27,CUST-0040,South,Telangana,Technology,Accessories,Headphones,4,5923.58,0.2,18955.46,-750.17,Net Banking,Consumer
+ORD-00642,2024-05-22,CUST-0102,Central,Chhattisgarh,Office Supplies,Writing,Highlighter,8,736.24,0.15,5006.43,742.53,UPI,Consumer
+ORD-00643,2024-12-23,CUST-0240,West,Goa,Office Supplies,Binders,File Folder,5,819.32,0.05,3891.77,904.9,Cash,Corporate
+ORD-00644,2025-06-29,CUST-0245,South,Telangana,Technology,Accessories,Headphones,7,45915.88,0.0,321411.16,45315.42,Debit Card,Consumer
+ORD-00645,2023-11-26,CUST-0095,South,Telangana,Office Supplies,Binders,File Folder,2,720.61,0.0,1441.22,455.91,Debit Card,Corporate
+ORD-00646,2023-06-23,CUST-0104,North,Rajasthan,Office Supplies,Paper,A4 Paper Pack,4,348.61,0.1,1255.0,324.28,Debit Card,Corporate
+ORD-00647,2024-08-25,CUST-0267,North,Haryana,Technology,Computers,Laptop,5,42555.34,0.0,212776.7,16033.82,Debit Card,Consumer
+ORD-00648,2024-09-13,CUST-0212,Central,Madhya Pradesh,Technology,Computers,Laptop,6,17780.14,0.05,101346.8,11992.95,Net Banking,Consumer
+ORD-00649,2023-01-26,CUST-0187,South,Karnataka,Office Supplies,Writing,Highlighter,1,781.33,0.0,781.33,182.68,Net Banking,Consumer
+ORD-00650,2023-02-03,CUST-0298,South,Telangana,Technology,Computers,Laptop,5,39206.08,0.1,176427.36,4434.26,Cash,Consumer
+ORD-00651,2024-11-29,CUST-0142,North,Rajasthan,Office Supplies,Paper,A4 Paper Pack,5,199.78,0.0,998.9,184.75,UPI,Consumer
+ORD-00652,2023-11-04,CUST-0149,Central,Uttar Pradesh,Office Supplies,Binders,Ring Binder,8,649.87,0.0,5198.96,1394.49,Cash,Small Business
+ORD-00653,2025-07-12,CUST-0255,North,Punjab,Furniture,Tables,Study Table,6,3265.88,0.0,19595.28,4314.83,Debit Card,Consumer
+ORD-00654,2025-07-10,CUST-0062,South,Kerala,Furniture,Storage,Storage Rack,2,2540.57,0.05,4827.08,635.49,Net Banking,Consumer
+ORD-00655,2024-11-27,CUST-0231,South,Karnataka,Office Supplies,Writing,Marker Set,5,796.81,0.1,3585.64,772.63,UPI,Small Business
+ORD-00656,2024-10-13,CUST-0239,South,Karnataka,Technology,Accessories,Wireless Mouse,5,17353.11,0.1,78089.0,5876.89,Net Banking,Consumer
+ORD-00657,2024-09-07,CUST-0219,South,Tamil Nadu,Furniture,Chairs,Visitor Chair,3,5791.0,0.0,17373.0,3963.06,Net Banking,Small Business
+ORD-00658,2023-10-01,CUST-0007,Central,Madhya Pradesh,Office Supplies,Binders,Ring Binder,5,299.21,0.0,1496.05,384.77,Credit Card,Consumer
+ORD-00659,2023-06-11,CUST-0142,South,Telangana,Office Supplies,Paper,Sticky Notes,7,547.06,0.15,3255.01,435.67,Credit Card,Consumer
+ORD-00660,2024-05-14,CUST-0159,South,Telangana,Technology,Computers,Desktop,2,22720.25,0.05,43168.47,4232.29,Debit Card,Corporate
+ORD-00661,2023-01-16,CUST-0048,West,Gujarat,Furniture,Tables,Coffee Table,7,5905.1,0.0,41335.7,4705.53,Credit Card,Corporate
+ORD-00662,2025-05-25,CUST-0222,Central,Madhya Pradesh,Office Supplies,Paper,A4 Paper Pack,5,570.15,0.05,2708.21,525.68,Debit Card,Small Business
+ORD-00663,2023-06-25,CUST-0041,Central,Chhattisgarh,Furniture,Storage,Storage Rack,7,6536.66,0.1,41180.96,5131.35,Debit Card,Corporate
+ORD-00664,2024-02-19,CUST-0194,South,Tamil Nadu,Office Supplies,Writing,Marker Set,4,67.17,0.2,214.94,38.16,UPI,Corporate
+ORD-00665,2024-09-28,CUST-0108,South,Kerala,Office Supplies,Writing,Marker Set,7,357.36,0.15,2126.29,445.4,Net Banking,Consumer
+ORD-00666,2024-06-30,CUST-0114,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,2,4197.05,0.1,7554.69,992.43,Cash,Small Business
+ORD-00667,2023-05-13,CUST-0134,North,Rajasthan,Office Supplies,Writing,Ball Pen Set,5,574.71,0.0,2873.55,667.89,Net Banking,Corporate
+ORD-00668,2025-08-20,CUST-0237,South,Kerala,Office Supplies,Binders,Document Wallet,6,145.65,0.15,742.82,164.81,UPI,Consumer
+ORD-00669,2023-05-17,CUST-0111,South,Kerala,Furniture,Tables,Office Desk,3,8479.73,0.0,25439.19,5635.83,Net Banking,Small Business
+ORD-00670,2023-01-07,CUST-0249,Central,Madhya Pradesh,Furniture,Storage,Filing Cabinet,7,8433.09,0.1,53128.47,6339.57,Credit Card,Consumer
+ORD-00671,2025-07-19,CUST-0110,North,Punjab,Technology,Computers,Desktop,1,35541.0,0.0,35541.0,5228.71,UPI,Consumer
+ORD-00672,2024-03-17,CUST-0249,South,Telangana,Office Supplies,Paper,Sticky Notes,8,582.55,0.0,4660.4,1125.55,Credit Card,Small Business
+ORD-00673,2025-10-03,CUST-0009,North,Punjab,Furniture,Chairs,Ergonomic Office Chair,3,2888.23,0.0,8664.69,1611.82,UPI,Corporate
+ORD-00674,2025-07-27,CUST-0036,Central,Uttar Pradesh,Office Supplies,Binders,File Folder,1,89.75,0.0,89.75,23.21,Debit Card,Consumer
+ORD-00675,2024-01-18,CUST-0016,West,Maharashtra,Office Supplies,Binders,File Folder,7,240.11,0.1,1512.69,247.93,UPI,Corporate
+ORD-00676,2024-08-12,CUST-0161,Central,Uttar Pradesh,Office Supplies,Writing,Marker Set,1,86.62,0.1,77.96,15.56,Debit Card,Consumer
+ORD-00677,2025-12-09,CUST-0282,South,Kerala,Office Supplies,Writing,Marker Set,2,871.07,0.0,1742.14,551.85,Cash,Consumer
+ORD-00678,2025-04-15,CUST-0160,South,Tamil Nadu,Furniture,Chairs,Visitor Chair,1,7702.75,0.05,7317.61,1102.99,Net Banking,Consumer
+ORD-00679,2023-03-14,CUST-0285,Central,Madhya Pradesh,Technology,Phones,Cordless Phone,8,22375.35,0.0,179002.8,23766.03,Debit Card,Consumer
+ORD-00680,2023-12-27,CUST-0197,Central,Madhya Pradesh,Office Supplies,Paper,Sticky Notes,3,259.21,0.0,777.63,219.51,UPI,Consumer
+ORD-00681,2024-12-02,CUST-0120,Central,Uttar Pradesh,Furniture,Storage,Bookshelf,4,2177.89,0.1,7840.4,1041.83,Cash,Consumer
+ORD-00682,2024-01-28,CUST-0063,South,Kerala,Office Supplies,Writing,Highlighter,2,657.24,0.0,1314.48,347.53,UPI,Consumer
+ORD-00683,2024-09-07,CUST-0084,South,Karnataka,Furniture,Chairs,Visitor Chair,1,12563.4,0.0,12563.4,2729.48,Net Banking,Corporate
+ORD-00684,2025-12-11,CUST-0236,South,Telangana,Technology,Computers,Desktop,6,45480.93,0.05,259241.3,29972.29,Debit Card,Consumer
+ORD-00685,2024-04-17,CUST-0117,Central,Chhattisgarh,Office Supplies,Binders,File Folder,8,353.21,0.0,2825.68,643.54,Net Banking,Corporate
+ORD-00686,2024-11-13,CUST-0065,South,Karnataka,Office Supplies,Paper,Sticky Notes,6,258.41,0.1,1395.41,310.03,UPI,Consumer
+ORD-00687,2023-06-12,CUST-0016,South,Tamil Nadu,Furniture,Chairs,Dining Chair,5,14293.83,0.05,67895.69,15081.51,Debit Card,Consumer
+ORD-00688,2024-03-09,CUST-0044,North,Haryana,Furniture,Chairs,Ergonomic Office Chair,4,12353.71,0.0,49414.84,7994.06,Net Banking,Consumer
+ORD-00689,2023-06-20,CUST-0114,North,Haryana,Technology,Accessories,Keyboard,3,16287.15,0.05,46418.38,6390.63,UPI,Consumer
+ORD-00690,2024-07-12,CUST-0047,North,Punjab,Furniture,Chairs,Dining Chair,5,3053.87,0.0,15269.35,3846.99,Credit Card,Consumer
+ORD-00691,2023-09-05,CUST-0187,North,Punjab,Office Supplies,Writing,Marker Set,7,742.09,0.05,4934.9,860.95,Debit Card,Corporate
+ORD-00692,2023-02-10,CUST-0152,Central,Chhattisgarh,Technology,Computers,Desktop,4,11728.04,0.1,42220.94,4275.11,UPI,Small Business
+ORD-00693,2023-08-13,CUST-0089,South,Kerala,Office Supplies,Paper,Notebook,2,754.92,0.05,1434.35,406.61,Net Banking,Small Business
+ORD-00694,2025-08-27,CUST-0136,West,Gujarat,Furniture,Storage,Filing Cabinet,1,4793.25,0.0,4793.25,887.26,Cash,Consumer
+ORD-00695,2023-01-31,CUST-0185,North,Rajasthan,Furniture,Chairs,Visitor Chair,2,1153.36,0.05,2191.38,411.01,Debit Card,Consumer
+ORD-00696,2025-04-01,CUST-0209,Central,Madhya Pradesh,Office Supplies,Binders,Ring Binder,2,601.08,0.0,1202.16,291.67,Credit Card,Consumer
+ORD-00697,2025-11-27,CUST-0151,North,Delhi,Office Supplies,Paper,Notebook,2,469.06,0.0,938.12,230.05,Cash,Small Business
+ORD-00698,2025-05-31,CUST-0131,West,Goa,Office Supplies,Binders,Ring Binder,3,722.53,0.1,1950.83,334.15,Net Banking,Consumer
+ORD-00699,2023-04-08,CUST-0021,West,Gujarat,Technology,Accessories,Wireless Mouse,7,47033.74,0.1,296312.56,43475.64,Credit Card,Corporate
+ORD-00700,2025-01-28,CUST-0106,West,Maharashtra,Office Supplies,Paper,Sticky Notes,2,162.84,0.05,309.4,63.67,Cash,Consumer
+ORD-00701,2023-05-01,CUST-0255,South,Telangana,Furniture,Chairs,Dining Chair,3,15641.71,0.1,42232.62,4815.79,Net Banking,Consumer
+ORD-00702,2024-07-12,CUST-0261,North,Punjab,Furniture,Tables,Office Desk,3,17258.22,0.05,49185.93,5633.09,Credit Card,Consumer
+ORD-00703,2025-09-19,CUST-0124,South,Tamil Nadu,Furniture,Tables,Coffee Table,8,15778.04,0.15,107290.67,16898.64,Credit Card,Corporate
+ORD-00704,2025-04-26,CUST-0118,West,Goa,Office Supplies,Binders,File Folder,8,629.26,0.15,4278.97,695.92,Debit Card,Consumer
+ORD-00705,2024-06-01,CUST-0276,West,Gujarat,Technology,Accessories,Headphones,7,33140.79,0.0,231985.53,33656.65,Debit Card,Consumer
+ORD-00706,2024-08-29,CUST-0084,West,Goa,Technology,Accessories,Keyboard,4,13566.94,0.1,48840.98,3942.71,UPI,Small Business
+ORD-00707,2025-08-17,CUST-0154,North,Haryana,Technology,Accessories,Wireless Mouse,6,19421.69,0.0,116530.14,20001.5,Cash,Small Business
+ORD-00708,2023-10-30,CUST-0119,North,Haryana,Office Supplies,Binders,Ring Binder,5,793.34,0.0,3966.7,1115.77,Credit Card,Consumer
+ORD-00709,2025-04-11,CUST-0007,South,Telangana,Technology,Phones,Smartphone,1,39172.59,0.1,35255.33,2785.66,Debit Card,Corporate
+ORD-00710,2023-08-02,CUST-0034,West,Maharashtra,Furniture,Chairs,Ergonomic Office Chair,2,9681.1,0.1,17425.98,2943.92,Credit Card,Corporate
+ORD-00711,2025-11-03,CUST-0029,Central,Madhya Pradesh,Furniture,Tables,Coffee Table,4,8095.08,0.05,30761.3,4927.36,Debit Card,Consumer
+ORD-00712,2025-01-03,CUST-0275,Central,Chhattisgarh,Office Supplies,Paper,Notebook,6,489.2,0.1,2641.68,455.18,UPI,Consumer
+ORD-00713,2024-04-29,CUST-0157,Central,Uttar Pradesh,Technology,Computers,Laptop,5,26872.17,0.0,134360.85,21334.97,Debit Card,Consumer
+ORD-00714,2024-06-26,CUST-0241,Central,Uttar Pradesh,Technology,Computers,Monitor,6,37482.22,0.15,191159.32,28199.36,Net Banking,Consumer
+ORD-00715,2025-04-13,CUST-0278,Central,Madhya Pradesh,Office Supplies,Binders,File Folder,3,624.83,0.0,1874.49,432.77,Debit Card,Consumer
+ORD-00716,2024-07-13,CUST-0048,North,Haryana,Office Supplies,Writing,Marker Set,7,659.71,0.1,4156.17,728.94,Cash,Corporate
+ORD-00717,2025-03-17,CUST-0240,South,Tamil Nadu,Technology,Accessories,Headphones,7,16406.59,0.2,91876.9,-2909.15,Debit Card,Corporate
+ORD-00718,2025-05-16,CUST-0127,West,Goa,Technology,Accessories,Wireless Mouse,8,3191.64,0.05,24256.46,4223.82,Credit Card,Corporate
+ORD-00719,2025-08-31,CUST-0138,Central,Uttar Pradesh,Office Supplies,Writing,Highlighter,6,877.39,0.0,5264.34,1223.41,UPI,Small Business
+ORD-00720,2025-07-18,CUST-0076,North,Punjab,Office Supplies,Paper,Sticky Notes,3,169.6,0.0,508.8,122.78,Debit Card,Consumer
+ORD-00721,2025-08-19,CUST-0270,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,5,533.96,0.1,2402.82,397.58,Net Banking,Consumer
+ORD-00722,2023-07-16,CUST-0005,South,Telangana,Technology,Computers,Monitor,7,9861.69,0.1,62128.65,6113.8,Debit Card,Corporate
+ORD-00723,2024-05-06,CUST-0031,West,Gujarat,Furniture,Tables,Study Table,2,17457.06,0.0,34914.12,5257.3,Credit Card,Small Business
+ORD-00724,2023-10-28,CUST-0231,Central,Madhya Pradesh,Furniture,Chairs,Dining Chair,3,1963.09,0.2,4711.42,164.2,UPI,Consumer
+ORD-00725,2025-03-25,CUST-0047,South,Karnataka,Furniture,Storage,Filing Cabinet,8,9348.98,0.15,63573.06,2250.91,Net Banking,Consumer
+ORD-00726,2025-03-01,CUST-0107,South,Tamil Nadu,Office Supplies,Writing,Ball Pen Set,1,516.77,0.0,516.77,166.71,Credit Card,Corporate
+ORD-00727,2023-06-08,CUST-0039,West,Maharashtra,Furniture,Chairs,Dining Chair,6,15445.97,0.15,78774.45,12958.51,Debit Card,Consumer
+ORD-00728,2024-09-22,CUST-0226,Central,Madhya Pradesh,Office Supplies,Binders,File Folder,6,630.59,0.05,3594.36,625.94,Net Banking,Corporate
+ORD-00729,2024-11-15,CUST-0125,Central,Uttar Pradesh,Office Supplies,Paper,Notebook,2,406.82,0.05,772.96,173.96,Net Banking,Small Business
+ORD-00730,2024-06-09,CUST-0010,North,Rajasthan,Office Supplies,Binders,Document Wallet,3,184.9,0.0,554.7,137.98,Net Banking,Small Business
+ORD-00731,2025-05-30,CUST-0235,North,Haryana,Furniture,Storage,Storage Rack,3,8109.02,0.2,19461.65,242.76,Credit Card,Consumer
+ORD-00732,2023-10-25,CUST-0024,North,Delhi,Technology,Accessories,Wireless Mouse,8,7657.11,0.0,61256.88,10506.94,UPI,Small Business
+ORD-00733,2023-10-09,CUST-0055,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Office Chair,4,13016.09,0.05,49461.14,10523.11,Net Banking,Consumer
+ORD-00734,2025-06-05,CUST-0005,North,Punjab,Office Supplies,Writing,Ball Pen Set,5,262.27,0.0,1311.35,326.84,Debit Card,Consumer
+ORD-00735,2025-02-06,CUST-0188,Central,Chhattisgarh,Office Supplies,Binders,File Folder,4,205.38,0.1,739.37,163.74,Net Banking,Consumer
+ORD-00736,2025-05-20,CUST-0213,Central,Chhattisgarh,Furniture,Tables,Study Table,3,12792.87,0.05,36459.68,5769.03,Net Banking,Consumer
+ORD-00737,2023-01-29,CUST-0223,South,Tamil Nadu,Office Supplies,Paper,A4 Paper Pack,3,92.64,0.15,236.23,34.1,Cash,Small Business
+ORD-00738,2024-10-19,CUST-0076,South,Telangana,Technology,Phones,Feature Phone,2,24655.39,0.2,39448.62,2578.69,Debit Card,Consumer
+ORD-00739,2025-02-23,CUST-0023,South,Kerala,Furniture,Storage,Storage Rack,6,4963.84,0.15,25315.58,4443.97,UPI,Corporate
+ORD-00740,2025-01-18,CUST-0299,Central,Uttar Pradesh,Technology,Accessories,Keyboard,6,28421.83,0.0,170530.98,20008.32,Net Banking,Consumer
+ORD-00741,2025-06-22,CUST-0009,Central,Uttar Pradesh,Office Supplies,Paper,Sticky Notes,1,546.59,0.0,546.59,119.76,Net Banking,Small Business
+ORD-00742,2025-09-05,CUST-0008,North,Haryana,Technology,Accessories,Keyboard,2,4056.63,0.15,6896.27,618.45,Credit Card,Consumer
+ORD-00743,2024-11-13,CUST-0103,North,Delhi,Office Supplies,Binders,File Folder,3,233.67,0.2,560.81,106.21,Debit Card,Consumer
+ORD-00744,2023-06-19,CUST-0024,North,Delhi,Technology,Accessories,Keyboard,2,10438.06,0.15,17744.7,751.12,Cash,Corporate
+ORD-00745,2024-05-07,CUST-0118,North,Rajasthan,Office Supplies,Binders,Document Wallet,3,573.94,0.05,1635.73,356.73,Debit Card,Consumer
+ORD-00746,2025-04-04,CUST-0164,North,Punjab,Technology,Phones,Smartphone,2,18064.72,0.1,32516.5,3289.19,Debit Card,Small Business
+ORD-00747,2024-10-16,CUST-0087,Central,Chhattisgarh,Furniture,Tables,Coffee Table,8,758.08,0.1,5458.18,921.47,Debit Card,Consumer
+ORD-00748,2024-10-31,CUST-0034,North,Delhi,Furniture,Storage,Bookshelf,3,2222.17,0.05,6333.18,533.78,Cash,Consumer
+ORD-00749,2023-03-31,CUST-0086,North,Punjab,Office Supplies,Binders,Document Wallet,7,411.35,0.1,2591.51,508.77,Debit Card,Consumer
+ORD-00750,2023-12-14,CUST-0108,West,Maharashtra,Technology,Accessories,Headphones,6,44143.25,0.1,238373.55,11851.72,Debit Card,Corporate
+ORD-00751,2025-12-06,CUST-0250,North,Punjab,Technology,Phones,Feature Phone,8,30338.45,0.05,230572.22,25471.0,Credit Card,Consumer
+ORD-00752,2024-11-07,CUST-0026,Central,Uttar Pradesh,Office Supplies,Paper,Notebook,5,364.21,0.0,1821.05,460.46,Debit Card,Consumer
+ORD-00753,2023-12-25,CUST-0043,South,Telangana,Office Supplies,Paper,Sticky Notes,7,356.08,0.1,2243.3,381.89,Cash,Consumer
+ORD-00754,2024-03-22,CUST-0254,South,Kerala,Furniture,Chairs,Dining Chair,4,3266.78,0.1,11760.41,920.11,Credit Card,Small Business
+ORD-00755,2025-05-13,CUST-0024,North,Rajasthan,Technology,Phones,Cordless Phone,7,27727.65,0.0,194093.55,23321.32,Credit Card,Consumer
+ORD-00756,2023-05-16,CUST-0295,South,Telangana,Furniture,Storage,Filing Cabinet,1,3826.62,0.2,3061.3,163.46,Net Banking,Consumer
+ORD-00757,2025-08-01,CUST-0226,North,Delhi,Technology,Accessories,Keyboard,6,1219.67,0.1,6586.22,1013.23,Debit Card,Corporate
+ORD-00758,2023-03-03,CUST-0268,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,3,171.22,0.1,462.29,75.41,Net Banking,Corporate
+ORD-00759,2023-03-29,CUST-0175,South,Kerala,Office Supplies,Paper,Notebook,7,553.06,0.0,3871.42,913.95,Credit Card,Small Business
+ORD-00760,2023-06-02,CUST-0054,North,Rajasthan,Technology,Accessories,Headphones,3,26653.15,0.0,79959.45,13487.31,Credit Card,Consumer
+ORD-00761,2023-12-22,CUST-0086,Central,Madhya Pradesh,Furniture,Storage,Storage Rack,1,1991.38,0.05,1891.81,216.51,Debit Card,Consumer
+ORD-00762,2024-04-24,CUST-0126,North,Haryana,Technology,Accessories,Headphones,3,36979.94,0.05,105392.83,8107.04,Debit Card,Consumer
+ORD-00763,2024-12-15,CUST-0219,West,Maharashtra,Office Supplies,Writing,Ball Pen Set,8,84.72,0.05,643.87,125.64,Net Banking,Small Business
+ORD-00764,2024-11-13,CUST-0228,West,Gujarat,Furniture,Storage,Filing Cabinet,3,11493.38,0.0,34480.14,5500.22,Credit Card,Consumer
+ORD-00765,2025-11-04,CUST-0216,Central,Madhya Pradesh,Office Supplies,Binders,Ring Binder,5,553.62,0.05,2629.69,575.86,Cash,Consumer
+ORD-00766,2025-12-18,CUST-0071,Central,Uttar Pradesh,Office Supplies,Paper,Sticky Notes,7,733.35,0.05,4876.78,851.5,Cash,Corporate
+ORD-00767,2024-12-17,CUST-0182,North,Haryana,Office Supplies,Writing,Highlighter,1,333.91,0.0,333.91,91.2,Cash,Corporate
+ORD-00768,2023-10-13,CUST-0015,South,Tamil Nadu,Technology,Accessories,Keyboard,3,11195.1,0.15,28547.51,1188.0,Net Banking,Consumer
+ORD-00769,2025-02-13,CUST-0194,North,Haryana,Technology,Phones,Cordless Phone,1,41946.28,0.15,35654.34,1260.76,UPI,Consumer
+ORD-00770,2024-02-24,CUST-0277,North,Haryana,Technology,Accessories,Keyboard,8,38878.58,0.1,279925.78,12352.76,Cash,Corporate
+ORD-00771,2024-11-23,CUST-0080,West,Goa,Technology,Computers,Monitor,8,7967.73,0.1,57367.66,7960.15,Credit Card,Consumer
+ORD-00772,2024-09-23,CUST-0280,Central,Uttar Pradesh,Office Supplies,Paper,Notebook,7,182.87,0.05,1216.09,285.72,Debit Card,Consumer
+ORD-00773,2024-02-01,CUST-0089,West,Maharashtra,Technology,Computers,Desktop,8,50341.42,0.0,402731.36,49655.88,Debit Card,Consumer
+ORD-00774,2025-11-27,CUST-0117,South,Kerala,Furniture,Storage,Storage Rack,6,12840.34,0.2,61633.63,3472.61,Cash,Consumer
+ORD-00775,2023-03-05,CUST-0229,West,Gujarat,Technology,Computers,Laptop,5,585.52,0.0,2927.6,423.59,Net Banking,Consumer
+ORD-00776,2025-08-04,CUST-0027,West,Goa,Office Supplies,Writing,Highlighter,8,370.51,0.1,2667.67,281.39,Net Banking,Consumer
+ORD-00777,2023-03-01,CUST-0162,Central,Madhya Pradesh,Office Supplies,Writing,Marker Set,1,736.07,0.0,736.07,192.97,UPI,Small Business
+ORD-00778,2024-02-23,CUST-0011,South,Karnataka,Office Supplies,Writing,Ball Pen Set,5,871.77,0.0,4358.85,1186.18,Debit Card,Small Business
+ORD-00779,2024-07-26,CUST-0200,South,Kerala,Technology,Computers,Desktop,2,6754.51,0.1,12158.12,1025.98,Cash,Small Business
+ORD-00780,2023-07-02,CUST-0242,West,Maharashtra,Furniture,Chairs,Ergonomic Office Chair,5,2668.01,0.1,12006.05,956.6,Cash,Small Business
+ORD-00781,2023-09-12,CUST-0047,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper Pack,4,104.21,0.2,333.47,59.37,Credit Card,Consumer
+ORD-00782,2024-02-09,CUST-0023,North,Haryana,Technology,Computers,Monitor,5,14574.09,0.05,69226.93,7790.57,Credit Card,Small Business
+ORD-00783,2023-01-14,CUST-0116,West,Maharashtra,Technology,Phones,Feature Phone,7,11292.25,0.0,79045.75,8215.38,Credit Card,Corporate
+ORD-00784,2024-12-30,CUST-0075,West,Goa,Office Supplies,Binders,File Folder,1,645.79,0.0,645.79,163.53,Cash,Consumer
+ORD-00785,2025-06-05,CUST-0265,West,Maharashtra,Office Supplies,Binders,Ring Binder,7,861.62,0.15,5126.64,995.0,Credit Card,Corporate
+ORD-00786,2023-12-26,CUST-0161,South,Kerala,Office Supplies,Paper,A4 Paper Pack,8,187.57,0.05,1425.53,235.87,Net Banking,Corporate
+ORD-00787,2023-09-15,CUST-0243,West,Goa,Furniture,Tables,Office Desk,1,6370.13,0.0,6370.13,1379.8,Credit Card,Consumer
+ORD-00788,2024-09-14,CUST-0280,West,Maharashtra,Furniture,Tables,Study Table,8,11724.81,0.0,93798.48,17263.07,Net Banking,Consumer
+ORD-00789,2024-02-24,CUST-0089,South,Telangana,Technology,Computers,Monitor,5,58290.61,0.1,262307.74,3722.68,Cash,Consumer
+ORD-00790,2025-12-29,CUST-0254,South,Karnataka,Office Supplies,Binders,Document Wallet,8,283.03,0.0,2264.24,701.57,Net Banking,Consumer
+ORD-00791,2023-12-06,CUST-0147,West,Gujarat,Office Supplies,Writing,Ball Pen Set,1,397.44,0.1,357.7,67.36,Credit Card,Corporate
+ORD-00792,2023-04-14,CUST-0045,West,Maharashtra,Technology,Accessories,Headphones,4,49814.08,0.15,169367.87,23950.0,Credit Card,Corporate
+ORD-00793,2025-12-31,CUST-0043,North,Haryana,Office Supplies,Paper,Notebook,1,669.19,0.1,602.27,128.66,Cash,Small Business
+ORD-00794,2024-05-07,CUST-0007,West,Goa,Furniture,Chairs,Ergonomic Office Chair,3,10761.16,0.1,29055.13,2500.73,Net Banking,Consumer
+ORD-00795,2024-07-06,CUST-0057,North,Haryana,Furniture,Tables,Office Desk,2,881.58,0.05,1675.0,318.89,Cash,Consumer
+ORD-00796,2023-12-23,CUST-0116,Central,Madhya Pradesh,Furniture,Storage,Storage Rack,5,16640.83,0.0,83204.15,12760.51,Cash,Consumer
+ORD-00797,2023-06-28,CUST-0143,Central,Madhya Pradesh,Technology,Computers,Laptop,3,21289.22,0.1,57480.89,4094.63,Credit Card,Consumer
+ORD-00798,2025-08-26,CUST-0028,Central,Uttar Pradesh,Office Supplies,Paper,Sticky Notes,4,143.68,0.1,517.25,89.99,Credit Card,Consumer
+ORD-00799,2024-08-18,CUST-0107,West,Maharashtra,Office Supplies,Writing,Marker Set,5,380.03,0.0,1900.15,463.04,Cash,Consumer
+ORD-00800,2023-03-16,CUST-0279,West,Goa,Office Supplies,Writing,Marker Set,7,739.28,0.1,4657.46,697.44,Credit Card,Consumer
+ORD-00801,2024-12-23,CUST-0072,North,Delhi,Furniture,Chairs,Dining Chair,5,2873.46,0.0,14367.3,2723.84,Credit Card,Consumer
+ORD-00802,2024-02-14,CUST-0287,West,Goa,Technology,Phones,Smartphone,6,12990.85,0.1,70150.59,4552.63,Credit Card,Corporate
+ORD-00803,2025-02-10,CUST-0211,West,Gujarat,Office Supplies,Writing,Marker Set,4,282.21,0.15,959.51,192.15,Net Banking,Small Business
+ORD-00804,2024-07-17,CUST-0201,Central,Madhya Pradesh,Office Supplies,Writing,Marker Set,5,495.29,0.15,2104.98,184.7,Debit Card,Consumer
+ORD-00805,2025-08-26,CUST-0063,North,Punjab,Office Supplies,Writing,Highlighter,7,74.33,0.15,442.26,87.52,UPI,Consumer
+ORD-00806,2024-01-28,CUST-0104,Central,Madhya Pradesh,Technology,Phones,Feature Phone,6,59361.12,0.15,302741.71,11614.01,UPI,Consumer
+ORD-00807,2024-11-01,CUST-0016,West,Goa,Office Supplies,Paper,Notebook,5,601.38,0.1,2706.21,581.68,UPI,Consumer
+ORD-00808,2023-05-08,CUST-0057,West,Maharashtra,Office Supplies,Paper,Sticky Notes,8,723.75,0.1,5211.0,1196.75,Credit Card,Consumer
+ORD-00809,2025-01-23,CUST-0120,Central,Chhattisgarh,Furniture,Tables,Office Desk,6,17718.16,0.0,106308.96,21395.23,Cash,Consumer
+ORD-00810,2024-05-10,CUST-0232,West,Gujarat,Office Supplies,Writing,Marker Set,7,492.25,0.0,3445.75,796.53,UPI,Consumer
+ORD-00811,2023-12-08,CUST-0008,Central,Uttar Pradesh,Technology,Phones,Feature Phone,3,40266.09,0.0,120798.27,30837.97,Net Banking,Consumer
+ORD-00812,2025-10-16,CUST-0050,South,Tamil Nadu,Furniture,Storage,Bookshelf,8,7375.43,0.1,53103.1,7690.61,Net Banking,Consumer
+ORD-00813,2024-01-31,CUST-0280,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,4,57595.11,0.1,207342.4,19162.46,Net Banking,Corporate
+ORD-00814,2023-11-09,CUST-0108,West,Gujarat,Furniture,Storage,Storage Rack,4,10069.3,0.15,34235.62,4265.05,Credit Card,Consumer
+ORD-00815,2023-02-10,CUST-0210,Central,Uttar Pradesh,Technology,Accessories,Wireless Mouse,1,8672.88,0.0,8672.88,1682.9,Debit Card,Consumer
+ORD-00816,2024-12-19,CUST-0215,West,Gujarat,Office Supplies,Paper,A4 Paper Pack,3,270.23,0.05,770.16,178.16,Net Banking,Corporate
+ORD-00817,2025-09-28,CUST-0014,North,Delhi,Furniture,Storage,Bookshelf,4,14211.79,0.15,48320.09,6428.9,Net Banking,Consumer
+ORD-00818,2025-11-15,CUST-0164,Central,Chhattisgarh,Technology,Accessories,Wireless Mouse,8,5379.47,0.05,40883.97,5656.83,Credit Card,Consumer
+ORD-00819,2024-08-25,CUST-0150,South,Kerala,Furniture,Tables,Study Table,4,14318.9,0.0,57275.6,9707.98,Credit Card,Consumer
+ORD-00820,2025-09-11,CUST-0182,Central,Madhya Pradesh,Furniture,Chairs,Visitor Chair,8,15470.09,0.05,117572.68,14327.93,Net Banking,Corporate
+ORD-00821,2024-08-17,CUST-0225,West,Gujarat,Furniture,Chairs,Ergonomic Office Chair,2,9518.88,0.0,19037.76,2585.45,Debit Card,Consumer
+ORD-00822,2024-10-14,CUST-0134,South,Karnataka,Office Supplies,Paper,Sticky Notes,2,112.79,0.1,203.02,47.91,Credit Card,Small Business
+ORD-00823,2023-11-06,CUST-0147,South,Tamil Nadu,Furniture,Chairs,Ergonomic Office Chair,2,3961.58,0.05,7527.0,852.39,UPI,Small Business
+ORD-00824,2024-12-11,CUST-0264,South,Karnataka,Technology,Computers,Monitor,5,54154.86,0.1,243696.87,19850.94,UPI,Consumer
+ORD-00825,2025-08-22,CUST-0221,West,Maharashtra,Technology,Phones,Smartphone,4,59583.45,0.15,202583.73,19670.37,UPI,Consumer
+ORD-00826,2024-06-20,CUST-0081,South,Telangana,Office Supplies,Binders,File Folder,3,441.24,0.0,1323.72,352.78,Debit Card,Corporate
+ORD-00827,2023-05-05,CUST-0052,South,Kerala,Technology,Accessories,Headphones,7,52503.32,0.1,330770.92,19546.55,Debit Card,Consumer
+ORD-00828,2023-07-17,CUST-0102,South,Kerala,Office Supplies,Binders,Ring Binder,1,215.13,0.1,193.62,48.19,UPI,Corporate
+ORD-00829,2024-06-10,CUST-0110,North,Punjab,Technology,Accessories,Keyboard,1,34009.37,0.0,34009.37,4493.58,Net Banking,Consumer
+ORD-00830,2025-05-16,CUST-0141,North,Rajasthan,Technology,Phones,Cordless Phone,1,19260.04,0.0,19260.04,2666.23,UPI,Consumer
+ORD-00831,2025-09-12,CUST-0217,Central,Chhattisgarh,Office Supplies,Paper,Sticky Notes,1,124.07,0.1,111.66,28.14,Debit Card,Corporate
+ORD-00832,2024-05-01,CUST-0109,North,Delhi,Technology,Accessories,Headphones,3,12437.59,0.05,35447.13,811.84,Net Banking,Corporate
+ORD-00833,2023-03-07,CUST-0234,South,Telangana,Technology,Phones,Feature Phone,3,35550.32,0.1,95985.86,12011.29,Debit Card,Small Business
+ORD-00834,2024-01-21,CUST-0088,North,Haryana,Technology,Accessories,Wireless Mouse,5,4080.72,0.05,19383.42,1851.6,UPI,Consumer
+ORD-00835,2023-05-02,CUST-0209,South,Kerala,Office Supplies,Writing,Marker Set,6,179.96,0.0,1079.76,256.75,UPI,Consumer
+ORD-00836,2023-10-21,CUST-0064,South,Kerala,Technology,Accessories,Headphones,2,8619.97,0.15,14653.95,918.25,Cash,Small Business
+ORD-00837,2023-05-04,CUST-0171,North,Haryana,Technology,Accessories,Keyboard,3,3787.76,0.0,11363.28,1622.32,Cash,Consumer
+ORD-00838,2023-12-19,CUST-0265,South,Karnataka,Office Supplies,Writing,Highlighter,5,290.25,0.15,1233.56,197.77,Net Banking,Consumer
+ORD-00839,2023-02-10,CUST-0122,Central,Madhya Pradesh,Technology,Phones,Smartphone,8,57480.37,0.1,413858.66,28893.88,Net Banking,Corporate
+ORD-00840,2025-12-11,CUST-0215,Central,Chhattisgarh,Furniture,Chairs,Dining Chair,8,652.51,0.15,4437.07,316.9,UPI,Consumer
+ORD-00841,2024-08-30,CUST-0181,Central,Madhya Pradesh,Office Supplies,Binders,Ring Binder,4,717.87,0.05,2727.91,624.54,Net Banking,Corporate
+ORD-00842,2025-06-08,CUST-0200,North,Punjab,Technology,Accessories,Headphones,1,53422.17,0.1,48079.95,4492.22,Credit Card,Corporate
+ORD-00843,2024-07-15,CUST-0005,South,Tamil Nadu,Technology,Phones,Cordless Phone,1,63997.98,0.1,57598.18,4303.43,Net Banking,Corporate
+ORD-00844,2025-03-24,CUST-0083,Central,Madhya Pradesh,Technology,Computers,Monitor,1,50000.82,0.1,45000.74,3303.94,Debit Card,Corporate
+ORD-00845,2023-12-17,CUST-0204,North,Punjab,Office Supplies,Paper,Sticky Notes,5,764.76,0.1,3441.42,801.02,UPI,Consumer
+ORD-00846,2025-07-07,CUST-0282,North,Delhi,Office Supplies,Binders,Document Wallet,4,72.57,0.05,275.77,71.87,Net Banking,Consumer
+ORD-00847,2024-09-19,CUST-0217,North,Delhi,Furniture,Storage,Filing Cabinet,5,17111.56,0.05,81279.91,11465.81,Net Banking,Consumer
+ORD-00848,2024-02-26,CUST-0208,South,Telangana,Office Supplies,Paper,A4 Paper Pack,3,85.49,0.0,256.47,56.94,Net Banking,Consumer
+ORD-00849,2025-05-19,CUST-0132,North,Haryana,Furniture,Tables,Study Table,2,13830.83,0.1,24895.49,3439.91,Debit Card,Consumer
+ORD-00850,2024-05-09,CUST-0127,Central,Chhattisgarh,Office Supplies,Writing,Highlighter,5,156.45,0.1,704.02,160.96,Cash,Consumer
+ORD-00851,2024-05-27,CUST-0169,South,Kerala,Furniture,Storage,Storage Rack,3,7527.49,0.05,21453.35,3147.25,Net Banking,Small Business
+ORD-00852,2025-07-21,CUST-0224,South,Kerala,Office Supplies,Binders,Document Wallet,5,422.97,0.0,2114.85,490.7,Debit Card,Corporate
+ORD-00853,2024-03-23,CUST-0090,South,Tamil Nadu,Technology,Phones,Smartphone,5,27690.37,0.0,138451.85,10476.84,Debit Card,Consumer
+ORD-00854,2024-08-01,CUST-0010,South,Kerala,Furniture,Chairs,Dining Chair,1,3300.78,0.1,2970.7,357.5,Debit Card,Consumer
+ORD-00855,2024-04-21,CUST-0079,Central,Madhya Pradesh,Technology,Accessories,Keyboard,1,43381.99,0.1,39043.79,2601.38,Credit Card,Consumer
+ORD-00856,2024-04-24,CUST-0077,West,Maharashtra,Technology,Phones,Cordless Phone,4,50049.98,0.0,200199.92,38905.42,UPI,Consumer
+ORD-00857,2024-10-19,CUST-0256,West,Goa,Technology,Computers,Laptop,8,17470.23,0.0,139761.84,17597.32,Debit Card,Consumer
+ORD-00858,2024-04-27,CUST-0164,South,Karnataka,Office Supplies,Binders,File Folder,1,672.48,0.0,672.48,184.24,Debit Card,Consumer
+ORD-00859,2024-08-16,CUST-0171,South,Kerala,Office Supplies,Paper,Sticky Notes,1,537.02,0.1,483.32,101.25,Net Banking,Small Business
+ORD-00860,2025-09-23,CUST-0087,West,Maharashtra,Office Supplies,Binders,Document Wallet,1,399.3,0.0,399.3,107.57,Credit Card,Consumer
+ORD-00861,2024-11-26,CUST-0037,West,Gujarat,Office Supplies,Writing,Ball Pen Set,4,274.66,0.0,1098.64,326.36,Credit Card,Small Business
+ORD-00862,2025-11-10,CUST-0135,West,Goa,Furniture,Chairs,Ergonomic Office Chair,6,2042.94,0.1,11031.88,1003.47,Credit Card,Small Business
+ORD-00863,2024-07-07,CUST-0258,South,Karnataka,Office Supplies,Paper,Sticky Notes,4,286.35,0.0,1145.4,285.8,Net Banking,Corporate
+ORD-00864,2024-07-02,CUST-0259,West,Goa,Technology,Computers,Laptop,1,46408.97,0.0,46408.97,7710.09,Cash,Corporate
+ORD-00865,2023-08-02,CUST-0210,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,8,265.89,0.15,1808.05,205.08,Debit Card,Consumer
+ORD-00866,2023-02-03,CUST-0207,South,Telangana,Office Supplies,Writing,Marker Set,8,852.22,0.0,6817.76,1783.02,Cash,Consumer
+ORD-00867,2025-12-02,CUST-0187,West,Gujarat,Technology,Phones,Feature Phone,3,42941.47,0.05,122383.19,12133.96,Debit Card,Consumer
+ORD-00868,2023-06-10,CUST-0048,North,Punjab,Office Supplies,Binders,Ring Binder,4,717.54,0.15,2439.64,482.02,Net Banking,Corporate
+ORD-00869,2023-10-13,CUST-0094,North,Delhi,Office Supplies,Binders,File Folder,3,323.67,0.1,873.91,78.6,Credit Card,Small Business
+ORD-00870,2023-10-31,CUST-0137,North,Punjab,Furniture,Tables,Office Desk,1,2373.74,0.05,2255.05,362.11,Credit Card,Corporate
+ORD-00871,2023-10-14,CUST-0088,North,Haryana,Office Supplies,Paper,Notebook,1,450.6,0.1,405.54,92.23,Credit Card,Corporate
+ORD-00872,2024-07-01,CUST-0094,Central,Chhattisgarh,Office Supplies,Writing,Ball Pen Set,8,140.71,0.1,1013.11,152.08,UPI,Consumer
+ORD-00873,2023-10-14,CUST-0287,West,Gujarat,Office Supplies,Writing,Ball Pen Set,8,67.7,0.0,541.6,121.26,UPI,Corporate
+ORD-00874,2023-02-02,CUST-0027,Central,Chhattisgarh,Office Supplies,Binders,Document Wallet,4,267.83,0.0,1071.32,295.65,UPI,Consumer
+ORD-00875,2024-08-09,CUST-0210,West,Maharashtra,Furniture,Chairs,Visitor Chair,1,12034.2,0.15,10229.07,130.51,UPI,Consumer
+ORD-00876,2023-12-01,CUST-0239,West,Gujarat,Technology,Phones,Smartphone,7,62308.01,0.05,414348.27,61571.93,Net Banking,Corporate
+ORD-00877,2024-07-11,CUST-0047,South,Kerala,Furniture,Tables,Office Desk,1,15005.38,0.05,14255.11,1521.97,UPI,Consumer
+ORD-00878,2023-02-25,CUST-0172,North,Rajasthan,Office Supplies,Writing,Highlighter,5,799.82,0.15,3399.24,440.37,Cash,Consumer
+ORD-00879,2023-07-22,CUST-0065,West,Goa,Technology,Phones,Cordless Phone,3,12796.7,0.05,36470.6,4070.21,Cash,Consumer
+ORD-00880,2023-12-02,CUST-0014,Central,Uttar Pradesh,Furniture,Storage,Bookshelf,1,11400.04,0.0,11400.04,2300.3,Credit Card,Corporate
+ORD-00881,2024-10-16,CUST-0004,West,Maharashtra,Technology,Phones,Cordless Phone,5,33510.2,0.0,167551.0,25283.45,Debit Card,Consumer
+ORD-00882,2023-03-06,CUST-0113,North,Rajasthan,Office Supplies,Writing,Marker Set,1,801.46,0.15,681.24,125.53,Credit Card,Consumer
+ORD-00883,2025-01-27,CUST-0043,North,Delhi,Office Supplies,Writing,Ball Pen Set,3,255.71,0.1,690.42,128.79,Net Banking,Consumer
+ORD-00884,2023-06-14,CUST-0075,South,Kerala,Furniture,Tables,Study Table,2,11647.33,0.05,22129.93,3227.85,Cash,Small Business
+ORD-00885,2024-03-12,CUST-0120,West,Goa,Office Supplies,Binders,Document Wallet,6,416.3,0.15,2123.13,321.78,Net Banking,Corporate
+ORD-00886,2025-07-28,CUST-0081,West,Maharashtra,Office Supplies,Binders,Document Wallet,4,609.53,0.1,2194.31,358.89,UPI,Small Business
+ORD-00887,2023-09-12,CUST-0012,South,Karnataka,Technology,Accessories,Wireless Mouse,2,31274.0,0.2,50038.4,-706.58,Net Banking,Consumer
+ORD-00888,2025-06-12,CUST-0094,North,Delhi,Office Supplies,Paper,Sticky Notes,2,504.58,0.15,857.79,61.11,Net Banking,Corporate
+ORD-00889,2025-04-17,CUST-0174,Central,Chhattisgarh,Technology,Phones,Smartphone,5,15851.04,0.1,71329.68,3411.43,Cash,Consumer
+ORD-00890,2024-06-17,CUST-0100,South,Kerala,Office Supplies,Paper,Notebook,7,243.14,0.05,1616.88,391.03,Net Banking,Consumer
+ORD-00891,2023-01-02,CUST-0014,Central,Uttar Pradesh,Technology,Phones,Feature Phone,4,20926.54,0.15,71150.24,3616.59,Debit Card,Consumer
+ORD-00892,2024-05-16,CUST-0205,Central,Chhattisgarh,Furniture,Chairs,Dining Chair,8,15204.65,0.15,103391.62,14586.67,Cash,Small Business
+ORD-00893,2025-09-23,CUST-0004,North,Haryana,Office Supplies,Writing,Marker Set,8,683.66,0.1,4922.35,770.1,Debit Card,Consumer
+ORD-00894,2023-09-13,CUST-0133,North,Punjab,Office Supplies,Binders,Document Wallet,2,592.3,0.05,1125.37,248.05,Net Banking,Consumer
+ORD-00895,2024-04-10,CUST-0112,Central,Madhya Pradesh,Technology,Computers,Laptop,1,63732.77,0.05,60546.13,5089.14,Debit Card,Small Business
+ORD-00896,2025-12-20,CUST-0094,Central,Uttar Pradesh,Furniture,Storage,Bookshelf,6,17622.96,0.0,105737.76,13908.6,UPI,Consumer
+ORD-00897,2024-05-22,CUST-0222,West,Maharashtra,Office Supplies,Writing,Highlighter,5,180.5,0.0,902.5,183.86,UPI,Consumer
+ORD-00898,2024-08-02,CUST-0237,West,Goa,Furniture,Chairs,Visitor Chair,7,1855.42,0.05,12338.54,2201.79,UPI,Consumer
+ORD-00899,2023-10-12,CUST-0109,North,Haryana,Office Supplies,Paper,Sticky Notes,7,52.73,0.15,313.74,40.49,Cash,Consumer
+ORD-00900,2025-10-24,CUST-0072,South,Tamil Nadu,Office Supplies,Paper,Sticky Notes,6,140.37,0.1,758.0,103.37,Credit Card,Corporate
+ORD-00901,2025-10-31,CUST-0234,North,Punjab,Technology,Computers,Monitor,8,12900.53,0.05,98044.03,14112.07,Cash,Corporate
+ORD-00902,2025-06-22,CUST-0091,West,Gujarat,Office Supplies,Writing,Highlighter,2,726.25,0.0,1452.5,390.0,Debit Card,Consumer
+ORD-00903,2023-11-07,CUST-0193,North,Rajasthan,Technology,Phones,Smartphone,3,17039.16,0.0,51117.48,4601.89,Debit Card,Consumer
+ORD-00904,2024-07-24,CUST-0068,West,Maharashtra,Office Supplies,Writing,Ball Pen Set,2,476.16,0.1,857.09,161.19,Cash,Small Business
+ORD-00905,2024-03-05,CUST-0093,North,Rajasthan,Furniture,Storage,Bookshelf,6,6533.55,0.1,35281.17,3397.34,Credit Card,Consumer
+ORD-00906,2024-03-06,CUST-0071,North,Haryana,Office Supplies,Binders,Document Wallet,2,206.1,0.2,329.76,39.11,Debit Card,Consumer
+ORD-00907,2024-08-14,CUST-0289,Central,Madhya Pradesh,Office Supplies,Writing,Marker Set,6,527.35,0.05,3005.89,661.17,Cash,Consumer
+ORD-00908,2024-03-28,CUST-0057,Central,Madhya Pradesh,Technology,Phones,Cordless Phone,6,24459.67,0.1,132082.22,8523.83,Cash,Small Business
+ORD-00909,2024-11-15,CUST-0282,Central,Madhya Pradesh,Office Supplies,Writing,Highlighter,6,481.66,0.0,2889.96,845.47,Credit Card,Consumer
+ORD-00910,2024-02-11,CUST-0253,Central,Chhattisgarh,Furniture,Storage,Filing Cabinet,8,5754.38,0.05,43733.29,4072.45,Cash,Small Business
+ORD-00911,2023-09-17,CUST-0050,South,Tamil Nadu,Office Supplies,Writing,Highlighter,2,558.21,0.0,1116.42,337.68,Debit Card,Consumer
+ORD-00912,2025-10-06,CUST-0242,West,Goa,Technology,Computers,Monitor,1,21485.66,0.0,21485.66,3107.22,Cash,Consumer
+ORD-00913,2025-10-09,CUST-0003,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper Pack,5,211.67,0.1,952.51,194.96,UPI,Small Business
+ORD-00914,2025-11-15,CUST-0009,North,Haryana,Office Supplies,Writing,Marker Set,1,81.45,0.2,65.16,6.89,Net Banking,Consumer
+ORD-00915,2024-03-08,CUST-0183,North,Delhi,Furniture,Tables,Office Desk,5,1415.29,0.0,7076.45,1117.14,Net Banking,Corporate
+ORD-00916,2024-09-13,CUST-0226,West,Maharashtra,Office Supplies,Binders,Ring Binder,1,690.76,0.05,656.22,158.5,Net Banking,Small Business
+ORD-00917,2025-03-12,CUST-0117,West,Gujarat,Office Supplies,Binders,Document Wallet,6,199.31,0.0,1195.86,241.12,UPI,Small Business
+ORD-00918,2025-03-30,CUST-0157,South,Telangana,Furniture,Tables,Office Desk,7,7893.45,0.15,46966.03,2952.22,Debit Card,Consumer
+ORD-00919,2024-03-15,CUST-0221,North,Punjab,Technology,Accessories,Wireless Mouse,2,11106.92,0.15,18881.76,1888.65,Credit Card,Corporate
+ORD-00920,2024-03-30,CUST-0282,West,Goa,Technology,Computers,Laptop,7,44807.67,0.1,282288.32,18712.61,UPI,Consumer
+ORD-00921,2025-04-04,CUST-0126,West,Goa,Technology,Computers,Laptop,7,30294.44,0.0,212061.08,34976.31,Cash,Consumer
+ORD-00922,2023-12-04,CUST-0108,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper Pack,2,57.05,0.0,114.1,26.65,Net Banking,Small Business
+ORD-00923,2023-03-11,CUST-0228,South,Tamil Nadu,Technology,Computers,Laptop,8,35484.59,0.15,241295.21,25366.2,Credit Card,Corporate
+ORD-00924,2024-12-02,CUST-0052,Central,Uttar Pradesh,Office Supplies,Writing,Marker Set,1,196.84,0.0,196.84,42.58,Credit Card,Corporate
+ORD-00925,2023-06-29,CUST-0277,North,Rajasthan,Furniture,Chairs,Dining Chair,4,13336.63,0.1,48011.87,6803.17,Credit Card,Corporate
+ORD-00926,2023-02-25,CUST-0219,Central,Uttar Pradesh,Office Supplies,Writing,Ball Pen Set,1,50.15,0.15,42.63,6.88,Net Banking,Consumer
+ORD-00927,2025-09-08,CUST-0211,South,Telangana,Office Supplies,Paper,Sticky Notes,4,130.5,0.0,522.0,126.88,Net Banking,Consumer
+ORD-00928,2025-04-09,CUST-0100,North,Punjab,Technology,Computers,Monitor,3,7996.07,0.0,23988.21,2214.78,Debit Card,Consumer
+ORD-00929,2025-03-03,CUST-0117,North,Delhi,Technology,Phones,Feature Phone,2,37575.01,0.15,63877.52,3315.98,Debit Card,Consumer
+ORD-00930,2024-02-27,CUST-0170,Central,Uttar Pradesh,Furniture,Storage,Bookshelf,3,3508.11,0.2,8419.46,1107.43,Debit Card,Consumer
+ORD-00931,2023-03-08,CUST-0217,Central,Chhattisgarh,Technology,Accessories,Keyboard,4,45665.72,0.05,173529.74,15689.09,Cash,Small Business
+ORD-00932,2025-07-03,CUST-0090,West,Goa,Technology,Accessories,Wireless Mouse,5,38339.9,0.15,162944.57,16667.45,UPI,Corporate
+ORD-00933,2024-11-29,CUST-0088,West,Goa,Office Supplies,Writing,Highlighter,3,465.14,0.0,1395.42,299.77,Net Banking,Small Business
+ORD-00934,2025-07-12,CUST-0045,West,Goa,Technology,Phones,Smartphone,1,18388.96,0.1,16550.06,883.27,Credit Card,Consumer
+ORD-00935,2023-01-09,CUST-0135,South,Kerala,Furniture,Tables,Coffee Table,2,10866.96,0.0,21733.92,3837.97,Cash,Corporate
+ORD-00936,2023-07-08,CUST-0003,South,Kerala,Technology,Accessories,Headphones,2,60955.23,0.1,109719.41,4800.13,Credit Card,Consumer
+ORD-00937,2023-05-02,CUST-0178,West,Goa,Furniture,Chairs,Dining Chair,3,12400.83,0.1,33482.24,2853.06,UPI,Consumer
+ORD-00938,2025-09-05,CUST-0011,North,Rajasthan,Furniture,Tables,Study Table,3,17163.37,0.1,46341.1,6723.19,Net Banking,Corporate
+ORD-00939,2024-03-03,CUST-0228,South,Telangana,Office Supplies,Paper,Notebook,1,468.2,0.05,444.79,103.0,Credit Card,Consumer
+ORD-00940,2023-09-11,CUST-0018,Central,Chhattisgarh,Technology,Computers,Laptop,4,18575.5,0.1,66871.8,8331.08,Credit Card,Corporate
+ORD-00941,2025-04-27,CUST-0231,Central,Madhya Pradesh,Furniture,Tables,Coffee Table,4,10136.41,0.15,34463.79,3143.27,UPI,Corporate
+ORD-00942,2025-08-30,CUST-0004,Central,Chhattisgarh,Furniture,Tables,Coffee Table,1,7573.53,0.1,6816.18,752.28,UPI,Small Business
+ORD-00943,2023-06-27,CUST-0103,Central,Uttar Pradesh,Furniture,Storage,Bookshelf,7,14108.57,0.1,88883.99,9248.44,Credit Card,Consumer
+ORD-00944,2024-08-02,CUST-0172,South,Karnataka,Office Supplies,Binders,Document Wallet,3,280.6,0.05,799.71,141.71,Credit Card,Consumer
+ORD-00945,2024-11-07,CUST-0148,South,Kerala,Furniture,Storage,Filing Cabinet,4,2349.28,0.05,8927.26,1526.56,Debit Card,Consumer
+ORD-00946,2023-10-18,CUST-0274,Central,Chhattisgarh,Office Supplies,Paper,Sticky Notes,6,681.47,0.1,3679.94,748.25,UPI,Small Business
+ORD-00947,2023-05-03,CUST-0172,Central,Chhattisgarh,Furniture,Storage,Bookshelf,6,17106.09,0.0,102636.54,22665.14,UPI,Consumer
+ORD-00948,2024-08-26,CUST-0101,West,Goa,Technology,Accessories,Keyboard,8,48549.34,0.1,349555.25,41274.73,Cash,Corporate
+ORD-00949,2025-01-12,CUST-0273,North,Rajasthan,Office Supplies,Paper,Sticky Notes,3,156.67,0.1,423.01,71.27,Net Banking,Consumer
+ORD-00950,2024-02-08,CUST-0249,North,Delhi,Office Supplies,Paper,A4 Paper Pack,4,391.49,0.15,1331.07,263.65,Cash,Corporate
+ORD-00951,2025-11-08,CUST-0191,North,Haryana,Office Supplies,Writing,Highlighter,4,378.18,0.05,1437.08,296.03,Credit Card,Corporate
+ORD-00952,2023-01-03,CUST-0145,Central,Madhya Pradesh,Technology,Phones,Feature Phone,3,34851.46,0.15,88871.22,-986.32,UPI,Consumer
+ORD-00953,2025-08-13,CUST-0096,South,Tamil Nadu,Office Supplies,Paper,Notebook,4,67.87,0.05,257.91,69.37,Cash,Corporate
+ORD-00954,2023-02-25,CUST-0139,West,Gujarat,Technology,Phones,Feature Phone,7,34977.93,0.0,244845.51,24477.19,Cash,Consumer
+ORD-00955,2023-06-19,CUST-0259,West,Maharashtra,Office Supplies,Binders,Ring Binder,3,171.26,0.1,462.4,91.95,UPI,Consumer
+ORD-00956,2025-03-07,CUST-0039,West,Gujarat,Technology,Accessories,Headphones,7,11778.02,0.15,70079.22,3285.75,UPI,Corporate
+ORD-00957,2024-03-26,CUST-0100,South,Tamil Nadu,Furniture,Storage,Bookshelf,3,16347.74,0.15,41686.74,3985.35,Debit Card,Consumer
+ORD-00958,2024-03-06,CUST-0040,West,Gujarat,Furniture,Chairs,Dining Chair,6,5055.54,0.05,28816.58,4220.07,Credit Card,Small Business
+ORD-00959,2025-01-20,CUST-0004,Central,Madhya Pradesh,Technology,Phones,Smartphone,6,24815.24,0.0,148891.44,28470.24,Cash,Consumer
+ORD-00960,2023-08-16,CUST-0012,South,Kerala,Office Supplies,Binders,Ring Binder,3,329.12,0.0,987.36,229.23,Debit Card,Consumer
+ORD-00961,2023-03-25,CUST-0149,North,Punjab,Furniture,Storage,Storage Rack,7,16664.35,0.1,104985.4,11163.25,Cash,Consumer
+ORD-00962,2023-07-19,CUST-0011,Central,Chhattisgarh,Furniture,Chairs,Dining Chair,4,17746.15,0.0,70984.6,14171.09,Cash,Corporate
+ORD-00963,2025-05-01,CUST-0221,West,Goa,Office Supplies,Paper,A4 Paper Pack,5,559.15,0.15,2376.39,290.97,UPI,Corporate
+ORD-00964,2023-12-24,CUST-0032,West,Maharashtra,Furniture,Chairs,Visitor Chair,5,9354.84,0.0,46774.2,7846.15,Cash,Consumer
+ORD-00965,2023-10-30,CUST-0210,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,4,7559.08,0.05,28724.5,4221.42,Credit Card,Consumer
+ORD-00966,2024-01-19,CUST-0117,Central,Uttar Pradesh,Furniture,Tables,Study Table,2,1120.53,0.1,2016.95,255.63,Cash,Corporate
+ORD-00967,2024-08-05,CUST-0088,North,Delhi,Furniture,Tables,Study Table,1,1482.12,0.0,1482.12,314.85,Debit Card,Corporate
+ORD-00968,2024-01-29,CUST-0034,North,Rajasthan,Technology,Accessories,Headphones,6,64368.09,0.0,386208.54,48100.25,Credit Card,Consumer
+ORD-00969,2024-08-12,CUST-0236,South,Tamil Nadu,Technology,Computers,Monitor,7,17992.86,0.0,125950.02,18909.14,Cash,Consumer
+ORD-00970,2024-03-16,CUST-0001,South,Telangana,Furniture,Storage,Storage Rack,6,10428.43,0.1,56313.52,5326.07,Cash,Consumer
+ORD-00971,2023-05-31,CUST-0148,South,Telangana,Technology,Computers,Monitor,3,53931.11,0.0,161793.33,23822.45,UPI,Consumer
+ORD-00972,2024-12-30,CUST-0033,Central,Madhya Pradesh,Technology,Phones,Smartphone,2,17727.27,0.05,33681.81,3207.57,Cash,Small Business
+ORD-00973,2025-01-14,CUST-0020,Central,Uttar Pradesh,Furniture,Storage,Bookshelf,5,17448.76,0.1,78519.42,7157.78,UPI,Consumer
+ORD-00974,2023-06-22,CUST-0144,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper Pack,4,548.49,0.2,1755.17,247.67,Cash,Consumer
+ORD-00975,2025-08-28,CUST-0167,Central,Uttar Pradesh,Office Supplies,Binders,Ring Binder,7,742.39,0.15,4417.22,832.59,Cash,Consumer
+ORD-00976,2024-03-24,CUST-0222,North,Haryana,Technology,Accessories,Keyboard,3,9033.61,0.0,27100.83,3628.39,UPI,Consumer
+ORD-00977,2025-09-23,CUST-0116,North,Rajasthan,Technology,Computers,Laptop,3,51306.96,0.15,130832.75,12843.42,Net Banking,Consumer
+ORD-00978,2025-05-18,CUST-0018,Central,Chhattisgarh,Office Supplies,Binders,Ring Binder,5,781.19,0.1,3515.36,639.88,Credit Card,Consumer
+ORD-00979,2025-03-01,CUST-0218,West,Gujarat,Office Supplies,Writing,Highlighter,1,791.99,0.2,633.59,84.54,Net Banking,Consumer
+ORD-00980,2023-03-31,CUST-0282,South,Telangana,Furniture,Tables,Office Desk,3,7326.92,0.1,19782.68,3508.99,UPI,Corporate
+ORD-00981,2025-05-03,CUST-0067,Central,Madhya Pradesh,Furniture,Tables,Study Table,3,10983.87,0.1,29656.45,4620.79,Debit Card,Corporate
+ORD-00982,2024-10-16,CUST-0090,Central,Chhattisgarh,Technology,Phones,Smartphone,6,9016.94,0.05,51396.56,5298.48,Net Banking,Small Business
+ORD-00983,2025-07-24,CUST-0152,West,Maharashtra,Furniture,Tables,Study Table,8,7279.88,0.1,52415.14,7717.8,Debit Card,Consumer
+ORD-00984,2025-08-16,CUST-0117,West,Gujarat,Technology,Accessories,Keyboard,2,35827.14,0.0,71654.28,9428.45,UPI,Consumer
+ORD-00985,2025-03-02,CUST-0036,West,Goa,Office Supplies,Binders,Ring Binder,2,456.98,0.15,776.87,126.9,UPI,Consumer
+ORD-00986,2023-02-09,CUST-0212,West,Maharashtra,Furniture,Chairs,Dining Chair,5,14096.13,0.1,63432.58,11029.88,Cash,Consumer
+ORD-00987,2023-12-17,CUST-0126,Central,Uttar Pradesh,Furniture,Tables,Study Table,8,5798.82,0.0,46390.56,7866.49,Net Banking,Corporate
+ORD-00988,2025-06-10,CUST-0256,South,Tamil Nadu,Office Supplies,Writing,Ball Pen Set,1,383.93,0.05,364.73,63.43,Credit Card,Consumer
+ORD-00989,2024-08-09,CUST-0271,North,Haryana,Technology,Computers,Desktop,6,17340.35,0.0,104042.1,12623.47,Cash,Consumer
+ORD-00990,2024-05-29,CUST-0248,South,Telangana,Furniture,Chairs,Dining Chair,5,8205.27,0.1,36923.72,6429.39,Credit Card,Consumer
+ORD-00991,2025-06-06,CUST-0259,West,Gujarat,Technology,Phones,Smartphone,6,62509.77,0.2,300046.9,2045.67,UPI,Consumer
+ORD-00992,2025-04-18,CUST-0284,North,Rajasthan,Furniture,Chairs,Ergonomic Office Chair,3,1706.67,0.1,4608.01,435.97,UPI,Corporate
+ORD-00993,2023-12-28,CUST-0217,North,Punjab,Furniture,Chairs,Ergonomic Office Chair,4,9270.07,0.2,29664.22,1265.64,Credit Card,Corporate
+ORD-00994,2024-02-16,CUST-0195,West,Gujarat,Furniture,Tables,Office Desk,8,4765.96,0.1,34314.91,3450.28,Credit Card,Consumer
+ORD-00995,2025-08-07,CUST-0254,West,Gujarat,Technology,Computers,Monitor,4,34848.94,0.05,132425.97,19955.56,UPI,Consumer
+ORD-00996,2024-11-16,CUST-0098,West,Maharashtra,Furniture,Chairs,Visitor Chair,3,13045.2,0.05,37178.82,6918.39,Cash,Corporate
+ORD-00997,2023-02-04,CUST-0275,North,Haryana,Office Supplies,Binders,Ring Binder,1,879.78,0.05,835.79,184.07,UPI,Consumer
+ORD-00998,2024-05-23,CUST-0219,West,Gujarat,Technology,Computers,Monitor,3,54388.74,0.2,130532.98,2318.22,Net Banking,Consumer
+ORD-00999,2023-05-10,CUST-0197,Central,Uttar Pradesh,Furniture,Tables,Study Table,7,12845.43,0.05,85422.11,14392.24,UPI,Consumer
+ORD-01000,2025-07-14,CUST-0187,West,Goa,Office Supplies,Paper,A4 Paper Pack,2,877.57,0.1,1579.63,293.47,Cash,Corporate
+ORD-01001,2025-03-03,CUST-0009,South,Tamil Nadu,Office Supplies,Binders,Document Wallet,7,452.39,0.05,3008.39,660.06,Net Banking,Consumer
+ORD-01002,2025-08-30,CUST-0167,South,Karnataka,Technology,Accessories,Headphones,1,26038.21,0.05,24736.3,1799.5,Net Banking,Consumer
+ORD-01003,2024-02-04,CUST-0002,West,Gujarat,Furniture,Storage,Bookshelf,6,2937.93,0.1,15864.82,1340.59,UPI,Consumer
+ORD-01004,2024-09-28,CUST-0083,Central,Uttar Pradesh,Office Supplies,Binders,File Folder,4,107.6,0.15,365.84,71.55,Net Banking,Small Business
+ORD-01005,2025-07-28,CUST-0055,South,Telangana,Office Supplies,Paper,A4 Paper Pack,8,756.31,0.15,5142.91,647.32,Cash,Consumer
+ORD-01006,2024-01-16,CUST-0204,North,Haryana,Technology,Phones,Feature Phone,2,43992.54,0.0,87985.08,13737.72,Cash,Corporate
+ORD-01007,2023-02-03,CUST-0174,Central,Chhattisgarh,Furniture,Tables,Coffee Table,6,12542.59,0.0,75255.54,17355.51,Credit Card,Consumer
+ORD-01008,2025-06-17,CUST-0278,West,Maharashtra,Furniture,Chairs,Ergonomic Office Chair,5,5160.25,0.05,24511.19,3052.95,Cash,Consumer
+ORD-01009,2024-05-20,CUST-0081,North,Delhi,Furniture,Chairs,Ergonomic Office Chair,7,10999.17,0.05,73144.48,9749.6,Net Banking,Consumer
+ORD-01010,2025-03-10,CUST-0094,West,Gujarat,Technology,Phones,Cordless Phone,8,47536.29,0.0,380290.32,65087.28,Net Banking,Consumer
+ORD-01011,2024-04-20,CUST-0043,South,Kerala,Technology,Computers,Desktop,1,30975.53,0.15,26329.2,1688.6,Debit Card,Corporate
+ORD-01012,2024-01-18,CUST-0209,West,Goa,Office Supplies,Paper,Sticky Notes,8,788.79,0.15,5363.77,1097.77,Credit Card,Corporate
+ORD-01013,2024-04-05,CUST-0124,North,Punjab,Office Supplies,Paper,A4 Paper Pack,1,668.74,0.1,601.87,123.94,Cash,Consumer
+ORD-01014,2025-10-31,CUST-0164,West,Gujarat,Technology,Computers,Laptop,1,28444.02,0.0,28444.02,2993.11,UPI,Corporate
+ORD-01015,2024-01-14,CUST-0058,North,Delhi,Technology,Phones,Feature Phone,2,7556.41,0.05,14357.18,1578.89,Net Banking,Consumer
+ORD-01016,2024-03-22,CUST-0003,Central,Chhattisgarh,Technology,Phones,Smartphone,2,15152.4,0.0,30304.8,5619.74,Cash,Consumer
+ORD-01017,2023-06-28,CUST-0113,North,Punjab,Technology,Computers,Desktop,8,8318.31,0.0,66546.48,8897.03,Cash,Consumer
+ORD-01018,2024-06-26,CUST-0137,North,Delhi,Office Supplies,Writing,Highlighter,1,454.2,0.1,408.78,75.49,Debit Card,Consumer
+ORD-01019,2025-03-28,CUST-0143,South,Tamil Nadu,Office Supplies,Paper,Sticky Notes,4,886.99,0.1,3193.16,629.29,Cash,Consumer
+ORD-01020,2023-06-10,CUST-0081,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,2,31762.29,0.1,57172.12,7428.47,Credit Card,Consumer
+ORD-01021,2023-02-01,CUST-0279,North,Delhi,Office Supplies,Writing,Marker Set,1,336.48,0.15,286.01,47.98,Debit Card,Consumer
+ORD-01022,2023-04-30,CUST-0268,Central,Chhattisgarh,Office Supplies,Writing,Marker Set,4,147.34,0.0,589.36,123.7,Net Banking,Small Business
+ORD-01023,2024-01-01,CUST-0294,Central,Chhattisgarh,Furniture,Chairs,Visitor Chair,1,6236.74,0.1,5613.07,628.78,Net Banking,Small Business
+ORD-01024,2025-05-18,CUST-0230,Central,Chhattisgarh,Office Supplies,Paper,Notebook,6,87.35,0.1,471.69,95.04,UPI,Consumer
+ORD-01025,2023-11-20,CUST-0289,North,Punjab,Office Supplies,Paper,Sticky Notes,1,866.09,0.05,822.79,184.51,Credit Card,Consumer
+ORD-01026,2023-09-22,CUST-0270,North,Punjab,Technology,Accessories,Keyboard,2,53902.87,0.0,107805.74,12963.44,Cash,Corporate
+ORD-01027,2024-04-16,CUST-0220,Central,Madhya Pradesh,Technology,Phones,Cordless Phone,5,25628.79,0.2,102515.16,4579.99,Cash,Small Business
+ORD-01028,2025-09-21,CUST-0218,North,Delhi,Office Supplies,Paper,Notebook,4,772.02,0.15,2624.87,372.1,Cash,Small Business
+ORD-01029,2023-02-20,CUST-0168,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,2,774.75,0.0,1549.5,436.44,Net Banking,Small Business
+ORD-01030,2025-08-14,CUST-0055,North,Punjab,Furniture,Chairs,Dining Chair,5,2290.48,0.1,10307.16,1133.2,UPI,Consumer
+ORD-01031,2024-03-05,CUST-0040,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper Pack,5,169.12,0.0,845.6,199.73,Cash,Consumer
+ORD-01032,2023-01-15,CUST-0169,North,Rajasthan,Technology,Phones,Smartphone,4,37156.52,0.05,141194.78,7055.04,Net Banking,Consumer
+ORD-01033,2024-09-18,CUST-0127,West,Gujarat,Furniture,Storage,Filing Cabinet,8,4945.49,0.0,39563.92,6068.98,Net Banking,Consumer
+ORD-01034,2023-05-29,CUST-0225,West,Goa,Furniture,Chairs,Visitor Chair,4,5443.03,0.1,19594.91,3019.52,Debit Card,Consumer
+ORD-01035,2023-02-21,CUST-0113,West,Maharashtra,Furniture,Storage,Filing Cabinet,4,11417.63,0.05,43386.99,5368.96,Cash,Corporate
+ORD-01036,2023-02-28,CUST-0106,North,Punjab,Technology,Phones,Feature Phone,2,20454.93,0.0,40909.86,6579.55,Credit Card,Corporate
+ORD-01037,2023-01-25,CUST-0208,Central,Uttar Pradesh,Technology,Phones,Cordless Phone,6,45471.5,0.1,245546.1,19983.12,Credit Card,Corporate
+ORD-01038,2024-10-25,CUST-0047,Central,Chhattisgarh,Technology,Computers,Monitor,5,42253.87,0.0,211269.35,26496.67,Debit Card,Corporate
+ORD-01039,2025-06-13,CUST-0062,South,Telangana,Office Supplies,Paper,A4 Paper Pack,4,640.88,0.1,2307.17,466.11,Net Banking,Consumer
+ORD-01040,2025-12-30,CUST-0039,Central,Chhattisgarh,Office Supplies,Binders,File Folder,5,219.07,0.0,1095.35,337.51,UPI,Consumer
+ORD-01041,2024-07-18,CUST-0074,North,Punjab,Technology,Accessories,Headphones,6,31221.5,0.15,159229.65,6326.81,Credit Card,Consumer
+ORD-01042,2025-03-23,CUST-0263,North,Haryana,Office Supplies,Paper,Notebook,2,213.72,0.1,384.7,89.14,Net Banking,Corporate
+ORD-01043,2024-05-23,CUST-0227,West,Goa,Office Supplies,Binders,File Folder,6,486.89,0.1,2629.21,331.83,Debit Card,Consumer
+ORD-01044,2023-09-28,CUST-0234,North,Haryana,Office Supplies,Binders,File Folder,1,340.0,0.2,272.0,27.8,Debit Card,Consumer
+ORD-01045,2023-02-07,CUST-0086,North,Haryana,Technology,Accessories,Headphones,4,3819.19,0.1,13749.08,1720.24,Cash,Corporate
+ORD-01046,2024-06-27,CUST-0195,South,Karnataka,Technology,Phones,Cordless Phone,3,54242.67,0.0,162728.01,14675.78,Debit Card,Corporate
+ORD-01047,2023-07-14,CUST-0158,Central,Uttar Pradesh,Furniture,Tables,Coffee Table,5,9560.57,0.1,43022.57,4217.35,Cash,Consumer
+ORD-01048,2023-09-29,CUST-0099,North,Haryana,Technology,Phones,Feature Phone,3,34347.08,0.0,103041.24,16118.43,Credit Card,Corporate
+ORD-01049,2023-07-16,CUST-0116,North,Haryana,Technology,Phones,Smartphone,1,13495.96,0.1,12146.36,1362.69,Net Banking,Consumer
+ORD-01050,2023-08-09,CUST-0179,Central,Madhya Pradesh,Furniture,Tables,Coffee Table,8,4623.18,0.1,33286.9,4894.58,Credit Card,Corporate
+ORD-01051,2025-12-04,CUST-0192,West,Maharashtra,Furniture,Storage,Bookshelf,3,6885.19,0.05,19622.79,3021.13,Credit Card,Corporate
+ORD-01052,2025-03-31,CUST-0025,West,Goa,Technology,Computers,Monitor,5,41587.04,0.0,207935.2,28574.36,Debit Card,Small Business
+ORD-01053,2024-10-09,CUST-0234,West,Goa,Technology,Accessories,Headphones,4,57541.61,0.0,230166.44,30836.82,UPI,Consumer
+ORD-01054,2024-11-22,CUST-0259,West,Goa,Furniture,Tables,Coffee Table,5,11639.24,0.0,58196.2,12032.24,Cash,Consumer
+ORD-01055,2024-04-23,CUST-0140,South,Karnataka,Office Supplies,Paper,A4 Paper Pack,2,544.34,0.0,1088.68,312.14,UPI,Small Business
+ORD-01056,2025-10-01,CUST-0246,West,Goa,Technology,Phones,Smartphone,7,9152.26,0.1,57659.24,4639.63,Debit Card,Consumer
+ORD-01057,2023-10-15,CUST-0150,West,Gujarat,Technology,Phones,Smartphone,1,53076.97,0.05,50423.12,6000.17,Net Banking,Consumer
+ORD-01058,2025-02-14,CUST-0262,Central,Chhattisgarh,Technology,Accessories,Headphones,2,15519.75,0.0,31039.5,6703.11,Net Banking,Consumer
+ORD-01059,2025-02-04,CUST-0288,North,Haryana,Technology,Phones,Smartphone,8,43922.03,0.05,333807.43,32049.24,Net Banking,Consumer
+ORD-01060,2024-02-03,CUST-0146,Central,Uttar Pradesh,Furniture,Tables,Study Table,6,859.42,0.1,4640.87,545.62,Cash,Corporate
+ORD-01061,2024-09-02,CUST-0097,Central,Madhya Pradesh,Furniture,Tables,Office Desk,8,11931.43,0.0,95451.44,18568.49,UPI,Corporate
+ORD-01062,2023-02-27,CUST-0048,South,Karnataka,Office Supplies,Binders,File Folder,6,654.75,0.1,3535.65,645.46,Cash,Consumer
+ORD-01063,2025-06-22,CUST-0004,South,Karnataka,Office Supplies,Paper,A4 Paper Pack,5,225.34,0.15,957.7,203.28,Credit Card,Consumer
+ORD-01064,2025-09-27,CUST-0063,West,Goa,Furniture,Storage,Storage Rack,1,2206.01,0.1,1985.41,385.85,Debit Card,Consumer
+ORD-01065,2023-08-02,CUST-0249,West,Gujarat,Office Supplies,Binders,File Folder,7,490.5,0.1,3090.15,631.12,UPI,Small Business
+ORD-01066,2025-10-30,CUST-0129,North,Haryana,Technology,Accessories,Headphones,6,23974.8,0.1,129463.92,11598.91,Credit Card,Consumer
+ORD-01067,2025-03-05,CUST-0118,Central,Uttar Pradesh,Furniture,Storage,Bookshelf,8,10918.22,0.0,87345.76,17721.61,Net Banking,Corporate
+ORD-01068,2025-11-06,CUST-0225,South,Kerala,Office Supplies,Writing,Ball Pen Set,3,343.97,0.1,928.72,162.04,Net Banking,Consumer
+ORD-01069,2025-06-05,CUST-0249,South,Tamil Nadu,Office Supplies,Paper,A4 Paper Pack,6,526.96,0.1,2845.58,600.94,Cash,Consumer
+ORD-01070,2024-04-14,CUST-0017,West,Goa,Furniture,Storage,Storage Rack,5,9211.66,0.05,43755.39,4896.24,Debit Card,Corporate
+ORD-01071,2025-06-17,CUST-0213,West,Goa,Furniture,Tables,Coffee Table,4,15494.65,0.05,58879.67,7365.59,Net Banking,Consumer
+ORD-01072,2023-03-25,CUST-0286,South,Tamil Nadu,Office Supplies,Binders,Ring Binder,5,756.23,0.1,3403.04,819.25,Net Banking,Small Business
+ORD-01073,2024-08-08,CUST-0049,West,Goa,Furniture,Chairs,Visitor Chair,5,16738.19,0.05,79506.4,17916.04,Debit Card,Corporate
+ORD-01074,2025-11-15,CUST-0272,North,Punjab,Technology,Accessories,Keyboard,8,2049.02,0.0,16392.16,2445.43,UPI,Small Business
+ORD-01075,2023-07-23,CUST-0271,South,Kerala,Furniture,Chairs,Ergonomic Office Chair,1,8338.29,0.1,7504.46,1109.74,Debit Card,Consumer
+ORD-01076,2023-03-13,CUST-0002,West,Gujarat,Technology,Phones,Smartphone,3,14513.23,0.0,43539.69,7281.04,Credit Card,Consumer
+ORD-01077,2024-11-02,CUST-0022,North,Delhi,Office Supplies,Binders,Document Wallet,4,717.08,0.15,2438.07,439.97,Net Banking,Corporate
+ORD-01078,2025-07-16,CUST-0255,South,Karnataka,Technology,Phones,Smartphone,5,5833.58,0.0,29167.9,5973.23,Net Banking,Consumer
+ORD-01079,2023-10-02,CUST-0211,Central,Uttar Pradesh,Office Supplies,Writing,Highlighter,3,239.02,0.1,645.35,119.41,Credit Card,Consumer
+ORD-01080,2023-01-27,CUST-0083,West,Goa,Furniture,Chairs,Ergonomic Office Chair,6,10820.72,0.0,64924.32,5256.75,Cash,Consumer
+ORD-01081,2025-05-18,CUST-0125,North,Punjab,Technology,Computers,Desktop,1,52275.46,0.1,47047.91,3618.64,Net Banking,Consumer
+ORD-01082,2024-10-23,CUST-0258,Central,Chhattisgarh,Office Supplies,Binders,Ring Binder,8,47.56,0.05,361.46,54.89,UPI,Consumer
+ORD-01083,2024-05-11,CUST-0289,South,Kerala,Furniture,Chairs,Visitor Chair,8,5609.01,0.05,42628.48,6501.83,Cash,Corporate
+ORD-01084,2024-08-19,CUST-0124,North,Delhi,Technology,Accessories,Headphones,3,46976.03,0.1,126835.28,15855.38,UPI,Corporate
+ORD-01085,2024-12-25,CUST-0016,West,Goa,Office Supplies,Binders,Ring Binder,3,479.59,0.0,1438.77,365.9,Cash,Consumer
+ORD-01086,2023-05-13,CUST-0164,South,Tamil Nadu,Furniture,Storage,Storage Rack,7,4643.98,0.0,32507.86,5570.0,UPI,Corporate
+ORD-01087,2023-02-23,CUST-0018,West,Maharashtra,Technology,Computers,Laptop,3,26386.91,0.1,71244.66,5137.95,Cash,Consumer
+ORD-01088,2025-04-21,CUST-0203,Central,Chhattisgarh,Office Supplies,Paper,A4 Paper Pack,3,413.47,0.0,1240.41,307.52,Cash,Consumer
+ORD-01089,2024-03-13,CUST-0281,North,Rajasthan,Furniture,Chairs,Ergonomic Office Chair,5,593.15,0.15,2520.89,386.48,Net Banking,Consumer
+ORD-01090,2024-06-27,CUST-0082,South,Tamil Nadu,Technology,Accessories,Wireless Mouse,4,59141.5,0.05,224737.7,26134.21,Cash,Consumer
+ORD-01091,2023-07-06,CUST-0154,South,Telangana,Office Supplies,Paper,Sticky Notes,5,37.55,0.05,178.36,44.56,Net Banking,Consumer
+ORD-01092,2024-08-29,CUST-0117,West,Maharashtra,Furniture,Storage,Filing Cabinet,5,4176.21,0.15,17748.89,1861.91,Credit Card,Consumer
+ORD-01093,2023-04-26,CUST-0074,West,Maharashtra,Office Supplies,Binders,File Folder,4,167.72,0.0,670.88,184.91,Cash,Consumer
+ORD-01094,2025-10-11,CUST-0173,Central,Uttar Pradesh,Furniture,Tables,Office Desk,4,1548.91,0.0,6195.64,1229.79,UPI,Corporate
+ORD-01095,2024-12-20,CUST-0107,North,Delhi,Office Supplies,Writing,Ball Pen Set,3,744.08,0.0,2232.24,440.63,Credit Card,Corporate
+ORD-01096,2023-05-15,CUST-0107,South,Kerala,Furniture,Chairs,Dining Chair,6,4656.1,0.1,25142.94,3792.2,Credit Card,Small Business
+ORD-01097,2024-09-21,CUST-0201,Central,Chhattisgarh,Office Supplies,Writing,Ball Pen Set,2,826.16,0.05,1569.7,356.5,Net Banking,Consumer
+ORD-01098,2025-10-06,CUST-0179,West,Goa,Office Supplies,Writing,Highlighter,3,632.85,0.0,1898.55,399.62,Cash,Consumer
+ORD-01099,2023-12-16,CUST-0175,South,Telangana,Office Supplies,Paper,Notebook,5,715.29,0.15,3039.98,654.92,Cash,Small Business
+ORD-01100,2024-03-28,CUST-0148,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,3,36786.08,0.0,110358.24,14287.13,Credit Card,Consumer
+ORD-01101,2024-12-29,CUST-0139,South,Telangana,Furniture,Chairs,Ergonomic Office Chair,6,17504.57,0.0,105027.42,22422.1,Debit Card,Consumer
+ORD-01102,2023-11-16,CUST-0218,West,Goa,Technology,Phones,Smartphone,1,57081.22,0.0,57081.22,8702.51,Cash,Corporate
+ORD-01103,2023-12-05,CUST-0196,South,Kerala,Furniture,Tables,Coffee Table,4,10528.3,0.0,42113.2,8817.61,Credit Card,Corporate
+ORD-01104,2024-06-17,CUST-0058,Central,Uttar Pradesh,Furniture,Tables,Coffee Table,7,14750.76,0.1,92929.79,9869.33,Cash,Consumer
+ORD-01105,2023-06-06,CUST-0170,Central,Uttar Pradesh,Technology,Phones,Feature Phone,5,29418.1,0.2,117672.4,3701.55,UPI,Consumer
+ORD-01106,2023-04-14,CUST-0199,South,Telangana,Furniture,Chairs,Dining Chair,6,13148.51,0.2,63112.85,1764.55,Cash,Consumer
+ORD-01107,2023-11-05,CUST-0111,South,Telangana,Office Supplies,Paper,A4 Paper Pack,4,139.5,0.0,558.0,169.17,Debit Card,Corporate
+ORD-01108,2024-01-03,CUST-0188,West,Goa,Office Supplies,Binders,Document Wallet,5,325.37,0.0,1626.85,465.48,Credit Card,Consumer
+ORD-01109,2024-02-14,CUST-0065,North,Punjab,Technology,Phones,Smartphone,2,10956.22,0.05,20816.82,969.72,Cash,Consumer
+ORD-01110,2025-12-09,CUST-0137,North,Delhi,Technology,Accessories,Wireless Mouse,2,25877.3,0.0,51754.6,4272.78,Cash,Consumer
+ORD-01111,2024-11-27,CUST-0159,Central,Madhya Pradesh,Furniture,Tables,Coffee Table,8,2305.39,0.1,16598.81,2189.44,Cash,Consumer
+ORD-01112,2023-05-22,CUST-0252,West,Maharashtra,Technology,Phones,Cordless Phone,1,14143.56,0.15,12022.03,935.23,Net Banking,Corporate
+ORD-01113,2025-12-31,CUST-0282,South,Telangana,Office Supplies,Writing,Highlighter,6,126.16,0.15,643.42,115.62,Cash,Consumer
+ORD-01114,2024-12-22,CUST-0215,North,Haryana,Furniture,Chairs,Dining Chair,3,11415.97,0.0,34247.91,4133.16,Cash,Consumer
+ORD-01115,2025-01-26,CUST-0135,West,Goa,Office Supplies,Binders,Ring Binder,3,50.25,0.05,143.21,25.24,UPI,Consumer
+ORD-01116,2024-06-14,CUST-0085,West,Gujarat,Office Supplies,Binders,Document Wallet,1,798.78,0.15,678.96,105.48,Debit Card,Small Business
+ORD-01117,2024-07-29,CUST-0113,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,6,121.9,0.15,621.69,116.3,Net Banking,Consumer
+ORD-01118,2025-02-21,CUST-0196,South,Telangana,Technology,Accessories,Wireless Mouse,5,46746.15,0.05,222044.21,17027.26,UPI,Small Business
+ORD-01119,2023-06-28,CUST-0237,Central,Uttar Pradesh,Office Supplies,Binders,Document Wallet,6,751.64,0.05,4284.35,1021.7,UPI,Consumer
+ORD-01120,2025-11-29,CUST-0136,South,Telangana,Office Supplies,Paper,Notebook,7,61.5,0.0,430.5,77.83,Net Banking,Corporate
+ORD-01121,2023-12-25,CUST-0086,North,Rajasthan,Office Supplies,Writing,Marker Set,7,277.56,0.15,1651.48,173.0,Credit Card,Consumer
+ORD-01122,2024-04-22,CUST-0087,North,Punjab,Technology,Accessories,Headphones,1,930.32,0.15,790.77,58.57,Debit Card,Consumer
+ORD-01123,2023-06-29,CUST-0036,Central,Madhya Pradesh,Furniture,Chairs,Ergonomic Office Chair,4,2717.24,0.0,10868.96,1985.69,Net Banking,Consumer
+ORD-01124,2025-07-14,CUST-0094,North,Punjab,Office Supplies,Writing,Ball Pen Set,6,450.74,0.1,2434.0,566.31,Cash,Corporate
+ORD-01125,2023-12-19,CUST-0063,South,Tamil Nadu,Furniture,Storage,Bookshelf,6,14944.38,0.0,89666.28,14923.88,Net Banking,Consumer
+ORD-01126,2025-09-10,CUST-0133,Central,Madhya Pradesh,Technology,Computers,Monitor,7,31077.5,0.0,217542.5,44452.84,Credit Card,Consumer
+ORD-01127,2023-06-10,CUST-0153,North,Punjab,Office Supplies,Binders,Ring Binder,2,677.7,0.1,1219.86,237.89,Debit Card,Consumer
+ORD-01128,2023-06-10,CUST-0250,West,Goa,Office Supplies,Binders,Document Wallet,2,806.72,0.05,1532.77,383.24,Net Banking,Consumer
+ORD-01129,2023-10-21,CUST-0095,Central,Madhya Pradesh,Office Supplies,Binders,Ring Binder,4,667.16,0.1,2401.78,289.07,Cash,Consumer
+ORD-01130,2024-01-17,CUST-0035,North,Delhi,Furniture,Storage,Bookshelf,8,10646.81,0.0,85174.48,20499.22,Net Banking,Consumer
+ORD-01131,2023-04-19,CUST-0016,South,Tamil Nadu,Technology,Computers,Laptop,4,59881.72,0.1,215574.19,17665.16,Net Banking,Corporate
+ORD-01132,2024-09-14,CUST-0298,West,Goa,Technology,Accessories,Keyboard,1,45682.62,0.05,43398.49,1632.1,Credit Card,Consumer
+ORD-01133,2025-02-10,CUST-0156,West,Maharashtra,Technology,Computers,Laptop,2,36834.75,0.1,66302.55,3385.54,UPI,Consumer
+ORD-01134,2025-02-14,CUST-0253,Central,Chhattisgarh,Office Supplies,Paper,Sticky Notes,7,606.82,0.1,3822.97,499.65,Cash,Consumer
+ORD-01135,2024-01-02,CUST-0205,North,Delhi,Technology,Accessories,Keyboard,4,49629.58,0.0,198518.32,29017.36,Credit Card,Corporate
+ORD-01136,2023-01-04,CUST-0062,Central,Madhya Pradesh,Technology,Computers,Desktop,3,19643.3,0.0,58929.9,4999.77,Credit Card,Corporate
+ORD-01137,2025-05-16,CUST-0270,West,Maharashtra,Technology,Computers,Laptop,1,60509.43,0.2,48407.54,1773.67,Credit Card,Corporate
+ORD-01138,2025-09-28,CUST-0035,Central,Madhya Pradesh,Office Supplies,Paper,Notebook,7,357.02,0.15,2124.27,315.72,UPI,Consumer
+ORD-01139,2025-05-16,CUST-0072,West,Maharashtra,Technology,Phones,Feature Phone,5,19122.84,0.0,95614.2,10883.28,Net Banking,Corporate
+ORD-01140,2024-05-29,CUST-0192,North,Punjab,Furniture,Chairs,Ergonomic Office Chair,2,13523.06,0.0,27046.12,6895.26,Cash,Corporate
+ORD-01141,2025-09-02,CUST-0159,West,Gujarat,Office Supplies,Binders,Ring Binder,3,191.07,0.15,487.23,61.47,UPI,Consumer
+ORD-01142,2024-12-30,CUST-0083,Central,Chhattisgarh,Office Supplies,Writing,Marker Set,4,83.27,0.1,299.77,63.83,Debit Card,Small Business
+ORD-01143,2025-08-10,CUST-0128,West,Maharashtra,Technology,Accessories,Keyboard,3,35804.69,0.1,96672.66,8735.44,UPI,Corporate
+ORD-01144,2025-12-30,CUST-0109,Central,Madhya Pradesh,Furniture,Tables,Office Desk,5,10517.79,0.1,47330.06,8446.45,Credit Card,Consumer
+ORD-01145,2023-09-03,CUST-0157,North,Rajasthan,Technology,Computers,Monitor,7,34307.8,0.1,216139.14,28813.66,UPI,Consumer
+ORD-01146,2025-07-15,CUST-0143,North,Delhi,Technology,Phones,Cordless Phone,1,25363.49,0.1,22827.14,2003.27,UPI,Small Business
+ORD-01147,2025-04-26,CUST-0297,South,Telangana,Office Supplies,Paper,A4 Paper Pack,4,653.41,0.2,2090.91,314.28,Net Banking,Consumer
+ORD-01148,2025-06-27,CUST-0078,West,Goa,Technology,Phones,Feature Phone,3,23519.72,0.0,70559.16,8090.91,Debit Card,Corporate
+ORD-01149,2025-01-08,CUST-0160,Central,Uttar Pradesh,Office Supplies,Writing,Marker Set,2,603.61,0.1,1086.5,250.98,Debit Card,Consumer
+ORD-01150,2024-04-21,CUST-0193,West,Goa,Furniture,Storage,Bookshelf,3,14362.76,0.05,40933.87,8220.3,Credit Card,Consumer
+ORD-01151,2024-09-11,CUST-0170,South,Karnataka,Furniture,Chairs,Visitor Chair,6,14076.89,0.0,84461.34,15556.68,UPI,Corporate
+ORD-01152,2023-12-04,CUST-0214,North,Haryana,Furniture,Storage,Storage Rack,1,13859.96,0.1,12473.96,2702.31,UPI,Consumer
+ORD-01153,2024-12-09,CUST-0127,South,Telangana,Office Supplies,Binders,File Folder,6,524.0,0.05,2986.8,797.5,Credit Card,Small Business
+ORD-01154,2024-10-02,CUST-0300,South,Kerala,Office Supplies,Writing,Ball Pen Set,8,470.18,0.0,3761.44,813.59,Cash,Consumer
+ORD-01155,2023-12-06,CUST-0202,West,Gujarat,Furniture,Chairs,Ergonomic Office Chair,3,9569.39,0.2,22966.54,2476.98,UPI,Consumer
+ORD-01156,2023-10-17,CUST-0140,North,Haryana,Furniture,Tables,Study Table,5,7916.63,0.1,35624.83,4867.29,UPI,Corporate
+ORD-01157,2023-11-07,CUST-0159,North,Punjab,Office Supplies,Paper,A4 Paper Pack,6,574.97,0.05,3277.33,681.86,Net Banking,Consumer
+ORD-01158,2024-02-22,CUST-0285,Central,Chhattisgarh,Office Supplies,Writing,Marker Set,5,294.48,0.2,1177.92,117.73,Debit Card,Consumer
+ORD-01159,2024-06-05,CUST-0088,South,Kerala,Furniture,Chairs,Ergonomic Office Chair,5,5310.02,0.15,22567.59,2071.33,UPI,Consumer
+ORD-01160,2024-11-17,CUST-0042,South,Kerala,Technology,Accessories,Wireless Mouse,7,25894.57,0.2,145009.59,6685.79,UPI,Corporate
+ORD-01161,2024-05-27,CUST-0111,South,Tamil Nadu,Office Supplies,Paper,Notebook,3,203.67,0.0,611.01,125.81,Debit Card,Corporate
+ORD-01162,2024-04-20,CUST-0054,South,Kerala,Technology,Computers,Laptop,4,31587.38,0.0,126349.52,18552.63,Net Banking,Consumer
+ORD-01163,2023-05-21,CUST-0073,North,Rajasthan,Office Supplies,Writing,Ball Pen Set,2,582.59,0.0,1165.18,195.57,Cash,Consumer
+ORD-01164,2025-08-10,CUST-0241,South,Tamil Nadu,Office Supplies,Binders,File Folder,7,813.39,0.0,5693.73,1537.92,Cash,Corporate
+ORD-01165,2025-04-29,CUST-0275,Central,Uttar Pradesh,Furniture,Storage,Bookshelf,7,11289.69,0.1,71125.05,5333.47,UPI,Consumer
+ORD-01166,2024-03-22,CUST-0210,South,Kerala,Technology,Accessories,Headphones,1,10790.55,0.15,9171.97,356.52,UPI,Corporate
+ORD-01167,2023-01-21,CUST-0098,North,Haryana,Office Supplies,Paper,Sticky Notes,2,682.0,0.05,1295.8,272.81,Debit Card,Small Business
+ORD-01168,2023-03-13,CUST-0075,West,Gujarat,Furniture,Storage,Filing Cabinet,8,12673.3,0.0,101386.4,16864.36,UPI,Consumer
+ORD-01169,2025-10-11,CUST-0279,Central,Chhattisgarh,Office Supplies,Paper,Notebook,5,862.47,0.05,4096.73,795.91,Cash,Consumer
+ORD-01170,2024-08-06,CUST-0065,West,Goa,Technology,Phones,Feature Phone,5,36275.82,0.15,154172.24,6546.06,Net Banking,Consumer
+ORD-01171,2025-05-31,CUST-0284,Central,Chhattisgarh,Office Supplies,Paper,Notebook,8,93.57,0.15,636.28,134.46,Debit Card,Corporate
+ORD-01172,2025-06-30,CUST-0139,South,Karnataka,Office Supplies,Paper,Notebook,6,181.74,0.0,1090.44,227.37,Debit Card,Consumer
+ORD-01173,2025-04-27,CUST-0222,South,Tamil Nadu,Technology,Accessories,Headphones,4,44118.18,0.05,167649.08,19681.18,UPI,Corporate
+ORD-01174,2025-01-19,CUST-0193,West,Gujarat,Technology,Computers,Desktop,3,28166.18,0.1,76048.69,2729.79,UPI,Consumer
+ORD-01175,2025-05-29,CUST-0092,South,Karnataka,Office Supplies,Binders,File Folder,4,402.69,0.05,1530.22,248.28,Debit Card,Consumer
+ORD-01176,2025-05-17,CUST-0149,North,Rajasthan,Office Supplies,Binders,Document Wallet,3,790.81,0.05,2253.81,629.49,Credit Card,Small Business
+ORD-01177,2025-08-22,CUST-0014,West,Goa,Office Supplies,Binders,Ring Binder,2,199.17,0.0,398.34,121.79,Credit Card,Consumer
+ORD-01178,2024-04-28,CUST-0297,Central,Chhattisgarh,Office Supplies,Paper,Sticky Notes,6,452.96,0.15,2310.1,308.0,Debit Card,Corporate
+ORD-01179,2023-06-30,CUST-0073,South,Karnataka,Furniture,Chairs,Visitor Chair,5,11127.08,0.0,55635.4,6820.2,Cash,Corporate
+ORD-01180,2023-12-06,CUST-0263,North,Delhi,Office Supplies,Paper,Sticky Notes,8,506.57,0.1,3647.3,646.47,Cash,Small Business
+ORD-01181,2023-10-18,CUST-0099,South,Telangana,Technology,Computers,Desktop,3,53106.54,0.0,159319.62,20035.99,Debit Card,Corporate
+ORD-01182,2025-04-12,CUST-0183,South,Karnataka,Technology,Computers,Laptop,2,45436.96,0.05,86330.22,13318.08,UPI,Corporate
+ORD-01183,2023-11-20,CUST-0196,South,Kerala,Office Supplies,Binders,Ring Binder,5,572.12,0.0,2860.6,604.05,UPI,Consumer
+ORD-01184,2024-09-21,CUST-0182,South,Kerala,Technology,Phones,Cordless Phone,2,61688.85,0.05,117208.81,13189.17,UPI,Consumer
+ORD-01185,2025-02-03,CUST-0208,South,Tamil Nadu,Office Supplies,Binders,Document Wallet,8,767.99,0.05,5836.72,1425.33,Net Banking,Consumer
+ORD-01186,2023-09-04,CUST-0150,North,Rajasthan,Office Supplies,Binders,File Folder,6,90.28,0.1,487.51,82.71,Debit Card,Corporate
+ORD-01187,2023-06-05,CUST-0004,North,Rajasthan,Office Supplies,Paper,Sticky Notes,3,384.69,0.1,1038.66,236.16,Debit Card,Small Business
+ORD-01188,2024-04-21,CUST-0103,West,Gujarat,Office Supplies,Binders,Document Wallet,7,752.44,0.05,5003.73,1167.64,Cash,Consumer
+ORD-01189,2023-07-10,CUST-0267,Central,Uttar Pradesh,Office Supplies,Paper,A4 Paper Pack,1,520.61,0.0,520.61,121.72,UPI,Small Business
+ORD-01190,2025-09-09,CUST-0094,South,Kerala,Office Supplies,Paper,Notebook,1,706.0,0.05,670.7,130.74,Cash,Small Business
+ORD-01191,2025-03-01,CUST-0278,South,Tamil Nadu,Technology,Accessories,Keyboard,1,25532.77,0.05,24256.13,1746.38,Cash,Consumer
+ORD-01192,2025-07-04,CUST-0013,South,Kerala,Office Supplies,Writing,Marker Set,3,462.23,0.05,1317.36,281.43,Credit Card,Consumer
+ORD-01193,2025-07-09,CUST-0098,West,Goa,Furniture,Storage,Filing Cabinet,5,8654.42,0.05,41108.49,5483.18,Net Banking,Consumer
+ORD-01194,2023-11-19,CUST-0175,West,Goa,Furniture,Storage,Storage Rack,1,11625.16,0.0,11625.16,2518.14,Net Banking,Corporate
+ORD-01195,2023-06-13,CUST-0031,Central,Madhya Pradesh,Technology,Phones,Feature Phone,6,38166.44,0.0,228998.64,32863.68,Debit Card,Corporate
+ORD-01196,2023-10-01,CUST-0215,Central,Uttar Pradesh,Technology,Computers,Desktop,8,17043.85,0.2,109080.64,8729.59,Cash,Consumer
+ORD-01197,2024-07-27,CUST-0111,Central,Madhya Pradesh,Furniture,Chairs,Visitor Chair,8,14785.07,0.2,94624.45,5911.35,Debit Card,Consumer
+ORD-01198,2023-10-01,CUST-0122,Central,Madhya Pradesh,Office Supplies,Binders,Document Wallet,7,118.56,0.1,746.93,159.91,Debit Card,Consumer
+ORD-01199,2024-03-02,CUST-0012,Central,Madhya Pradesh,Technology,Accessories,Wireless Mouse,6,60835.04,0.1,328509.22,21371.7,Cash,Consumer
+ORD-01200,2024-01-25,CUST-0053,South,Karnataka,Office Supplies,Paper,Sticky Notes,6,260.55,0.2,1250.64,204.46,UPI,Consumer
